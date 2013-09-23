@@ -28,15 +28,12 @@
 <div class="row tpad135 home-grad">
 	<div class="four mobile-four columns">
 		<div class="holder smooth1">
-			<a href="posters.php" target="_blank"><img class="bot-shadow rnd" src="images/posters_homepage.jpg"></a>
+			<a href="posters.php"><img class="bot-shadow rnd" src="images/posters_homepage.png"></a>
 		</div>
 	</div>
     <div class="seven columns">
 	 	<div id="featured" >
 	 	
-	 		<a href="love_the_glove.php">
-			<img class="rnd" src="images/slider1.png"></a>
-			
 			<a href="bodies.php#section11">
 			<img class="rnd" src="images/slider3.jpg"></a>
 			
