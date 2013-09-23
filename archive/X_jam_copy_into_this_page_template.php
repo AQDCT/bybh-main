@@ -8,14 +8,14 @@
 
 <title>Template</title>
 
-<?php include("head.php"); ?> 
+<?php include("includes/head.php"); ?>
  
 </head>
 
 
 <body style="background: #dcdcdc">
 <!-- TOP MENU -->
-<?php include("menu.php"); ?>
+<?php include("includes/menu.php"); ?>
 <!--  END MENU -->
 
 <div class="row">
@@ -301,7 +301,7 @@
 <!-- END SECTIONS --> 
 
 
-<?php include("footer.php"); ?>
+<?php include("includes/footer.php"); ?>
 
 </body>
 </html>	

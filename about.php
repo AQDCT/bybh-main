@@ -8,7 +8,7 @@
 
   <title>About | Be You Be Healthy</title>
   
-<?php include("head.php"); ?>
+<?php include("includes/head.php"); ?>
 
 
 <script type="text/javascript">
@@ -26,11 +26,11 @@
 <body style="background: #7ecefd">
 
 <!-- Analytics -->
-<?php include("ga.php"); ?>
+<?php include("includes/ga.php"); ?>
 <!--  END Analytics -->
 
 <!-- TOP MENU -->
-<?php include("menu.php"); ?>
+<?php include("includes/menu.php"); ?>
 <!--  END MENU -->
 
 
@@ -113,7 +113,7 @@
 </div>	
 		
 <!-- SCROLL FOOTER --> 
-<?php include("footer.php"); ?>
+<?php include("includes/footer.php"); ?>
 
 
 </body>

@@ -6,9 +6,9 @@
 
 <head>
 
-<title>Poster 3</title>
+<title>Teen Pregnancy Posters Available for Download = BeYouBeHealthy.org</title>
 
-<?php include("head.php"); ?> 
+<?php include("includes/head.php"); ?>
 <style type="text/css">
 #layer1 {
  position: absolute;
@@ -171,11 +171,11 @@ window.onscroll = setTimeout("placeIt('layer3')",500);
 
 
 <!-- Analytics -->
-<?php include("ga.php"); ?>
+<?php include("includes/ga.php"); ?>
 <!--  END Analytics -->
 
 <!-- TOP MENU -->
-<?php include("menu.php"); ?>
+<?php include("includes/menu.php"); ?>
 
 <!-- Social Media Popup (Ken) -->
 <div class="row">

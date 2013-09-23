@@ -7,14 +7,14 @@
 <head>
 <title>Sex</title>
 
-<?php include("head.php"); ?> 
+<?php include("includes/head.php"); ?>
 
 </head>
 
 
 <body style="background: #dcdcdc">
 <!-- TOP MENU -->
-<?php include("menu.php"); ?>
+<?php include("includes/menu.php"); ?>
 <!--  END MENU -->
 
 
@@ -82,7 +82,7 @@ so you can prepare what you want to say to your parents.
 
 
 
-<?php include("footer.php"); ?>
+<?php include("includes/footer.php"); ?>
 
 
 

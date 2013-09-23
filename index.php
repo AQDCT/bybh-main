@@ -6,7 +6,7 @@
 <!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
 <head>
 
-<?php include("head.php"); ?>
+<?php include("includes/head.php"); ?>
   <title>BeYouBeHealthy</title>
 
 
@@ -16,11 +16,11 @@
 <body style="background: #FFF">
 
 <!-- Analytics -->
-<?php include("ga.php"); ?>
+<?php include("includes/ga.php"); ?>
 <!--  END Analytics -->
 
 <!-- TOP MENU -->
-<?php include("menu.php"); ?>
+<?php include("includes/menu.php"); ?>
 <!--  END MENU -->
 
 
@@ -28,7 +28,7 @@
 <div class="row tpad135 home-grad">
 	<div class="four mobile-four columns">
 		<div class="holder smooth1">
-			<a href="http://www.sexedloop.com" target="_blank"><img class="bot-shadow rnd" src="images/sexed_home.png"></a>
+			<a href="posters.php" target="_blank"><img class="bot-shadow rnd" src="images/posters_homepage.jpg"></a>
 		</div>
 	</div>
     <div class="seven columns">
@@ -126,7 +126,7 @@
 	</div>
 </div>
     
-<?php include("footer.php"); ?>
+<?php include("includes/footer.php"); ?>
   
 
   <!-- Included JS Files (Compressed) -->

@@ -6,9 +6,9 @@
 
 <head>
 
-<title>Posters</title>
+<title>Teen Pregnancy Posters Available for Download = BeYouBeHealthy.org</title>
 
-<?php include("head.php"); ?> 
+<?php include("includes/head.php"); ?>
 
 
 <style type="text/css">
@@ -173,11 +173,11 @@ window.onscroll = setTimeout("placeIt('layer3')",500);
 
 
 <!-- Analytics -->
-<?php include("ga.php"); ?>
+<?php include("includes/ga.php"); ?>
 <!--  END Analytics -->
 
 <!-- TOP MENU -->
-<?php include("menu.php"); ?>
+<?php include("includes/menu.php"); ?>
 
 <div class="row tpad">
 	<div class="fourteen columns offset-by-one">

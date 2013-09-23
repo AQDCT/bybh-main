@@ -8,7 +8,7 @@
 
   <title>Bodies | Be You Be Healthy</title>
   
-<?php include("head.php"); ?>
+<?php include("includes/head.php"); ?>
   
 </head>
 
@@ -16,11 +16,11 @@
 <body style="background: #D92B28">
 
 <!-- Analytics -->
-<?php include("ga.php"); ?>
+<?php include("includes/ga.php"); ?>
 <!--  END Analytics -->
 
 <!-- TOP MENU -->
-<?php include("menu.php"); ?>
+<?php include("includes/menu.php"); ?>
 <!--  END MENU -->
 
 
@@ -1006,7 +1006,7 @@ away because daring you to prove love is not love.
 </div>
 
 <!-- TOP MENU -->
-<?php include("footer.php"); ?>
+<?php include("includes/footer.php"); ?>
 <!--  END MENU -->
 
   <script src="javascripts/jquery.foundation.orbit.js"></script>
