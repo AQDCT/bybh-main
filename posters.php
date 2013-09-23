@@ -206,7 +206,7 @@ window.onscroll = setTimeout("placeIt('layer3')",500);
     return false;"><img src="images/share_on_facebook.png" alt="Facebook"></a>
 
             <div style="padding-top: 7px;">
-              <a href="https://twitter.com/share" class="twitter-share-button" data-url="" data-text="Make something #unexpected happen with #beyoubehealthy teen pregnancy prevention posters from @ChiPublicHealth. Get yours beyoubehealthy.org" data-url="beyoubehealthy.org">Tweet</a>
+              <a href="https://twitter.com/share" class="twitter-share-button" data-text="Make something #unexpected happen with #beyoubehealthy teen pregnancy prevention posters from @ChiPublicHealth. Get yours beyoubehealthy.org" data-url="beyoubehealthy.org">Tweet</a>
             </div>
     
             <div style="padding-top: 7px;">
@@ -249,7 +249,7 @@ window.onscroll = setTimeout("placeIt('layer3')",500);
     return false;"><img src="images/share_on_facebook.png" alt="Facebook"></a>
 
             <div style="padding-top: 7px;">
-              <a href="https://twitter.com/share" class="twitter-share-button" data-url="" data-text="Exceed expectations with #unexpected teen pregnancy prevention posters. Get #beyoubehealthy info from @ChiPublicHealth beyoubehealthy.org" data-url="beyoubehealthy.org">Tweet</a>
+              <a href="https://twitter.com/share" class="twitter-share-button" data-text="Exceed expectations with #unexpected teen pregnancy prevention posters. Get #beyoubehealthy info from @ChiPublicHealth beyoubehealthy.org" data-url="beyoubehealthy.org">Tweet</a>
             </div>
     
             <div style="padding-top: 7px;">
