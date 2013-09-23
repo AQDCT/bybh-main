@@ -172,7 +172,7 @@ window.onscroll = setTimeout("placeIt('layer3')",500);
               <script src="//platform.linkedin.com/in.js" type="text/javascript">
                lang: en_US
               </script>
-              <script type="IN/Share" data-url="http://beyoubehealthy.org/poster-test-1.php" data-counter="right">
+              <script type="IN/Share" data-url="http://beyoubehealthy.org/poster-1.php" data-counter="right">
               </script>
             </div>
     
