@@ -165,7 +165,7 @@ window.onscroll = setTimeout("placeIt('layer3')",500);
 
 
             <div style="padding-top: 7px;">
-              <a href="https://twitter.com/share" class="twitter-share-button" data-url="" data-text="Expect the #unexpected by getting awesome health resources from #beyoubehealthy, @ChiPublicHealth’s site for teens beyoubehealthy.org" >Tweet</a>
+              <a href="https://twitter.com/share" class="twitter-share-button" data-text="Expect the #unexpected by getting awesome health resources from #beyoubehealthy, @ChiPublicHealth’s site for teens beyoubehealthy.org" data-url="beyoubehealthy.org">Tweet</a>            
             </div>
     
             <div style="padding-top: 7px;">
@@ -200,7 +200,7 @@ window.onscroll = setTimeout("placeIt('layer3')",500);
           <a href="#" 
   onclick="
     window.open(
-      'https://www.facebook.com/sharer/sharer.php?u=http://beyoubehealthy.org/poster-2.php', 
+      'https://www.facebook.com/sharer/sharer.php?u=http://beyoubehealthy.org/posters.php', 
       'facebook-share-dialog', 
       'width=626,height=436'); 
     return false;"><img src="images/share_on_facebook.png" alt="Facebook"></a>
