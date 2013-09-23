@@ -93,8 +93,8 @@ href="javascript:setVisible('layer2')"><STRONG>Close X</STRONG></a></span>
 <p style="clear: both">Please take the time and share this with your friends.</p>
 <div style="clear: both">
 <a href="http://www.facebook.com/share.php?u=http://beyoubehealthy.org/poster-1.php" target="_blank"><img src="images/facebook.png" alt="Facebook"></a>
-<a href="https://twitter.com/share" style="padding-top: 11px;" class="twitter-share-button" data-text="I've just downloaded a poster from BeYouBeHealthy.org" data-hashtags="BeYouBeHealthy">Tweet</a>
-<script src="//platform.linkedin.com/in.js" type="text/javascript">
+<br/><a href="https://twitter.com/share" style="padding-top: 11px;" class="twitter-share-button" data-text="I've just downloaded a poster from BeYouBeHealthy.org" data-hashtags="BeYouBeHealthy" data-url="beyoubehealthy.org">Tweet</a>
+<br/><script src="//platform.linkedin.com/in.js" type="text/javascript">
  lang: en_US
 </script>
 <script type="IN/Share" data-url="http://beyoubehealthy.org/poster-1.php" data-counter="right"></script>
@@ -118,9 +118,9 @@ href="javascript:setVisible('layer2')"><STRONG>Close X</STRONG></a></span>
 href="javascript:setVisible('layer3')"><STRONG>Close X</STRONG></a></span> 
 <p style="clear: both">Please take the time and share this with your friends.</p>
 <div style="clear: both">
-<a href="http://www.facebook.com/share.php?u=http://beyoubehealthy.org/posters.php" target="_blank"><img src="images/facebook.png" alt="Facebook"></a>
-<a href="https://twitter.com/share" style="padding-top: 11px;" class="twitter-share-button" data-text="I've just downloaded a poster from BeYouBeHealthy.org" data-hashtags="BeYouBeHealthy">Tweet</a>
-<script src="//platform.linkedin.com/in.js" type="text/javascript">
+<a href="http://www.facebook.com/share.php?u=http://beyoubehealthy.org/poster-3.php" target="_blank"><img src="images/facebook.png" alt="Facebook"></a>
+<br/><a href="https://twitter.com/share" style="padding-top: 11px;" class="twitter-share-button" data-text="I've just downloaded a poster from BeYouBeHealthy.org" data-hashtags="BeYouBeHealthy" data-url="beyoubehealthy.org">Tweet</a>
+<br/><script src="//platform.linkedin.com/in.js" type="text/javascript">
  lang: en_US
 </script>
 <script type="IN/Share" data-url="http://beyoubehealthy.org/poster-3.php" data-counter="right"></script>
