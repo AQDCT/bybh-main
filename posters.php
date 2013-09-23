@@ -165,7 +165,7 @@ window.onscroll = setTimeout("placeIt('layer3')",500);
 
 
             <div style="padding-top: 7px;">
-              <a href="https://twitter.com/share" class="twitter-share-button" data-text="Expect the #unexpected by getting awesome health resources from #beyoubehealthy, @ChiPublicHealth’s site for teens beyoubehealthy.org" >Tweet</a>
+              <a href="https://twitter.com/share" class="twitter-share-button" data-url="" data-text="Expect the #unexpected by getting awesome health resources from #beyoubehealthy, @ChiPublicHealth’s site for teens beyoubehealthy.org" >Tweet</a>
             </div>
     
             <div style="padding-top: 7px;">
@@ -206,14 +206,14 @@ window.onscroll = setTimeout("placeIt('layer3')",500);
     return false;"><img src="images/share_on_facebook.png" alt="Facebook"></a>
 
             <div style="padding-top: 7px;">
-              <a href="https://twitter.com/share" class="twitter-share-button" data-text="Make something #unexpected happen with #beyoubehealthy teen pregnancy prevention posters from @ChiPublicHealth. Get yours beyoubehealthy.org">Tweet</a>
+              <a href="https://twitter.com/share" class="twitter-share-button" data-url="" data-text="Make something #unexpected happen with #beyoubehealthy teen pregnancy prevention posters from @ChiPublicHealth. Get yours beyoubehealthy.org">Tweet</a>
             </div>
     
             <div style="padding-top: 7px;">
               <script src="//platform.linkedin.com/in.js" type="text/javascript">
                lang: en_US
               </script>
-              <script type="IN/Share" data-url="http://beyoubehealthy.org/social-poster2.php" data-counter="right">
+              <script type="IN/Share" data-url="http://beyoubehealthy.org/poster-2.php" data-counter="right">
               </script>
             </div>
     
@@ -249,14 +249,14 @@ window.onscroll = setTimeout("placeIt('layer3')",500);
     return false;"><img src="images/share_on_facebook.png" alt="Facebook"></a>
 
             <div style="padding-top: 7px;">
-              <a href="https://twitter.com/share" class="twitter-share-button" data-text="Exceed expectations with #unexpected teen pregnancy prevention posters. Get #beyoubehealthy info from @ChiPublicHealth beyoubehealthy.org">Tweet</a>
+              <a href="https://twitter.com/share" class="twitter-share-button" data-url="" data-text="Exceed expectations with #unexpected teen pregnancy prevention posters. Get #beyoubehealthy info from @ChiPublicHealth beyoubehealthy.org">Tweet</a>
             </div>
     
             <div style="padding-top: 7px;">
               <script src="//platform.linkedin.com/in.js" type="text/javascript">
                lang: en_US
               </script>
-              <script type="IN/Share" data-url="http://beyoubehealthy.org/social-poster3.php" data-counter="right">
+              <script type="IN/Share" data-url="http://beyoubehealthy.org/poster-3.php" data-counter="right">
               </script>
             </div>
     
