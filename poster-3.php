@@ -72,9 +72,9 @@ window.onscroll = setTimeout("placeIt('layer1')",500);
       <div class="ten columns" style='padding: 20px;'>
               <div class='row'>
 
-              <div class='eight columns'>  <img src="images/poster-2.png" >
+              <div class='eight columns'>  <img src="images/poster-3.png" >
               </div>
-              <div class='four columns end'><h3>Thank you for sharing!</h3><p>Click the button to download this poster, and click the links in the right column to get the rest!</p><p><a href="pdf/TPPI_Poster_2.pdf"><input type="button" class='button' value="Download" style="float: left;"></a>
+              <div class='four columns end'><h3>Thank you for sharing!</h3><p>Click the button to download this poster, and click the links in the right column to get the rest!</p><p><a href="pdf/TPPI_Poster_3.pdf"><input type="button" class='button' value="Download" style="float: left;"></a>
               </div>
 
               </div>
@@ -107,7 +107,7 @@ href="javascript:setVisible('layer2')"><STRONG>Close X</STRONG></a></span>
 
 
 <div>
-  <img src="images/poster-3.png" style="margin-top:20px;">
+  <img src="images/poster-2.png" style="margin-top:20px;">
   <form>
 <input type="button" class='button' value="Download" onclick="setVisible('layer3')">
 </form>
@@ -118,15 +118,15 @@ href="javascript:setVisible('layer2')"><STRONG>Close X</STRONG></a></span>
 href="javascript:setVisible('layer3')"><STRONG>Close X</STRONG></a></span> 
 <p style="clear: both">Please take the time and share this with your friends.</p>
 <div style="clear: both">
-<a href="http://www.facebook.com/share.php?u=http://beyoubehealthy.org/poster-3.php" target="_blank"><img src="images/facebook.png" alt="Facebook"></a>
+<a href="http://www.facebook.com/share.php?u=http://beyoubehealthy.org/poster-2.php" target="_blank"><img src="images/facebook.png" alt="Facebook"></a>
 <br/><a href="https://twitter.com/share" style="padding-top: 11px;" class="twitter-share-button" data-text="I've just downloaded a poster from BeYouBeHealthy.org" data-hashtags="BeYouBeHealthy" data-url="beyoubehealthy.org">Tweet</a>
 <br/><script src="//platform.linkedin.com/in.js" type="text/javascript">
  lang: en_US
 </script>
-<script type="IN/Share" data-url="http://beyoubehealthy.org/poster-3.php" data-counter="right"></script>
+<script type="IN/Share" data-url="http://beyoubehealthy.org/poster-2.php" data-counter="right"></script>
 
  <div style="clear: both;" >
- <a href="pdf/TPPI_Poster_3.pdf">Download your File</a></div>
+ <a href="pdf/TPPI_Poster_2.pdf">Download your File</a></div>
 </div>
 </div>
 
