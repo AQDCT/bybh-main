@@ -28,26 +28,26 @@
 <div class="row tpad135 home-grad">
 	<div class="four mobile-four columns">
 		<div class="holder smooth1">
-			<a href="posters.php"><img class="bot-shadow rnd" src="images/posters_homepage.png"></a>
+			<a href="posters.php"><img class="bot-shadow rnd" src="http://beyoubehealthy.org/images/posters_homepage.png"></a>
 		</div>
 	</div>
     <div class="seven columns">
 	 	<div id="featured" >
 	 	
 			<a href="bodies.php#section11">
-			<img class="rnd" src="images/slider3.jpg"></a>
+			<img class="rnd" src="http://beyoubehealthy.org/images/slider3.jpg"></a>
 			
 			<a href="bodies.php#section11">
-			<img class="rnd" src="images/slider4.jpg"></a>
+			<img class="rnd" src="http://beyoubehealthy.org/images/slider4.jpg"></a>
 			
 			<a href="love_the_glove.php#section4">
-			<img class="rnd" src="images/slider5.jpg"></a>
+			<img class="rnd" src="http://beyoubehealthy.org/images/slider5.jpg"></a>
 			
 			<a href="http://sexedloop.com/2013/03/21/dont-bully-me-down" target="_blank">
-			<img class="rnd" src="images/slider6.jpg"></a>
+			<img class="rnd" src="http://beyoubehealthy.org/images/slider6.jpg"></a>
 
 			<a href="http://www.inspot.org" target="_blank">
-			<img class="rnd" src="images/slider7.jpg"></a>
+			<img class="rnd" src="http://beyoubehealthy.org/images/slider7.jpg"></a>
 			
 		</div>
 
@@ -64,7 +64,7 @@
 
 		 <div class="three columns home-love" style="border-right: thin solid #dcdcdc">
 			<div class="holder smooth">
-				<a href="bodies.php"><img class="bot-shadow" src="images/love.png"></a>
+				<a href="bodies.php"><img class="bot-shadow" src="http://beyoubehealthy.org/images/love.png"></a>
 				<div class="go-top love">
 					
 					<!--Image Description-->
@@ -76,7 +76,7 @@
 		
 		 <div class="three columns home-health" style="border-right: thin solid #dcdcdc">
 			<div class="holder smooth">
-				<a href="health-matters.php"><img class="bot-shadow" src="images/health.png"></a>
+				<a href="health-matters.php"><img class="bot-shadow" src="http://beyoubehealthy.org/images/health.png"></a>
 				<div class="go-top health">
 					<!--Image Description
 					<p>	</p> -->
@@ -87,7 +87,7 @@
 		
 		 <div class="three columns home-teen" style="border-right: thin solid #dcdcdc">
 			<div class="holder smooth">
-				<a href="teen_health_rights.php"><img class="bot-shadow" src="images/rights.png"></a>
+				<a href="teen_health_rights.php"><img class="bot-shadow" src="http://beyoubehealthy.org/images/rights.png"></a>
 				<div class="go-top teen">
 					<!--Image Description
 					<p>	</p> -->
@@ -98,7 +98,7 @@
 		
 		 <div class="three columns home-clinic" style="border-right: thin solid #dcdcdc">
 			<div class="holder smooth">
-				<a href="clinic_finder.php"><img class="bot-shadow" src="images/clinic.png"></a>
+				<a href="clinic_finder.php"><img class="bot-shadow" src="http://beyoubehealthy.org/images/clinic.png"></a>
 				<div class="go-top clinic">
 					<!--Image Description
 					<p>	</p> -->
@@ -109,7 +109,7 @@
 		
 		 <div class="three columns home-data">
 			<div class="holder smooth">
-				<a href="health_data_research.php"><img class="bot-shadow" src="images/data_research.png"></a>
+				<a href="health_data_research.php"><img class="bot-shadow" src="http://beyoubehealthy.org/images/data_research.png"></a>
 				<div class="go-top data">
 					
 					<!--Image Description

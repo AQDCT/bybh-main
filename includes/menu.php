@@ -6,16 +6,16 @@
         <li>
           
           <!-- class="hide-for-medium-down"-->
-        <!--   <a href="index.php"><img src="images/beyou_logo2.png"></a> -->
+        <!--   <a href="index.php"><img src="http://beyoubehealthy.org/images/beyou_logo2.png"></a> -->
 
          <div data-picture data-alt="Be You Be Healthy Logo">
-            <!-- <div data-src="images/beyoubehealthy_phone.png"></div>
+            <!-- <div data-src="http://beyoubehealthy.org/images/beyoubehealthy_phone.png"></div>
             <div data-src="http://beyoubehealthy.org/images/beyoubehealthy_logo2x.png" data-media="(min-width: 400px) and (min-device-pixel-ratio: 2.0)"></div>-->
-            <div data-src="images/beyoubehealthy_logo_sm.png" data-media="(min-width: 320px)"></div>
-          <div data-src="images/BeYouBeHealthy_logo.png" data-media="(min-width: 900px)"></div>
+            <div data-src="http://beyoubehealthy.org/images/beyoubehealthy_logo_sm.png" data-media="(min-width: 320px)"></div>
+          <div data-src="http://beyoubehealthy.org/images/BeYouBeHealthy_logo.png" data-media="(min-width: 900px)"></div>
 
             <!-- Fallback content for non-JS browsers. Same img src as the initial, unqualified source element. -->
-           <!-- <noscript><img src="images/beyoubehealthy_logo_sm.png" alt="Be You Be Healthy Logo"></noscript>
+           <!-- <noscript><img src="http://beyoubehealthy.org/images/beyoubehealthy_logo_sm.png" alt="Be You Be Healthy Logo"></noscript>
           </div>
           -->
        </li>
