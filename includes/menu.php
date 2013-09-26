@@ -5,20 +5,8 @@
         <!-- Title Area -->
         <li>
           
-          <!-- class="hide-for-medium-down"-->
-        <!--   <a href="index.php"><img src="http://beyoubehealthy.org/images/beyou_logo2.png"></a> -->
-
-         <div data-picture data-alt="Be You Be Healthy Logo">
-            <!-- <div data-src="http://beyoubehealthy.org/images/beyoubehealthy_phone.png"></div>
-            <div data-src="http://beyoubehealthy.org/images/beyoubehealthy_logo2x.png" data-media="(min-width: 400px) and (min-device-pixel-ratio: 2.0)"></div>-->
-            <div data-src="http://beyoubehealthy.org/images/beyoubehealthy_logo_sm.png" data-media="(min-width: 320px)"></div>
-          <div data-src="http://beyoubehealthy.org/images/BeYouBeHealthy_logo.png" data-media="(min-width: 900px)"></div>
-
-            <!-- Fallback content for non-JS browsers. Same img src as the initial, unqualified source element. -->
-           <!-- <noscript><img src="http://beyoubehealthy.org/images/beyoubehealthy_logo_sm.png" alt="Be You Be Healthy Logo"></noscript>
-          </div>
-          -->
-       </li>
+      <a href="index.php"><img src="http://beyoubehealthy.org/images/beyoubehealthy_logo_sm.png" alt="Be You Be Healthy Logo">
+          </a>       </li>
         
         <li class="toggle-topbar"><a href="#"></a></li>
       </ul> 
