@@ -4,7 +4,7 @@
 <!-- Set the viewport width to device width for mobile -->
 <meta name="viewport" content="width=device-width" />
 
-
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="NO-CACHE">  
 <!-- Included CSS Files (Uncompressed) -->
 <!-- <link rel="stylesheet" href="stylesheets/foundation.css"> -->
   
@@ -19,6 +19,6 @@
 <link href='http://fonts.googleapis.com/css?family=Oxygen:300,400,700' rel='stylesheet' type='text/css'>
 <link href='http://fonts.googleapis.com/css?family=Economica:700' rel='stylesheet' type='text/css'>
 
-<script src="external/matchmedia.js"></script>
+<!--<script src="external/matchmedia.js"></script>-->
 <script src="js/picturefill.js"></script>
 <script src="javascripts/modernizr.foundation.js"></script>

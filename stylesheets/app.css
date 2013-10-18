@@ -316,8 +316,8 @@ font-style: italic;
 line-height: 5px;
 }
 
-.eng { color: red }
-.spa { color: orange }
+.eng { color: red; margin-right: 11px; }
+.spa { color: orange; margin-right: 11px; }
 
 /* -----------------------------------------
    Orbit

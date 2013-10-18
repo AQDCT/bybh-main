@@ -37,22 +37,22 @@
 			<li><a href="#section3">Adolescence</a></li>
 			<li><a href="#section4">Sexual Health &amp; Adolescence</a></li>
 			<li><a href="#section5">Developmental Tasks</a></li>
-			<li><a href="#s6-factors">Factors That Affect Health</a>
-						<ul style='width: 80%; padding: 0px; margin: 7px;'>
-										<li><a href="#s6.1-sexual-abuse">A Guide to Sexual Abuse</a></li>
+			<li><a href="#section6">Factors That Affect Health</a>
+						<ul class="nav" style='width: 80%; padding: 0px; margin: 7px;'>
+										<li><a href="#section61">A Guide to Sexual Abuse</a></li>
 							</ul>
 						</li>
 			<li><a href="#section7">Talking About Sex</a></li>
-			<li><a href="#s7.1.1-youth-friendly">Youth-Friendly Health Care</a>
-						<ul style='width: 80%; padding: 0px; margin: 17px 7px;'>
-										<li><a href="#s7.1.1-youth-friendly">Youth-Friendly Health Care</a></li>
-										<li><a href="#s7.1.2-dating-violence">Adolescent Dating Violence</a></li>
+			<li><a href="#section711">Youth-Friendly Health Care</a>
+						<ul class="nav" style='width: 80%; padding: 0px; margin: 17px 7px;'>
+										<li><a href="#section711">Youth-Friendly Health Care</a></li>
+										<li><a href="#section712">Adolescent Dating Violence</a></li>
 							</ul>
 			</li>
-			<li><a href="#s7.2.1-youth-at-risk">Youth at Risk</a>
-						<ul style='width: 80%; padding: 0px; margin: 7px;'>
-										<li><a href="#s7.2.1-youth-at-risk">Youth in Foster Care</a></li>
-										<li><a href="#s7.2.2-parenting-youth">Pregnant and Parenting Youth</a></li>
+			<li><a href="#section721">Youth at Risk</a>
+						<ul class="nav" style='width: 80%; padding: 0px; margin: 7px;'>
+										<li><a href="#section721">Youth in Foster Care</a></li>
+										<li><a href="#section722">Pregnant and Parenting Youth</a></li>
 							</ul>
 			</li>
 
@@ -171,7 +171,7 @@ complex emotional experiences</li>
 		</div> 		
 	</div>
 
-	<div class="section" id="s6-factors">
+	<div class="section" id="section6">
 		<div class="row">
 			<div class="ten columns offset-by-one">
 				<h2>Factors That Affect Adolescent Health</h2>
@@ -187,7 +187,7 @@ complex emotional experiences</li>
 		</div> 		
 	</div>
 
-	<div class="section" id="s6.1-sexual-abuse">
+	<div class="section" id="section61">
 		<div class="row">
 			<div class="ten columns offset-by-one">
 				<h2>The Parent's Guide to Sexual Abuse</h2>
@@ -292,7 +292,7 @@ complex emotional experiences</li>
 		</div> 		
 	</div>
 
-	<div class="section" id="s7.1.1-youth-friendly">
+	<div class="section" id="section711">
 		<div class="row">
 						<div class="ten columns offset-by-one">
 
@@ -366,7 +366,7 @@ complex emotional experiences</li>
 
 
 
-<div class="section" id="s7.1.2-dating-violence">
+<div class="section" id="section712">
 <div class="row">
 <div class="ten columns offset-by-one">
 <h2>Adolescent Dating Violence</h2>
@@ -389,7 +389,7 @@ complex emotional experiences</li>
 
 </div></div></div>
 
-<div class="section" id="s7.2.1-youth-at-risk">
+<div class="section" id="section721">
 <div class="row">
 <div class="ten columns offset-by-one">
 <h2>Youth in Foster Care at Greater Risk for Teen Pregnancy</h2>
@@ -462,7 +462,7 @@ complex emotional experiences</li>
 </div></div></div>
 
 
-	<div class="section" id="s7.2.2-parenting-youth">
+	<div class="section" id="section722">
 <div class="row">
 <div class="ten columns offset-by-one">
 <h2>Protecting the Rights of Pregnant and Parenting Youth</h2>
