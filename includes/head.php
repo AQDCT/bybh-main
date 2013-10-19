@@ -22,3 +22,5 @@
 <!--<script src="external/matchmedia.js"></script>-->
 <script src="js/picturefill.js"></script>
 <script src="javascripts/modernizr.foundation.js"></script>
+
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>

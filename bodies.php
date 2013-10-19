@@ -23,26 +23,41 @@
 <?php include("includes/menu.php"); ?>
 <!--  END MENU -->
 
+<script type="text/javascript">
+
+$( document ).ready(function() {
+
+    $('.nav a').click(function() {
+        $('.nav span').addClass("hidden");
+        var id = $(this).attr('data-selector');
+        $('#' + id ).removeClass('hidden');
+        console.log(id);
+        console.log('228');
+    });
+
+});
+
+</script>
 
 <div class="row">
   	<div class="eleven columns">
   	</div>
   	<div class="three columns">
-    	<ul class="nav open hide-for-small tpad110 sm-list" style="position: fixed; padding-left: 25px">
+    	<ul class="nav open hide-for-small tpad110" style="position: fixed; padding-left: 25px">
     		<h4>Sex &amp; Relationships</h4>
     		<hr>
-    		<h4 style="margin-bottom: 0px"><a href="#section0">Bodies</a></h4>
+    		<h4 style="margin-bottom: 0px"><a href="#section0" data-selector='menu0'>Bodies</a></h4>
     		
-    		<span class="left-indent">
+    		<span class="left-indent" id="menu0">
 			<li><a href="#sectionT">Puberty</a></li>
 			<li><a href="#section1">Boys’ Bodies</a></li>
 			<li><a href="#section2">Girls’ Bodies</a></li>
 			</span>
 			
 			
-			<h4 style="margin-bottom: 0px"><a href="#section0">Sex</a></h4>
+			<h4 style="margin-bottom: 0px"><a href="#section0" data-selector="menu1">Sex</a></h4>
     		
-    		<span class="left-indent">
+    		<span class="left-indent hidden" id='menu1'>
 			<li><a href="#section3">How Do You Know You Are Ready?</a></li>
 			<li><a href="#section4">Love and Sex</a></li>
 			<li><a href="#section5">How to Say ‘No’</a></li>
@@ -53,9 +68,9 @@
 			<li><a href="#section10">Sex and The Law</a></li>
 			</span>
 			 
-			<h4 style="margin-bottom: 0px"><a href="#section0">Relationships</a></h4>
+			<h4 style="margin-bottom: 0px"><a href="#section0" data-selector='menu2'>Relationships</a></h4>
     		
-    		<span class="left-indent">
+    		<span class="left-indent hidden" id='menu2'>
 			<li><a href="#section11">Be You. Be Happy</a></li>
 			<li><a href="#section12">Be You and Single</a></li>
 			<li><a href="#section13">Coming Out</a></li>
@@ -68,9 +83,9 @@
 			<li><a href="#section19">Breaking Up</a></li>
 		  	</span>
             
-            <h4 style="margin-bottom: 0px"><a href="#section400">Staying Safe</a></h4>
+            <h4 style="margin-bottom: 0px"><a href="#section400" data-selector='menu3'>Staying Safe</a></h4>
             
-            <span class="left-indent">
+            <span class="left-indent hidden" id='menu3'>
     <li><a href="#section401">Sexual Violence</a></li>
     <li><a href="#section402">Myths &amp; Facts Quiz</a></li>
     <li><a href="#section403">Rape</a></li>

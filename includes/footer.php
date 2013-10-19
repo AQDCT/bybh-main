@@ -40,8 +40,6 @@ USE WITH SCROLLING PAGES -->
 
 <!-- Initialize JS Plugins -->
 <script src="javascripts/app.js"></script>
-
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
 <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js"></script>
 
  <script type="text/javascript">
