@@ -31,31 +31,31 @@
 	<div class="three columns">
 		<ul class="nav open hide-for-small tpad" style="position: fixed; padding-left: 25px">
 			<h4>Parents &amp; Teachers</h4><hr>
-			<h4>
+			
 		
-			<li><a href="#sectionT">Parents &amp; Teachers</a></li>
+			<h4><li><a href="#sectionT">Parents &amp; Teachers</a></li>
 			<li><a href="#section3">Adolescence</a></li>
 			<li><a href="#section4">Sexual Health &amp; Adolescence</a></li>
 			<li><a href="#section5">Developmental Tasks</a></li>
-			<li><a href="#section6">Factors That Affect Health</a>
-						<ul class="nav" style='width: 80%; padding: 0px; margin: 7px;'>
+			<li><a href="#section6">Factors That Affect Health</a></li></h4>
+						<span class="left-indent" id="menu0">
 										<li><a href="#section61">A Guide to Sexual Abuse</a></li>
-							</ul>
-						</li>
+							</span>
+			<h4>			
 			<li><a href="#section7">Talking About Sex</a></li>
-			<li><a href="#section711">Youth-Friendly Health Care</a>
-						<ul class="nav" style='width: 80%; padding: 0px; margin: 17px 7px;'>
+			<li><a href="#section711">Youth-Friendly Health Care</a></li></h4>
+						<span class="left-indent" id="menu0">
 										<li><a href="#section711">Youth-Friendly Health Care</a></li>
 										<li><a href="#section712">Adolescent Dating Violence</a></li>
-							</ul>
-			</li>
-			<li><a href="#section721">Youth at Risk</a>
-						<ul class="nav" style='width: 80%; padding: 0px; margin: 7px;'>
+							</span>
+	
+			<h4><li><a href="#section721">Youth at Risk</a></h4>
+						<span class="left-indent" id="menu0">
 										<li><a href="#section721">Youth in Foster Care</a></li>
 										<li><a href="#section722">Pregnant and Parenting Youth</a></li>
-							</ul>
+							</span>
 			</li>
-
+			<h4>
 			<li><a href="#section8">Student Health Forms</a></li>
 			<li><a href="#section9">CPS Health Policies</a></li>
 			</h4>
