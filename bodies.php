@@ -1158,6 +1158,141 @@ away because daring you to prove love is not love.
       <div class="ten columns offset-by-one" style="margin-bottom: 100px">     
            <h2>Myth & Facts Quiz</h2>
 
+<style>
+.answer {
+	color: blue;
+	display: none;	
+}
+.red {
+	color: red;
+}
+</style>
+<script type="text/javascript">
+$( document ).ready(function() {
+			  var correctAnswers = 0;
+			$( "input" ).click(function() {
+				var value = $(this).attr('name');
+				var whichAnswer = $(this).attr('id') + 'A';
+
+			  if(value == 'false') { correctAnswers++; }
+			  else {
+			  	$('strong') .closest('#' + whichAnswer).animate({
+    width: "70%",
+    color: "#442244",
+    opacity: 1,
+    borderWidth: "10px"
+  }, 1500 );
+			  				  console.log('red');
+
+			  }
+
+				$( '#' + whichAnswer ).removeClass('answer');
+			});
+});
+
+</script>
+<p>1. It&rsquo;s not really rape if a victim does not resist or fight their attacker.</p>
+<p>
+  <input name="true" type="checkbox" id="q1" value="True">
+  True <input name="false" type="checkbox" id="q1" value="False">
+  False
+</p>
+<div class="answer" id="q1A">
+  <p><strong>FALSE     </strong><br>
+    Most women fear rape and fear alone can immobilize them.  Many women have been told to be submissive and to go along with the assailant to avoid injury or death.  Even though many women may not physically resist an attacker due in part to their upbringing and fear of violence, this does not mean they consented or were willing to go along with the attack.</p>
+</div>
+<p>2. The victim provokes rape if they dress &ldquo;sexy,&rdquo; act seductively, or are under the influence of drugs/alcohol. </p>
+<p>
+  <input name="true" type="checkbox" id="q2" title="True">
+  True <input name="false" type="checkbox" id="q2" title="False">
+  False
+</p>
+<div class="answer" id="q2A">
+  <p><strong>FALSE     </strong><br>
+    This myth takes away the criminal blame from the offender and places the responsibility on the victim.  The assailant chooses their actions, there was always a choice not commit a rape.  Actions or style of dress is NOT an invitation for rape.  Nothing a person does causes nor invites a brutal and violent attack.</p>
+</div>
+<p>3. Most sexual assaults occur in &ldquo;bad&rdquo; neighborhoods with high crime rates. </p>
+<p>
+  <input name="true" type="checkbox" id="q3" title="True">
+  True <input name="false" type="checkbox" id="q3" title="False">
+  False
+</p>
+<div class="answer" id="q3A">
+  <p><strong>FALSE     </strong><br>
+  Anyone can be raped: young, old, male or female.  Their appearance is seldom a consideration.  Rapists are not necessarily looking for attractive victims but rather vulnerable ones.  Assailants often choose victims who seem most vulnerable to attack:  acquaintances, old persons, children, partners, physically or emotionally disabled persons, substance abusers, and street persons.</p>
+</div>
+<p>4. A victim has to be beaten or have physical injuries to really have been raped.</p>
+<p>
+  <input name="true" type="checkbox" id="q4" title="True">
+  True <input name="false" type="checkbox" id="q4" title="False">
+  False
+</p>
+<div class="answer" id="q4A">
+<p><strong>FALSE     </strong><br>
+In 87% of cases, the victim was initially subdued by the assailant&rsquo;s verbal threats, and by an overwhelming fear of being killed.  The fact that there are no broken bones or bruises does not indicate that a person has not been raped.  The threat of violence may cause a person to &ldquo;freeze.&rdquo;  In fear of their life, a person may &ldquo;submit,&rdquo; but this is a valid coping behavior.  This is considered part of Rape Trauma Syndrome; no response is inappropriate.</p>
+</div>
+
+<p>5. Rape is motivated by sudden, uncontrollable sexual urges and desires. <br>
+<p>
+  <input name="true" type="checkbox" id="q5" title="True">
+  True <input name="false" type="checkbox" id="q5" title="False">
+  False
+</p>
+<div class="answer" id="q5A">
+  <strong>FALSE     </strong><br>
+Rape is an act of power, anger, and dominance over another person.  75%-95% of rapes are planned.  Rape not only violates a person&rsquo;s body, but also their sense of safety and control over their life.</p>
+</div>
+<p>6. Women frequently lie about &ldquo;rape&rdquo;; there is a high rate of false reporting.<br>
+<p>
+  <input name="true" type="checkbox" id="q6" title="True">
+  True <input name="false" type="checkbox" id="q6" title="False">
+  False
+</p>
+<div class="answer" id="q6A">
+  <strong>FALSE     </strong><br>
+Studies show that only 3% of rape reports are false, which is no higher than in reporting of other felonies.</p>
+</div>
+<p>7. About 66% of all sexual assaults are reported. <br>
+<p>
+  <input name="true" type="checkbox" id="q7" title="True">
+  True <input name="false" type="checkbox" id="q7" title="False">
+  False
+</p>
+<div class="answer" id="q7A">
+  <strong>FALSE     </strong><br>
+  
+  Only about 10%-20% of all sexual assaults are reported.</p>
+</div>
+<p>8. It is impossible for a person to sexually assault a partner.<br>
+<p>
+  <input name="true" type="checkbox" id="q8" title="True">
+  True <input name="false" type="checkbox" id="q8" title="False">
+  False
+</p>
+<div class="answer" id="q8A">
+  <strong>FALSE     </strong><br>
+  Regardless of marital or social relationship, if a person does not consent to sexual activity, they are being sexually assaulted.  The rate of domestic violence and partner assault is about the same for both heterosexual and LGBTQ relationships.</p>
+</div>
+<p>9. Rape is committed by monstrous criminals who do not know their victims. <br>
+<p>
+  <input name="true" type="checkbox" id="q9" title="True">
+  True <input name="false" type="checkbox" id="q9" title="False">
+  False
+</p>
+<div class="answer" id="q9A">
+  <strong>FALSE     </strong><br>
+  As many as 80% of all assaults involve acquaintances.  An assailant might be someone you have seen around another person you know intimately.  It may be co-worker, a friend or a family member.</p>
+</div>
+<p>10. It is impossible to sexually assault a man. </p>
+<p>
+  <input name="true" type="checkbox" id="q10" title="True">
+  True <input name="false" type="checkbox" id="q10" title="False">
+  False
+</p>
+<div class="answer" id="q10A">
+  <strong>FALSE     </strong><br>
+  Men fall victim for the same reasons as women:  they are overwhelmed by threats or acts of physical and emotional violence.  Men are also assaulted by both strangers and acquaintances, be the assailants male or female.</p></div>
+
      	</div>
     </div>    		
 </div>
