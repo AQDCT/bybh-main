@@ -44,14 +44,14 @@ $( document ).ready(function() {
     	<ul class="nav open hide-for-small tpad110" style="position: fixed; padding-left: 25px">
     		<h4>Sex &amp; Relationships</h4>
     		<hr>
-    		<h4 style="margin-bottom: 0px"><li><a href="#section0" data-selector='menu0'>Bodies</a></li></h4>
+    		<h4 style="margin-bottom: 0px"><li><a href="#sectionT" data-selector='menu0'>Bodies</a></li></h4>
     		
     		<span class="left-indent" id="menu0">
 			<li><a data-selector='menu0' href="#sectionT">Puberty</a></li>
 			<li><a data-selector='menu0' href="#section1">Boys’ Bodies</a></li>
 			<li><a data-selector='menu0' href="#section2">Girls’ Bodies</a></li>
 			</span>
-			</h4><h4 style="margin-bottom: 0px; margin-top: 0px"><li><a href="#section0" data-selector="menu1">Sex</a></li></h4>
+			</h4><h4 style="margin-bottom: 0px; margin-top: 0px"><li><a href="#section3" data-selector="menu1">Sex</a></li></h4>
     		
     		<span class="left-indent hidden" id='menu1'>
 			<li><a href="#section3" data-selector="menu1">How Do You Know You Are Ready?</a></li>
@@ -63,7 +63,7 @@ $( document ).ready(function() {
 			<li><a href="#section9" data-selector="menu1">Sex and Religion</a></li>
 			<li><a href="#section10" data-selector="menu1">Sex and The Law</a></li>
 			</span>
-			 </h4><h4 style="margin-bottom: 0px; margin-top: 0px"><li><a href="#section0" data-selector='menu2'>Relationships</a></li></h4>
+			 </h4><h4 style="margin-bottom: 0px; margin-top: 0px"><li><a href="#section11" data-selector='menu2'>Relationships</a></li></h4>
     		
     		<span class="left-indent hidden" id='menu2'>
 			<li><a href="#section11" data-selector='menu2'Be You. Be Happy</a></li>
@@ -1034,16 +1034,13 @@ away because daring you to prove love is not love.
 </div>
 
 <div id="section400" class="tpad">
-    <div class="row">
-      <div class="ten columns offset-by-one" style="margin-bottom: 100px">     
-           <h2>Staying Safe</h2>
+   		<div class="row">
+				<div class="nine columns offset-by-one">
+					<h1>Staying Safe</h1>
+				</div>
+			</div>
 
-     	</div>
-    </div>    		
-</div>
-
-<div id="section401" class="tpad">
-    <div class="row">
+    <div class="row" id="section401">
       <div class="ten columns offset-by-one" style="margin-bottom: 100px">     
            <h2>Sexual Violence</h2>
 <p><strong>Sexual Violence</strong><br>
