@@ -234,7 +234,7 @@ complex emotional experiences</li>
 <ul>
   <li><strong>Discuss</strong> your feelings with someone you      trust. This is not a time for you to       be "tough." It is a good time to seek       support for yourself.</li>
 </ul>
-<p><strong>For ideas of where to get help for you and your child, visit the <a href="bodies.php#section17">Sexual Violence Resources</a> section of this site. </strong></p>
+<p><strong>For ideas of where to get help for you and your child, visit the <a href="bodies.php#section410">Sexual Violence Resources</a> section of this site. </strong></p>
 <p>Source: Illinois Coalition Against Sexual Assault (ICASA), <em>The Parent Pamphlet</em>. <a href="http://www.icasa.org/docs/brochures/parent%20pamphlet%202010.pdf">(http://www.icasa.org/docs/brochures/parent%20pamphlet%202010.pdf</a>)</p>
 
 			</div>

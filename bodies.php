@@ -1063,7 +1063,7 @@ away because daring you to prove love is not love.
 <p>To learn more about the influence of the media on &ldquo;normalizing&rdquo; sexual violence, especially in the context of drinking alcohol: <a href="http://www.youtube.com/watch?v=-hr58RXDC3o">http://www.youtube.com/watch?v=-hr58RXDC3o</a></p>
 
   <h2><strong>Verbal Signals of Consent</strong></h2>
-<table border="0" cellpadding="0" width='100%'>
+<table width='100%'>
   <tr>
     <td><p><strong>What can <u>consent</u> sound like?</strong></p></td>
     <td><p><strong>What can <u>NONconsent</u> sound    like?</strong></p></td>
@@ -1118,7 +1118,7 @@ away because daring you to prove love is not love.
   </tr>
 </table>
   <h2><strong>Nonverbal Consent</strong></h2>
-<table border="0" cellpadding="0">
+<table>
   <tr>
     <td><p><strong>Possible nonverbal signs of <u>consent</u></strong></p></td>
     <td><p><strong>Possible nonverbal signs of <u>NONconsent</u></strong></p></td>
@@ -1128,8 +1128,8 @@ away because daring you to prove love is not love.
     <td><p>Avoiding eye contact</p></td>
   </tr>
   <tr>
-    <td><p>Initiating <a href="http://www.scarleteen.com/glossary/term/3348">sexual</a> activity</p></td>
-    <td><p>Not initiating any <a href="http://www.scarleteen.com/glossary/term/3348">sexual</a> activity</p></td>
+    <td><p>Initiating <a href="http://www.scarleteen.com/glossary/term/3348" target="_blank">sexual</a> activity</p></td>
+    <td><p>Not initiating any <a href="http://www.scarleteen.com/glossary/term/3348" target="_blank">sexual</a> activity</p></td>
   </tr>
   <tr>
     <td><p>Actively touching someone</p></td>
@@ -1148,7 +1148,7 @@ away because daring you to prove love is not love.
     <td><p>&quot;Just lying there&quot;</p></td>
   </tr>
 </table>
-<p>From: <em>Driver&rsquo;s Ed for the Sexual Superhighway: Navigating Consent</em>. Heather Corinna, Scarleteen.com, 2010.</p>
+<p>Source: <em>Driver&rsquo;s Ed for the Sexual Superhighway: Navigating Consent</em>. Heather Corinna, Scarleteen.com, 2010.</p>
      	</div>
     </div>    		
 </div>
@@ -1315,7 +1315,7 @@ Studies show that only 3% of rape reports are false, which is no higher than in 
 <p>Rape is a form of sexual assault where someone is forced to have sexual intercourse with someone against their will. </p>
 <p>Many people think rape is only perpetrated by a stranger. In reality, it is more common for someone to be raped by a person he or she knows. &ldquo;Acquaintance rape&rdquo; is the term used to describe a rape when the victim knows the attacker. There is no legal difference between rape by a stranger and rape by an acquaintance. Either way it is a crime.</p>
 <p>Remember, in a relationship you have the right to</p>
-<ul type="disc">
+<ul>
   <li>a life without violence</li>
   <li>reject unwanted attention                                                                                  </li>
   <li>change your mind whenever you want      to&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; </li>
@@ -1326,8 +1326,8 @@ Studies show that only 3% of rape reports are false, which is no higher than in 
 </ul>
 <p>Under Illinois law, consent is one thing and one thing only: a clear &ldquo;YES.&rdquo;</p>
 <p>If you have been raped, do not blame yourself. There are many resources you can turn to for medical, legal, and advocacy support. Learn more at our Sexual Violence Resources page. (&ldquo;Sexual Violence Resources&rdquo; should link to Sexual Violence Resources section)</p>
-<p>Sources: Illinois Coalition Against Sexual Assault (ICASA), <em>Acquaintance Rape</em> (<a href="http://www.icasa.org/docs/brochures/aqr%202012.pdf">http://www.icasa.org/docs/brochures/aqr%202012.pdf</a>) <br>
-Illinois Coalition Against Sexual Assault, <em>After Sexual Assault</em> (<a href="http://www.icasa.org/docs/brochures/after%20sexual%20assault%202013.pdf">http://www.icasa.org/docs/brochures/after%20sexual%20assault%202013.pdf</a>)</p>
+<p>Sources: Illinois Coalition Against Sexual Assault (ICASA), <em>Acquaintance Rape</em> (<a href="http://www.icasa.org/docs/brochures/aqr%202012.pdf" target="_blank">http://www.icasa.org/docs/brochures/aqr%202012.pdf</a>) <br>
+Illinois Coalition Against Sexual Assault, <em>After Sexual Assault</em> (<a href="http://www.icasa.org/docs/brochures/after%20sexual%20assault%202013.pdf" target="_blank">http://www.icasa.org/docs/brochures/after%20sexual%20assault%202013.pdf</a>)</p>
 
      	</div>
     </div>    		
@@ -1374,7 +1374,7 @@ Illinois Coalition Against Sexual Assault, <em>After Sexual Assault</em> (<a hre
     stalking<br>
     excessive/unwanted communication</p>
 </blockquote>
-<p>Courtesy of <a href="http://www.breakthecycle.org/">Breakthecycle.org</a> (hyperlink to <a href="breakthecycle.org">breakthecycle.org</a>)</p>
+<p>Courtesy of <a href="http://www.breakthecycle.org/" target="_blank">Breakthecycle.org</a>.</p>
 
      	</div>
     </div>    		
@@ -1388,11 +1388,11 @@ Illinois Coalition Against Sexual Assault, <em>After Sexual Assault</em> (<a hre
 <p>Losing sight of your own interests and needs is sure sign that things are out of balance. Sometimes it&rsquo;s the first sign that something is going wrong in a relationship. </p>
 <p>And things do go wrong. You may not get any warning or it may be something that has been building for a while that just doesn&rsquo;t feel quite right. </p>
 <p>You may find yourself with someone who says they care for you but they make you feel vulnerable, nervous, scared or frightened. They might physically hurt you in some way or pressure or force you to have sex, which is never ok. But it might be more subtle than that. They might check your phone or e-mail without your permission, or guilt or pressure you into showing them, get jealous, insecure, or possessive of you.&nbsp; They might accuse you of cheating on them, order you around, or tell you who to hang out with or where to go. These kinds of controlling behaviors can be confusing, because it might seem like your partner&rsquo;s feelings for you are so strong, they just can&rsquo;t stand the idea of being apart from you for one second. It&rsquo;s flattering to have someone care for you, but when it crosses the line into obsessive, controlling behavior, love gets all twisted around and becomes something else: it becomes abuse. </p>
-<p>If you feel like you or someone you know may be in an unhealthy situation, you can take this danger assessment from the One Love Foundation to determine the risk: <br>
-  <img width="67" height="67" src="file:///Macintosh HD/Users/paul/Library/Application Support/Adobe/Dreamweaver CC/en_US/OfficeImageTemp/clip_image002.png" alt="http://beyoubehealthy.org/images/one-love.png"> <br>
+<p>If you feel like you or someone you know may be in an unhealthy situation, you can take this <a href="http://www.joinonelove.org/library/resources/onelovelite/" target="_blank">danger assessment from the One Love Foundation</a> to determine the risk.</p>
+<p>
   If you are feeling or being treated this way, take a moment and remember: Being in this relationship is a choice. If you don&rsquo;t feel you can get out of it easily because you&rsquo;re frightened of the consequences then it is important that you tell someone who can protect your safety.</p>
-<p>Do you have a trusted friend, family member or a teacher that you can talk to? If not there are organizations that can help you. Visit loveisrespect.org to learn more.&nbsp;If you need help right away, text the National Dating Abuse Hotline:&nbsp;text 'loveis'&nbsp;to 77054&nbsp;or call&nbsp;<a href="file://localhost/tel/1-866-331-9474">1-866-331-9474</a>.</p>
-<p>You can also call the City of Chicago&rsquo;s free Domestic Violence Help Line&nbsp;at <a href="file://localhost/tel/1-877-863-6338">1-877-863-6338</a>.</p>
+<p>Do you have a trusted friend, family member or a teacher that you can talk to? If not there are organizations that can help you. Visit loveisrespect.org to learn more.&nbsp;If you need help right away, text the National Dating Abuse Hotline:&nbsp;text 'loveis'&nbsp;to 77054&nbsp;or call&nbsp;1-866-331-9474.</p>
+<p>You can also call the City of Chicago&rsquo;s free Domestic Violence Help Line&nbsp;at 1-877-863-6338.</p>
 <p><strong>LINKS TO RESOURCES: </strong><br>
   One Love Foundation's 'Be 1 For Change' video<strong> make the embedded video larger</strong> <br>
   <br>
@@ -1434,7 +1434,7 @@ Rapists may threaten to kill the victim if they don&rsquo;t do what they are tol
 <p><strong>Take care of yourself. </strong><br>
   In order to care about your friend, you may need to deal with some difficult emotions of your own. If you&rsquo;re feeling rage, blame, or feelings of loss yourself, you can be most helpful to your friend by finding ways to deal with your emotions. Remember no one can protect another person at all times. If you are having a difficult time with your own feelings, it may help to talk with a counselor.<strong></strong></p>
 <p>&nbsp;</p>
-<p>Courtesy of <u>Rape Victims Advocates (RVA)</u> (hyperlink to <a href="http://www.rapevictimadvocates.org/">http://www.rapevictimadvocates.org/</a>) </p>
+<p>Courtesy of <a href="http://www.rapevictimadvocates.org/" target="_blank">Rape Victims Advocates (RVA)</a>.</p>
 
      	</div>
     </div>    		
@@ -1473,10 +1473,8 @@ Rapists may threaten to kill the victim if they don&rsquo;t do what they are tol
   </ul>
 </ul>
 <p>While many of these reasons stop men from coming forward about sexual violence, all victims deserve medical, legal, and advocacy support. </p>
-<p>If you are a man who has experienced sexual violence, you can get help through a variety of sexual assault resources by clicking here. . (&ldquo;Clicking here&rdquo; should link to the Sexual Violence Resources section)</p>
-<p>Source <br>
-  &ldquo;Male Survivors&rdquo; by the Illinois Coalition Against Sexual Assault (ICASA) <br>
-<a href="http://www.icasa.org/docs/male_survivors_brochure.pdf">http://www.icasa.org/docs/male_survivors_brochure.pdf</a></p>
+<p>If you are a man who has experienced sexual violence, you can get help through a variety of sexual assault resources by <A href="bodies.php#section410">clicking here</a>.</p>
+<p>Source: &ldquo;<a href="http://www.icasa.org/docs/male_survivors_brochure.pdf" target="_blank">Male Survivors</a>&rdquo; by the Illinois Coalition Against Sexual Assault (ICASA).</p>
 
      	</div>
     </div>    		
@@ -1486,22 +1484,22 @@ Rapists may threaten to kill the victim if they don&rsquo;t do what they are tol
     <div class="row">
       <div class="ten columns offset-by-one" style="margin-bottom: 100px">     
            <h2>Advocacy and Rights</h2>
-<p><strong>What is advocacy? </strong></p>
-<p>After you have been raped or sexually assaulted, you may want someone to assist you with what happens next. &nbsp;&nbsp;&nbsp; </p>
+<p><strong>What is advocacy? </strong>
+<br>After you have been raped or sexually assaulted, you may want someone to assist you with what happens next. &nbsp;&nbsp;&nbsp; </p>
 <blockquote>
   <p>Should you go to the hospital?                                      <br>
     Should you report the rape to the police?<br>
     Should you file criminal charges against the attacker?</p>
 </blockquote>
 <p>The <strong>advocate</strong> is the victim&rsquo;s confidential personal link. An advocate knows the workers at the hospital, police station, and courthouse. They work with these people to help the victim and their family. Most importantly, you do not have to pay for an advocate&rsquo;s help.</p>
-<p><strong>How to Get an Advocate </strong></p>
-<p>There are several ways a victim or their family and friends can contact an advocate. </p>
-<p>The Illinois Coalition Against Sexual Assault (ICASA) has rape crisis centers all over the state. You can find information about each center at the <u>ICASA website</u> (hyperlink to <a href="http://www.icasa.org/home.aspx?PageID=500&">http://www.icasa.org/home.aspx?PageID=500&amp;</a>) </p>
+<p><strong>How to Get an Advocate </strong>
+<br>There are several ways a victim or their family and friends can contact an advocate. </p>
+<p>The Illinois Coalition Against Sexual Assault (ICASA) has rape crisis centers all over the state. You can find information about each center at the <a href="http://www.icasa.org/home.aspx?PageID=500&" target="_blank">ICASA website</a>.</p>
 <ul>
-  <li>They also have counselors who can listen and      advise you.</li>
+  <li>They also have counselors who can listen and advise you.</li>
 </ul>
 <ul>
-  <li>Rape Victim Advocates (RVA) also provides      advocacy and counseling to those affected by rape. Call 312-443-9603 or      visit the <u>RVA website</u> (hyperlink to <a href="http://www.rapevictimadvocates.org/">http://www.rapevictimadvocates.org/</a>) for more information.</li>
+  <li>Rape Victim Advocates (RVA) also provides advocacy and counseling to those affected by rape. Call 312-443-9603 or visit the <a href="http://www.rapevictimadvocates.org/" target="_blank">RVA website</a> for more information.</li>
 </ul>
 <ul>
   <li>At the hospital emergency room, ask a nurse      or other hospital employee to call an advocate. The advocate will come to      the hospital to help the victim.</li>
@@ -1509,8 +1507,8 @@ Rapists may threaten to kill the victim if they don&rsquo;t do what they are tol
 <ul>
   <li>Call the police to report the crime, and ask      the police to call an advocate.</li>
 </ul>
-<p><strong>Advocate&rsquo;s Limitations</strong></p>
-<p>An advocate can assist the victim in several ways; however, there are certain things that the advocate can&rsquo;t do. An advocate does not:</p>
+<p><strong>Advocate&rsquo;s Limitations</strong>
+  <br>An advocate can assist the victim in several ways; however, there are certain things that the advocate can&rsquo;t do. An advocate does not:</p>
 <ul>
   <li>influence the victim&rsquo;s decision to report or      file charges.</li>
 </ul>
@@ -1520,8 +1518,7 @@ Rapists may threaten to kill the victim if they don&rsquo;t do what they are tol
 <ul>
   <li>counsel the victim</li>
 </ul>
-<p><strong>Victim&rsquo;s Rights</strong><strong> </strong></p>
-<p>A sexual assault victim is guaranteed rights under the Illinois Constitution and Illinois statutes. They include:</p>
+<p><strong>Victim&rsquo;s Rights</strong><strong> </strong><br>A sexual assault victim is guaranteed rights under the Illinois Constitution and Illinois statutes. They include:</p>
 <ul>
   <li>The right to be treated with fairness and respect for their      dignity and privacy throughout the criminal justice process.</li>
 </ul>
@@ -1546,8 +1543,8 @@ Rapists may threaten to kill the victim if they don&rsquo;t do what they are tol
 <ul>
   <li>The right to restitution, or compensation.</li>
 </ul>
-<p><strong>The Law</strong></p>
-<p>Sexual assault is when someone is forced into a sexual act (penetration, touching, fondling, etc.) that they didn&rsquo;t want to happen (without consent). </p>
+<p><strong>The Law</strong>
+<br>Sexual assault is when someone is forced into a sexual act (penetration, touching, fondling, etc.) that they didn&rsquo;t want to happen (without consent). </p>
 <p>The Illinois Criminal Sexual Assault Law defines different kinds of assaults:</p>
 <ul>
   <li><strong>Criminal Sexual Assault</strong></li>
@@ -1579,19 +1576,18 @@ Rapists may threaten to kill the victim if they don&rsquo;t do what they are tol
     <li>an adult commits sexual assault on a child       under age 13</li>
   </ul>
 </ul>
-<p><strong>Get Help</strong></p>
-<p>Rape crisis centers have 24-hour-a-day hotlines where trained individuals will provide you with supportive services. </p>
+<p><strong>Get Help</strong>
+<br>Rape crisis centers have 24-hour-a-day hotlines where trained individuals will provide you with supportive services. </p>
 <p>Staff at the center can also help you report the crime to police or go with you to the hospital. They can also just listen and offer you information and support. </p>
 <p>Rape crisis services are free and confidential. </p>
 <ul>
  
     <li>The Chicago Rape Crisis Hotline is       available 24/7 at 1-888-293-2080. </li>
-    <li>You can also contact the Rape Victim       Advocates (RVA) for support at 312-443-9603 or visit their <a href="http://rapevictimadvocates.org/">website</a>.</li>
-    <li>You can also find a <a href="http://www.icasa.org/crisiscenters.aspx?pageid=501">rape crisis center </a>nearest you through       the Illinois Coalition Against Sexual Assault (ICASA). </li>
+    <li>You can also contact the Rape Victim       Advocates (RVA) for support at 312-443-9603 or visit their <a href="http://rapevictimadvocates.org/" target="_blank">website</a>.</li>
+    <li>You can also find a <a href="http://www.icasa.org/crisiscenters.aspx?pageid=501" target="_blank">rape crisis center </a>nearest you through       the Illinois Coalition Against Sexual Assault (ICASA). </li>
 </ul>
 
-<p>Source: Illinois Coalition Against Sexual Assault (ICASA),  <u>A Guide to Advocacy Series (ICASA)</u><br>
-  (hyperlink to <a href="http://www.icasa.org/docs/brochures/guide%20to%20advocacy%20services%202013.pdf">http://www.icasa.org/docs/brochures/guide%20to%20advocacy%20services%202013.pdf</a>)</p>
+<p>Source: Illinois Coalition Against Sexual Assault (ICASA), <a href="http://www.icasa.org/docs/brochures/guide%20to%20advocacy%20services%202013.pdf" target="_blank">A Guide to Advocacy Series (ICASA)</a>.</p>
 
      	</div>
     </div>    		
@@ -1656,7 +1652,7 @@ Rapists may threaten to kill the victim if they don&rsquo;t do what they are tol
   <p>Be brave enough to openly value equality. Use your strength and privilege in the service of justice. Live your potential without harming others. Celebrate the construction of a new masculinity that does not depend on the dehumanization of others. </p>
   <p><em>What you can do:</em>  Find others who share your vision. You are not alone.</p>
 </blockquote>
-<p>Courtesy of <u>Men Can Stop Rape</u> (hyperlink to <a href="www.mencanstoprape.org">www.mencanstoprape.org</a>) </p>
+<p>Courtesy of <a href="www.mencanstoprape.org" target="_blank">Men Can Stop Rape</a>.</p>
 
      	</div>
     </div>    		
@@ -1795,25 +1791,44 @@ Rapists may threaten to kill the victim if they don&rsquo;t do what they are tol
   </tr>
 </table>
 <h3>Websites</h3>
-  <a href="http://www.scarleteen.com/">Scarleteen</a>                                    <br>
-  Sex education for the real world</p>
-<p><a href="http://www.teenadvice.org/">Teen Advice</a><br>
-Teens can write for advice and look at archives for information</p>
-<p><a href="http://nationalsave.org/">National Save</a><br>
-Students Against Violence Everywhere</p>
-<p><a href="http://www.breakthecycle.org/">Break the Cycle</a><br>
-Resources and information</p>
-<p><a href="http://girlsinc.org/">Girls Inc.</a>                  <br>
-Girls Incorporate National Resource Center</p>
-<p><a href="http://www.mencanstoprape.org/">Men Can Stop Rape</a><br>
-Encourage boys to become youth allies in stopping gender violence including dating violence and sexual assault. </p>
-<p><a href="http://www.loveisrespect.org/">Love is Respect</a>  <br>
-Resources for teens on healthy relationships and offers peer support chat. </p>
-<p><a href="http://www.glnh.org/index2.html">GLNH</a><br>
-Support for LGBTQ through peer support chat and offers resources and information.</p>
-<p><a href="http://www.icasa.org/home.aspx?PageID=500&">Illinois Coalition Against Sexual Assault (ICASA)</a><br>
+<table>
+  <tr><td>
+  <a href="http://www.scarleteen.com/" target="_blank">Scarleteen</a>
+</td><td>
+  Sex education for the real world
+</td></tr><tr><td>
+<a href="http://www.teenadvice.org/" target="_blank">Teen Advice</a>
+</td><td>
+Teens can write for advice and look at archives for information
+</td></tr><tr><td>
+<a href="http://nationalsave.org/" target="_blank">National Save</a>
+</td><td>
+Students Against Violence Everywhere
+</td></tr><tr><td>
+<a href="http://www.breakthecycle.org/" target="_blank">Break the Cycle</a>
+</td><td>
+Resources and information
+</td></tr><tr><td>
+<a href="http://girlsinc.org/" target="_blank">Girls Inc.</a>                  
+</td><td>
+Girls Incorporate National Resource Center
+</td></tr><tr><td>
+<a href="http://www.mencanstoprape.org/" target="_blank">Men Can Stop Rape</a>
+</td><td>
+Encourage boys to become youth allies in stopping gender violence including dating violence and sexual assault.
+</td></tr><tr><td>
+<a href="http://www.loveisrespect.org/" target="_blank">Love is Respect</a>
+</td><td>
+Resources for teens on healthy relationships and offers peer support chat.
+</td></tr><tr><td>
+<a href="http://www.glnh.org/index2.html" target="_blank">GLNH</a>
+</td><td>
+Support for LGBTQ through peer support chat and offers resources and information.
+</td></tr><tr><td>
+<a href="http://www.icasa.org/home.aspx?PageID=500&" target="_blank">Illinois Coalition Against Sexual Assault (ICASA)</a>
+</td><td>
   Organization that includes 32 community-based sexual assault crisis centers working together to end sexual violence. 
-                  </p>
+</td></tr></table>
 
      	</div>
     </div>    		
