@@ -1450,7 +1450,54 @@ Rapists may threaten to kill the victim if they don&rsquo;t do what they are tol
 <p>Sexual violence is about one person trying to take the power away from another and taking control over her or him. In other words, sexual violence is a crime that is not motivated by sex. To hear more about rape as &ldquo;a power issue,&rdquo; listen to a former US Marine&rsquo;s story on overcoming rape by <a href="http://www.bbc.co.uk/news/magazine-23152463" target="_blank">clicking here</a>.</p>
 <p>If you are a victim of sexual violence, it is not your fault. No matter where you were or what you did or did not do, the only thing that causes an act of violence is a perpetrator. While studies show that many men do not report an occurrence of sexual assault, it is important for you to come forward to get the help you deserve.
 <h3>Men and Sexual Assault</h3>
-<p>[INSERT CHART]</p>
+
+
+
+<div id="container" style="min-width: 310px; height: 400px; margin: 0 auto"></div>
+
+<script>
+$(function () {
+var chart = new Highcharts.Chart({
+        chart: {
+            plotBackgroundColor: null,
+            plotBorderWidth: null,
+            plotShadow: false,
+            renderTo: 'container'
+        },
+        credits: {
+            enabled: false
+        },
+        title: {
+            text: 'Men and Sexual Assault'
+        },
+        tooltip: {
+          pointFormat: '{series.name}'
+        },
+        plotOptions: {
+            pie: {
+                allowPointSelect: true,
+                cursor: 'pointer',
+                dataLabels: {
+                    enabled: false,
+                    color: '#000000',
+                    connectorColor: '#000000',
+                    format: '<b>{point.name}</b>'
+                }
+            }
+        },
+        series: [{
+            type: 'pie',
+            name: 'Men and Sexual Assault',          
+            data: [
+                ['Report assault',       12.0],
+                ['Do not report assault',   88.0],
+            ]
+        }]
+    });
+});
+    
+</script>
+
 <p>Some of the reasons males do not come forward:</p>
 <ul>
   <li>Fear that they won&rsquo;t be believed.</strong><br/> When many people think of a sexual assault,       they think of a man assaulting a woman and may find it hard to accept the       fact that men are sexually assaulted as well.</li>

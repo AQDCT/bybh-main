@@ -373,7 +373,52 @@ complex emotional experiences</li>
 <p><strong>What is ADV?</strong></p>
 <p><em>Adolescent dating violence (ADV) is physical, sexual, or psychological/emotional violence within a dating relationship.</em></p>
 <p><strong>One in every 11 adolescents report being a victim of ADV</strong>. Victims are at an increased risk for academic, legal, and health-related problems and are more likely to engage in risky behavior like binge drinking, suicide attempts, physical fights, alcohol and other drug abuse, and unsafe sex. </p>
-<p>In a recent study conducted by Ball State University, more than half of high school nurses reported assisting a victim of adolescent dating violence (ADV) in the past two years , yet 86% of nurses reported they did not have a protocol in their schools to respond to an incident of ADV.  </p><p>[INSERT CHART]</p><p>
+<p>In a recent study conducted by Ball State University, more than half of high school nurses reported assisting a victim of adolescent dating violence (ADV) in the past two years , yet 86% of nurses reported they did not have a protocol in their schools to respond to an incident of ADV.  </p>
+<div id="container3" style="min-width: 310px; height: 400px; margin: 0 auto"></div>
+
+<script>
+$(function () {
+var chart = new Highcharts.Chart({
+        chart: {
+            plotBackgroundColor: null,
+            plotBorderWidth: null,
+            plotShadow: false,
+            renderTo: 'container3'
+        },
+        credits: {
+        		enabled: false
+        },
+        title: {
+            text: 'High Schools and ADV Protocol'
+        },
+        tooltip: {
+          pointFormat: '{series.name}'
+        },
+        plotOptions: {
+            pie: {
+                allowPointSelect: true,
+                cursor: 'pointer',
+                dataLabels: {
+                    enabled: false,
+                    color: '#000000',
+                    connectorColor: '#000000',
+                    format: '<b>{point.name}</b>'
+                }
+            }
+        },
+        series: [{
+            type: 'pie',
+            name: 'Girls in Foster Care',          
+            data: [
+                ['ADV Protocol',       14.0],
+                ['Did not have ADV Protocol',   86.0],
+            ]
+        }]
+    });
+});
+    
+</script>
+<p>
   Nurses who had a school protocol for responding to ADV reported fewer problems in assisting victims of ADV, and were able to help more victims of ADV as compared to nurses who did not have a protocol in place. <strong></strong></p>
 <p><strong>Barriers to Assisting ADV Victims</strong><br>
   More than half of the high school nurses identified the major obstacle to treating ADV victims is not having the <strong>training</strong> to help. In addition, lack of <strong>private space and time</strong> were reported as barriers. </p>
@@ -395,10 +440,95 @@ complex emotional experiences</li>
 
 <p>While all adolescents are at risk for teenage pregnancy and parenthood, some groups face more challenges than others. Youth living in foster care experience particular barriers that lead to disparate outcomes.</p>
 <p>One-third of girls in foster care become pregnant at least once by age 17, and nearly one-half of them do so by age 19. </p>
-<p>[INSERT CHART]</p>
+<div id="container1" style="min-width: 310px; height: 400px; margin: 0 auto"></div>
+
+<script>
+$(function () {
+var chart = new Highcharts.Chart({
+        chart: {
+            plotBackgroundColor: null,
+            plotBorderWidth: null,
+            plotShadow: false,
+            renderTo: 'container1'
+        },
+        credits: {
+        		enabled: false
+        },
+        title: {
+            text: 'Girls in Foster Care'
+        },
+        tooltip: {
+          pointFormat: '{series.name}'
+        },
+        plotOptions: {
+            pie: {
+                allowPointSelect: true,
+                cursor: 'pointer',
+                dataLabels: {
+                    enabled: false,
+                    color: '#000000',
+                    connectorColor: '#000000',
+                    format: '<b>{point.name}</b>'
+                }
+            }
+        },
+        series: [{
+            type: 'pie',
+            name: 'Girls in Foster Care',          
+            data: [
+                ['Who Become Pregnant',       33.0],
+                ['Who Do Not Become Pregnant',   67.0],
+            ]
+        }]
+    });
+});
+    
+</script>
 <p>More than half of boys living in foster care reported getting someone pregnant by age 21, compared to 19 percent of boys who were not living in foster care.       </p>
-<p>[INSERT CHART]</p>
-<h3>Why does this difference exist?</h3>
+<div id="container2" style="min-width: 310px; height: 400px; margin: 0 auto"></div>
+
+<script>
+$(function () {
+var chart = new Highcharts.Chart({
+        chart: {
+            plotBackgroundColor: null,
+            plotBorderWidth: null,
+            plotShadow: false,
+            renderTo: 'container2'
+        },
+        credits: {
+        		enabled: false
+        },
+        title: {
+            text: 'Boys Fathering a Child by Age 21'
+        },
+        tooltip: {
+          pointFormat: '{series.name}'
+        },
+        plotOptions: {
+            pie: {
+                allowPointSelect: true,
+                cursor: 'pointer',
+                dataLabels: {
+                    enabled: false,
+                    color: '#000000',
+                    connectorColor: '#000000',
+                    format: '<b>{point.name}</b>'
+                }
+            }
+        },
+        series: [{
+            type: 'pie',
+            name: 'Girls in Foster Care',          
+            data: [
+                ['Boys in Foster Care',       72.0],
+                ['Boys Not in Foster Care',   28.0],
+            ]
+        }]
+    });
+});
+    
+</script><h3>Why does this difference exist?</h3>
 <p>Youth in care may face multiple risk factors:</p>
 <ul>
   <li>Histories of abuse and neglect</li>

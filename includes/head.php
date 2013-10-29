@@ -24,8 +24,12 @@
 <link href='http://fonts.googleapis.com/css?family=Istok+Web:400,700,700italic' rel='stylesheet' type='text/css'>
 <link href='http://fonts.googleapis.com/css?family=Oxygen:300,400,700' rel='stylesheet' type='text/css'>
 <link href='http://fonts.googleapis.com/css?family=Economica:700' rel='stylesheet' type='text/css'>
-<script type="text/javascript" src="<?=$root;?>/js/jquery.min.js"></script>
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script src="http://code.highcharts.com/modules/exporting.js"></script>
 <script type="text/javascript" src="<?=$root;?>/js/bootstrap.min.js"></script>
 
 <script src="<?=$root;?>/js/picturefill.js"></script>
 <script src="<?=$root;?>/javascripts/modernizr.foundation.js"></script>
+
+<script src="http://code.highcharts.com/highcharts.js"></script>
