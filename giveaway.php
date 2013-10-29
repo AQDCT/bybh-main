@@ -32,6 +32,17 @@
         <div class="ten columns offset-by-one end">
         <p>Just fill out this form and the Office of Adolescent and School Health will mail you a discrete package that includes condoms and instructions on proper use. We’ll also hook you up with solid information about how to make safe, healthy, and responsible choices.</p>
        <h3>Your Information</h3>
+       <?php 
+          if(isset($_GET['m'])){
+            if($_GET['m'] == 'add'){
+              echo "<div class='alert-box success'>Thank you for registering.</div>";
+
+            }
+            if($_GET['m'] == 'error'){
+              echo "<div class='alert-box alert'>You can only register once.</div>";
+            }
+          }
+       ?>
 
        <form action='giveaway-process.php'>
            <fieldset>
@@ -49,7 +60,7 @@
     </div>
   </div>
    
-  <input type="text" class="fifteen" placeholder="Street" name='street' />
+  <input type="text" class="fifteen" placeholder="Street" name='address' />
   <div class="row">
     <div class="eight columns">
       <input type="text" placeholder="City" name='city'/>
