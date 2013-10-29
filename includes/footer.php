@@ -19,7 +19,7 @@ USE WITH SCROLLING PAGES -->
 				<a href="site-map.php">Site Map</a>&nbsp;&nbsp;&nbsp;
 				<a href="privacy_policy.php">Privacy Policy</a> &nbsp;&nbsp;
 					
-					<img src="/CDC/web/bybh/images/healthy_chicago_logo.png" align="absmiddle" />
+					<img src="<?=$root;?>/images/healthy_chicago_logo.png" align="absmiddle" />
 				</ul>
 			</div>
 		</div>
