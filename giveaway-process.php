@@ -59,21 +59,46 @@ $send .= "Name: ".$firstname." ".$lastname."<br/>Email: ".$email."<br/>Address:<
 $send .= "<p>This website request originated from <a href='http://www.beyoubehealthy.org/giveaway.php'>http://www.beyoubehealthy.org/giveaway.php</a>.<br/></p>";
 */
 
-$send = "<h1>Another request has come in for the condom giveaway.</h1>";
-$send .= "Email: ".$email."<br/>";
-$send .= "<p>This website request originated from <a href='http://www.beyoubehealthy.org/giveaway.php'>http://www.beyoubehealthy.org/giveaway.php</a>.<br/></p>";
+$firstname = mysql_real_escape_string($_GET['firstname']);
+$lastname = mysql_real_escape_string($_GET['lastname']);
 
-$to = 'prsolans@gmail.com';
-//$to      = 'Suzanne.Elder@cityofchicago.org';
-$subject = 'BeYouBeHealthy.org Web Request - Condom Giveaway';
-$headers  = 'MIME-Version: 1.0' . "\r\n";
-$headers .= 'Content-type: text/html; charset=iso-8859-1' . "\r\n";
-//$headers .= 'Cc: michael@aqdct.com' . "\r\n";
-$headers .= 'From: Condom Giveaway <website@BeYouBeHealthy.org>' . "\r\n" .
-    'Reply-To: do-not-reply@BeYouBeHealthy.org' . "\r\n" .
-    'X-Mailer: PHP/' . phpversion();
+$email = mysql_real_escape_string($_GET['email']);
 
-mail($to, $subject, $send, $headers);
+$address = mysql_real_escape_string($_GET['address']);
+$city = mysql_real_escape_string($_GET['city']);
+$state = mysql_real_escape_string($_GET['state']);
+$zip = mysql_real_escape_string($_GET['zip']);
+
+$school = mysql_real_escape_string($_GET['school']);
+
+$sql='SELECT email FROM condom_giveaway WHERE email="'.$email.'"';
+$result = mysql_query($sql);
+if(num_rows($result) == 0){
+  $success = "add";
+
+  $stmt = "INSERT INTO condom_giveaway (firstname, lastname, email, address, city, state, zip, school) VALUES ('$firstname', '$lastname', '$email', '$address', '$city', '$state', '$zip', '$school')";
+  $insert = mysql_query($insert);
+
+
+  $send = "<h1>Another request has come in for the condom giveaway.</h1>";
+  $send .= "Email: ".$email."<br/>";
+  $send .= "<p>This website request originated from <a href='http://www.beyoubehealthy.org/giveaway.php'>http://www.beyoubehealthy.org/giveaway.php</a>.<br/></p>";
+
+  $to = 'prsolans@gmail.com';
+  //$to      = 'Suzanne.Elder@cityofchicago.org';
+  $subject = 'BeYouBeHealthy.org Web Request - Condom Giveaway';
+  $headers  = 'MIME-Version: 1.0' . "\r\n";
+  $headers .= 'Content-type: text/html; charset=iso-8859-1' . "\r\n";
+  //$headers .= 'Cc: michael@aqdct.com' . "\r\n";
+  $headers .= 'From: Condom Giveaway <website@BeYouBeHealthy.org>' . "\r\n" .
+      'Reply-To: do-not-reply@BeYouBeHealthy.org' . "\r\n" .
+      'X-Mailer: PHP/' . phpversion();
+
+  mail($to, $subject, $send, $headers);  
+}
+else{
+  $success = "error";
+}
 
 mysql_close($conn);
 
@@ -82,8 +107,5 @@ $host  = $_SERVER['HTTP_HOST'];
 $uri   = rtrim(dirname($_SERVER['PHP_SELF']), '/\\');
 $extra = 'giveaway.php?m='.$success.'';
 header("Location: http://$host$uri/$extra");
-echo $to;
-echo $subject;
-echo $headers;
-echo $send;
+
 ?>
