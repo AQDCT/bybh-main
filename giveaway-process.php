@@ -1,17 +1,25 @@
 <?php
 
-/*
+/* SERVER */
 $username = "dbo466179813";
 $database = "db466179813";
-$password = "shiva2013";
+$password = "Bananas!!";
 $hostname = "localhost:/tmp/mysql5.sock"; 
-*/
 
+$conn=mysql_connect($hostname, $username, $password);
+// Check connection
+if(! $conn )
+{
+  die('Could not connect: ' . mysql_error());
+}
+
+
+/* LOCAL 
 $username = 'root';
 $database = 'bybh';
 $password = 'root';
 $hostname = 'localhost';
-
+/*
 $conn = new mysqli($hostname, $username, $password, $database);
 
 // check connection
@@ -45,11 +53,17 @@ $stmt->execute();
 }
 
 
+
 $send = "<h1>Another request has come in for the condom giveaway.</h1>";
 $send .= "Name: ".$firstname." ".$lastname."<br/>Email: ".$email."<br/>Address:<br/>".$address."<br/>".$city.", ".$state." ".$zip."";
 $send .= "<p>This website request originated from <a href='http://www.beyoubehealthy.org/giveaway.php'>http://www.beyoubehealthy.org/giveaway.php</a>.<br/></p>";
+*/
 
-$to = 'paul@aqdct.com';
+$send = "<h1>Another request has come in for the condom giveaway.</h1>";
+$send .= "Email: ".$email."<br/>";
+$send .= "<p>This website request originated from <a href='http://www.beyoubehealthy.org/giveaway.php'>http://www.beyoubehealthy.org/giveaway.php</a>.<br/></p>";
+
+$to = 'prsolans@gmail.com';
 //$to      = 'Suzanne.Elder@cityofchicago.org';
 $subject = 'BeYouBeHealthy.org Web Request - Condom Giveaway';
 $headers  = 'MIME-Version: 1.0' . "\r\n";
@@ -61,13 +75,13 @@ $headers .= 'From: Condom Giveaway <website@BeYouBeHealthy.org>' . "\r\n" .
 
 mail($to, $subject, $send, $headers);
 
-mysqli_close($conn);
+mysql_close($conn);
 
 /* Redirect to a different page in the current directory that was requested  */
 $host  = $_SERVER['HTTP_HOST'];
 $uri   = rtrim(dirname($_SERVER['PHP_SELF']), '/\\');
 $extra = 'giveaway.php?m='.$success.'';
-//header("Location: http://$host$uri/$extra");
+header("Location: http://$host$uri/$extra");
 echo $to;
 echo $subject;
 echo $headers;
