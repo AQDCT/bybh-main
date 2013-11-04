@@ -44,7 +44,7 @@
           }
        ?>
 
-       <form action='giveaway-process.php'>
+       <form action='giveaway-process2.php'>
            <fieldset>
 
 
