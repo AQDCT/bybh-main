@@ -33,15 +33,19 @@ if($count == 0){
   $insert = mysql_query($stmt);
 
   $send = "<h1>Another request has come in for the condom giveaway.</h1>";
+  $send .= "Name: ".$firstname." ".$lastname."<br/>";
   $send .= "Email: ".$email."<br/>";
+  $send .= "School: ".$school."<br/>";
+  $send .= "Address:";
+  $send .= "<p>".$address."<br/>".$city.", ".$state." ".$zip."</p>";
   $send .= "<p>This website request originated from <a href='http://www.beyoubehealthy.org/giveaway.php'>http://www.beyoubehealthy.org/giveaway.php</a>.<br/></p>";
 
-  $to = 'prsolans@gmail.com';
-  //$to      = 'Suzanne.Elder@cityofchicago.org';
+  //$to = 'prsolans@gmail.com';
+  $to      = 'Suzanne.Elder@cityofchicago.org';
   $subject = 'BeYouBeHealthy.org Web Request - Condom Giveaway';
   $headers  = 'MIME-Version: 1.0' . "\r\n";
   $headers .= 'Content-type: text/html; charset=iso-8859-1' . "\r\n";
-  //$headers .= 'Cc: michael@aqdct.com' . "\r\n";
+  $headers .= 'Bcc: paul@aqdct.com' . "\r\n";
   $headers .= 'From: Condom Giveaway <website@BeYouBeHealthy.org>' . "\r\n" .
       'Reply-To: do-not-reply@BeYouBeHealthy.org' . "\r\n" .
       'X-Mailer: PHP/' . phpversion();
