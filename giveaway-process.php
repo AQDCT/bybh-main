@@ -36,12 +36,12 @@ if($count == 0){
   $send .= "Name: ".$firstname." ".$lastname."<br/>";
   $send .= "Email: ".$email."<br/>";
   $send .= "School: ".$school."<br/>";
-  $send .= "Address:";
-  $send .= "<p>".$address."<br/>".$city.", ".$state." ".$zip."</p>";
+  $send .= "<p>Address:";
+  $send .= "<br/>".$address."<br/>".$city.", ".$state." ".$zip."</p>";
   $send .= "<p>This website request originated from <a href='http://www.beyoubehealthy.org/giveaway.php'>http://www.beyoubehealthy.org/giveaway.php</a>.<br/></p>";
 
-  //$to = 'prsolans@gmail.com';
-  $to      = 'Suzanne.Elder@cityofchicago.org';
+  $to = 'prsolans@gmail.com';
+  //$to      = 'Suzanne.Elder@cityofchicago.org';
   $subject = 'BeYouBeHealthy.org Web Request - Condom Giveaway';
   $headers  = 'MIME-Version: 1.0' . "\r\n";
   $headers .= 'Content-type: text/html; charset=iso-8859-1' . "\r\n";
@@ -65,8 +65,7 @@ mysql_close($conn);
 $host  = $_SERVER['HTTP_HOST'];
 $uri   = rtrim(dirname($_SERVER['PHP_SELF']), '/\\');
 $extra = 'giveaway.php?m='.$success.'';
-$return = "Location: http://$host$uri/$extra";
-//echo $return;
-header('Location: http://localhost:8888/bybh/giveaway.php?m=error');
+
+header('Location: http://$host$uri/$extra');
 
 ?>
