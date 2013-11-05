@@ -1,10 +1,17 @@
 <?php
 
-/* SERVER */
+/* SERVER 
 $username = "dbo466179813";
 $database = "db466179813";
 $password = "Bananas!!";
 $hostname = "localhost:/tmp/mysql5.sock"; 
+/*
+
+/* LOCAL  */
+$username = 'root';
+$database = 'bybh';
+$password = 'root';
+$hostname = 'localhost';
 
 $conn=mysql_connect($hostname, $username, $password);
 // Check connection
@@ -14,11 +21,7 @@ if(! $conn )
 }
 
 
-/* LOCAL 
-$username = 'root';
-$database = 'bybh';
-$password = 'root';
-$hostname = 'localhost';
+
 /*
 $conn = new mysqli($hostname, $username, $password, $database);
 
@@ -70,16 +73,21 @@ $state = mysql_real_escape_string($_GET['state']);
 $zip = mysql_real_escape_string($_GET['zip']);
 
 $school = mysql_real_escape_string($_GET['school']);
+//echo "('".$firstname."', '".$lastname."', '".$email."', '".$address."', '".$city."', '".$state."', '".$zip."', '".$school."')";
+$sql='SELECT email FROM `'.$database.'`.`condom_giveaway` WHERE email="'.$email.'"';
+//echo $sql;
 
-$sql='SELECT email FROM condom_giveaway WHERE email="'.$email.'"';
 $result = mysql_query($sql);
-if(num_rows($result) == 0){
-  $success = "add";
 
-  $stmt = "INSERT INTO condom_giveaway (firstname, lastname, email, address, city, state, zip, school) VALUES ('$firstname', '$lastname', '$email', '$address', '$city', '$state', '$zip', '$school')";
-  $insert = mysql_query($insert);
+$count = mysql_num_rows($result);
+//echo $count;
 
+if($count == 0){
 
+  $stmt = "INSERT INTO `$database`.`condom_giveaway` (firstname, lastname, email, address, city, state, zip, school) VALUES ('".$firstname."', '".$lastname."', '".$email."', '".$address."', '".$city."', '".$state."', '".$zip."', '".$school."')";
+  $insert = mysql_query($stmt);
+  
+  if($insert){
   $send = "<h1>Another request has come in for the condom giveaway.</h1>";
   $send .= "Email: ".$email."<br/>";
   $send .= "<p>This website request originated from <a href='http://www.beyoubehealthy.org/giveaway.php'>http://www.beyoubehealthy.org/giveaway.php</a>.<br/></p>";
@@ -93,8 +101,15 @@ if(num_rows($result) == 0){
   $headers .= 'From: Condom Giveaway <website@BeYouBeHealthy.org>' . "\r\n" .
       'Reply-To: do-not-reply@BeYouBeHealthy.org' . "\r\n" .
       'X-Mailer: PHP/' . phpversion();
+  
+  $mailed = mail($to, $subject, $send, $headers);
 
-  mail($to, $subject, $send, $headers);  
+  if($mailed){
+        $success = "add";
+    }
+    else {$success = "invalid";}
+  }
+  else {$success = "error";}
 }
 else{
   $success = "error";

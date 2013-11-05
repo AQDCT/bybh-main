@@ -36,15 +36,17 @@
           if(isset($_GET['m'])){
             if($_GET['m'] == 'add'){
               echo "<div class='alert-box success'>Thank you for registering.</div>";
-
             }
             if($_GET['m'] == 'error'){
               echo "<div class='alert-box alert'>You can only register once.</div>";
             }
+            if($_GET['m'] == 'invalid'){
+              echo "<div class='alert-box alert'>An error occured, please try again.</div>";
+            }
           }
        ?>
 
-       <form action='giveaway-process2.php'>
+       <form action='giveaway-process.php'>
            <fieldset>
 
 
