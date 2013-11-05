@@ -3,10 +3,7 @@
 
   </head><?php
 
-$username = "dbo466179813";
-$database = "db466179813";
-$password = "shiva2013";
-$hostname = "localhost:/tmp/mysql5.sock"; 
+include('../config.php');
 
 $con=mysql_connect($hostname, $username, $password);
 // Check connection
@@ -15,7 +12,7 @@ if(! $con )
   die('Could not connect: ' . mysql_error());
 }
 
-$query = "SELECT * FROM `db466179813`.`health_matters`;";
+$query = "SELECT * FROM `$database`.`health_matters`;";
 
 $result = mysql_query($query);
 // Check result

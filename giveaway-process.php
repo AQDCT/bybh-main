@@ -1,17 +1,6 @@
 <?php
 
-/* SERVER 
-$username = "dbo466179813";
-$database = "db466179813";
-$password = "Bananas!!";
-$hostname = "localhost:/tmp/mysql5.sock"; 
-/*
-
-/* LOCAL  */
-$username = 'root';
-$database = 'bybh';
-$password = 'root';
-$hostname = 'localhost';
+include('admin/config.php');
 
 $conn=mysql_connect($hostname, $username, $password);
 // Check connection
@@ -19,48 +8,6 @@ if(! $conn )
 {
   die('Could not connect: ' . mysql_error());
 }
-
-
-
-/*
-$conn = new mysqli($hostname, $username, $password, $database);
-
-// check connection
-if ($conn->connect_error) {
-  trigger_error('Database connection failed: '  . $conn->connect_error, E_USER_ERROR);
-}
-
-$firstname = $conn->real_escape_string($_GET['firstname']);
-$lastname = $conn->real_escape_string($_GET['lastname']);
-$email = $conn->real_escape_string($_GET['email']);
-$address = $conn->real_escape_string($_GET['address']);
-$city = $conn->real_escape_string($_GET['city']);
-$state = $conn->real_escape_string($_GET['state']);
-$zip = $conn->real_escape_string($_GET['zip']);
-$school = $conn->real_escape_string($_GET['school']);
-
-$sql='SELECT email FROM condom_giveaway WHERE email="'.$email.'"';
- 
-$rs=$conn->query($sql);
-$rows_returned = $rs->num_rows;
- 
-if($rows_returned == 0) {
-$success = "add";
-
-$stmt = $conn->prepare("INSERT INTO condom_giveaway (firstname, lastname, email, address, city, state, zip, school) VALUES (?, ?, ?, ?, ?, ?, ?, ?)");
-$stmt->bind_param('ssssssss', $firstname, $lastname, $email, $address, $city, $state, $zip, $school);
-$stmt->execute();
-
-} else {
-  $success = "error";
-}
-
-
-
-$send = "<h1>Another request has come in for the condom giveaway.</h1>";
-$send .= "Name: ".$firstname." ".$lastname."<br/>Email: ".$email."<br/>Address:<br/>".$address."<br/>".$city.", ".$state." ".$zip."";
-$send .= "<p>This website request originated from <a href='http://www.beyoubehealthy.org/giveaway.php'>http://www.beyoubehealthy.org/giveaway.php</a>.<br/></p>";
-*/
 
 $firstname = mysql_real_escape_string($_GET['firstname']);
 $lastname = mysql_real_escape_string($_GET['lastname']);
@@ -78,16 +25,13 @@ $sql='SELECT email FROM `'.$database.'`.`condom_giveaway` WHERE email="'.$email.
 //echo $sql;
 
 $result = mysql_query($sql);
-
 $count = mysql_num_rows($result);
-//echo $count;
 
 if($count == 0){
 
   $stmt = "INSERT INTO `$database`.`condom_giveaway` (firstname, lastname, email, address, city, state, zip, school) VALUES ('".$firstname."', '".$lastname."', '".$email."', '".$address."', '".$city."', '".$state."', '".$zip."', '".$school."')";
   $insert = mysql_query($stmt);
-  
-  if($insert){
+
   $send = "<h1>Another request has come in for the condom giveaway.</h1>";
   $send .= "Email: ".$email."<br/>";
   $send .= "<p>This website request originated from <a href='http://www.beyoubehealthy.org/giveaway.php'>http://www.beyoubehealthy.org/giveaway.php</a>.<br/></p>";
@@ -101,15 +45,10 @@ if($count == 0){
   $headers .= 'From: Condom Giveaway <website@BeYouBeHealthy.org>' . "\r\n" .
       'Reply-To: do-not-reply@BeYouBeHealthy.org' . "\r\n" .
       'X-Mailer: PHP/' . phpversion();
-  
-  $mailed = mail($to, $subject, $send, $headers);
 
-  if($mailed){
-        $success = "add";
-    }
-    else {$success = "invalid";}
-  }
-  else {$success = "error";}
+  $success = 'add';
+  
+  mail($to, $subject, $send, $headers);
 }
 else{
   $success = "error";
@@ -117,10 +56,13 @@ else{
 
 mysql_close($conn);
 
+
 /* Redirect to a different page in the current directory that was requested  */
 $host  = $_SERVER['HTTP_HOST'];
 $uri   = rtrim(dirname($_SERVER['PHP_SELF']), '/\\');
 $extra = 'giveaway.php?m='.$success.'';
-header("Location: http://$host$uri/$extra");
+$return = "Location: http://$host$uri/$extra";
+//echo $return;
+header('Location: http://localhost:8888/bybh/giveaway.php?m=error');
 
 ?>

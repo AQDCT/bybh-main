@@ -4,13 +4,13 @@ $username = "dbo466179813";
 $database = "db466179813";
 $password = "shiva2013";
 $hostname = "localhost:/tmp/mysql5.sock"; 
-
 $con=mysql_connect($hostname, $username, $password);
 // Check connection
 if(! $con )
 {
   die('Could not connect: ' . mysql_error());
 }
+
 
 $name = $_GET['name'];
 $email = $_GET['email'];
