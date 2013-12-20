@@ -80,12 +80,18 @@
   </div>
   </div>
     <div class='row'>
-    <div class='five columns'>
-    <input type='submit' class='button' value='Submit'  />
-  </div>
-  <div class='ten columns'>
-    <p>*One package per request. While supplies last. Packages will be mailed in a plain envelope. Please think carefully before ordering for anyone other than yourself. You must have explicit permission from another student to order on their behalf. Pranksters beware.</p>
-  </div>
+		<div class='six columns'>
+		 	<label>Select your age:</label>
+			<ul class="block-grid three-up">
+				<li style="text-align:center"><input id="checkbox1" type="checkbox"><label for="checkbox1">&#8804;14</label></li>
+				<li style="text-align:center"><input id="checkbox2" type="checkbox"><label for="checkbox2">15-17</label></li>
+				<li style="text-align:center"><input id="checkbox3" type="checkbox"><label for="checkbox2">18-20</label></li>
+			</ul>
+			<input type='submit' class='button' value='Submit'  />
+ 		</div>
+  		<div class='nine columns'>
+    		<p>*One package per request. While supplies last. Packages will be mailed in a plain envelope. Please think carefully before ordering for anyone other than yourself. You must have explicit permission from another student to order on their behalf. Pranksters beware.</p>
+  		</div>
   </div>
 </fieldset>
         </form>

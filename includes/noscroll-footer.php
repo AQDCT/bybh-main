@@ -1,27 +1,32 @@
 <!-- We have 2 footer includes. This one is for pages with NO SCROLLING functionality 
 USE WITH NON-SCROLLING PAGES -->
 
-<footer class="noscroll-footer">
-	<hr>
+<div class="noscroll-footer">
+
 	<div class="row">		
 		<div class="fifteen columns">
-			<div class="seven mobile-two columns">
-				<ul style="padding-top:7px">
-					<a href="http://aqdct.com" target="_blank">Site By AQDCT</a>
+			<div class="four mobile-two columns">
+				<ul style="padding-top:5px">
+					<a href="http://aqdct.com" target="_blank">site by AQDCT</a>
 				</ul>
 			</div>
-			<div class="eight mobile-four columns">
-				<ul class="right"> 
-					<a href="about.php">About This Site</a> &nbsp;&nbsp;&nbsp;&nbsp;
+			
+			<div class="eleven mobile-four columns">
+				<ul class="right">
+					<a href="parents_teachers.php">Adults Who Care</a>&nbsp;&nbsp;&nbsp;
+					<a href="clinic_finder.php">Clinic Finder</a>&nbsp;&nbsp;&nbsp;
+					<a href="about.php">About</a>&nbsp;&nbsp;&nbsp;
+					<a href="contact.php">Contact</a>&nbsp;&nbsp;&nbsp;
 					<a href="site-map.php">Site Map</a>&nbsp;&nbsp;&nbsp;
 					<a href="privacy_policy.php">Privacy Policy</a> &nbsp;&nbsp;
 					
-					<img src="/CDC/web/bybh/images/healthy_chicago_logo.png" align="absmiddle" />
+					<img src="<?=$root;?>/images/healthy_chicago_logo.png" align="absmiddle" />
 				</ul>
 			</div>
+			
 		</div>
 	</div>
-</footer>   
+</div>   
 
 
   <script src="/CDC/web/bybh/javascripts/jquery.foundation.mediaQueryToggle.js"></script>

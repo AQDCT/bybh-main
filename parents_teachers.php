@@ -6,7 +6,7 @@
 
 <head>
 
-  <title>Parents &amp; Teachers</title>
+  <title>Adults Who Care</title>
 
 <?php include("includes/head.php"); ?>
 
@@ -29,11 +29,11 @@
 	</div>
 
 	<div class="three columns">
-		<ul class="nav open hide-for-small tpad" style="position: fixed; padding-left: 25px">
-			<h4>Parents &amp; Teachers</h4><hr>
+		<ul class="nav open hide-for-small tpad105" style="position: fixed; padding-left: 25px">
+			<h4>Adults Who Care</h4><hr>
 			
 		
-			<h4 style='margin-bottom: 0px;'><li><a href="#sectionT">Parents &amp; Teachers</a></li>
+			<h4 style='margin-bottom: 0px;'><li><a href="#sectionT">Adults Who Care</a></li>
 			<li><a href="#section3">Adolescence</a></li>
 			<li><a href="#section4">Sexual Health &amp; Adolescence</a></li>
 			<li><a href="#section5">Developmental Tasks</a></li>
@@ -76,7 +76,7 @@
 	
     	<div class="row">
       		<div class="nine columns offset-by-one">
-      			<h1>Parents &amp; Teachers</h1>
+      			<h1>Adults Who Care</h1>
       		</div>
     	</div>
     
@@ -675,10 +675,10 @@ var chart = new Highcharts.Chart({
 					<p><i>Forms your physician needs to complete:</i>
 					
 					<ol>
-					<li><a href="pdf/4-Asthma 1-Physician request for school to administer medicine to student.pdf" target="_blank"> <i class="icon-download-alt"> </i> <i>Physician request for school to administer medicine to student</i></a></li>
-					<li><a href="pdf/4-Asthma 2-Physician request for student to carry an inhaler.pdf" target="_blank"> <i class="icon-download-alt"> </i> <i>Physician request for student to carry an inhaler</i></a></li>
+					<li><a href="pdf/4-Asthma 1-Physician request for school to administer medicine to student.pdf" target="_blank">Physician request for school to administer medicine to student <i class="icon-download-alt"> </i> </a></li>
+					<li><a href="pdf/4-Asthma 2-Physician request for student to carry an inhaler.pdf" target="_blank">Physician request for student to carry an inhaler  <i class="icon-download-alt"> </i> </a></li>
 					
-					<li><a href="pdf/4-Asthma 3-Physician request for student to carry Epi-Pen (if needed).pdf" target="_blank"> <i class="icon-download-alt"> </i> <i>Physician request for student to carry Epi-Pen (if needed)</i></a></li>
+					<li><a href="pdf/4-Asthma 3-Physician request for student to carry Epi-Pen (if needed).pdf" target="_blank">Physician request for student to carry Epi-Pen (if needed) <i class="icon-download-alt"> </i> </a></li>
 					</ol>
 
 				<p><i>Forms a parent or guardian you need to complete:</i></p>
@@ -686,16 +686,16 @@ var chart = new Highcharts.Chart({
 					<ol>
 					<li>Asthma Action forms:
 					<a href="pdf/4-Asthma 4-Asthma Action forms ENGLISH.pdf" target="_blank"> <i class="icon-download-alt eng"> </i> english </a>
-					<a href="pdf/4-Asthma 5-Asthma Action forms SPANISH.pdf" target="_blank"> <i class="icon-download-alt spa"> </i> espa&ntilde;ol </a></li>
+					<a href="pdf/4-Asthma 5-Asthma Action forms SPANISH.pdf" target="_blank"> <i class="icon-download-alt spa"> </i> espa&ntilde;ol</a></li>
 					
-					<li><a href="pdf/4-Asthma 6-Parent request for school to administer medicine to student.pdf" target="_blank"> <i class="icon-download-alt"> </i> Parent request for school to administer medicine to student</a></li>
+					<li><a href="pdf/4-Asthma 6-Parent request for school to administer medicine to student.pdf" target="_blank">Parent request for school to administer medicine to student <i class="icon-download-alt"> </i> </a></li>
 					</ol>
 
 				<p><i>Self-administration of medication by student:</i></p>
 				
 					<ol>
-					<li><a href="pdf/4-Asthma 7-Parent request for the school to allow child to administer medication to himherself.pdf" target="_blank"> <i class="icon-download-alt"> </i> Parent request for the school to allow child to administer medication to him/herself</a></li>
-					<li><a href="pdf/4-Asthma 8-Physician request for the student to administer medication to himherself.pdf" target="_blank"> <i class="icon-download-alt"> </i> Physician request for the student to administer medication to him/herself</a></li>
+					<li><a href="pdf/4-Asthma 7-Parent request for the school to allow child to administer medication to himherself.pdf" target="_blank">Parent request for the school to allow child to administer medication to him/herself <i class="icon-download-alt"> </i> </a></li>
+					<li><a href="pdf/4-Asthma 8-Physician request for the student to administer medication to himherself.pdf" target="_blank">Physician request for the student to administer medication to him/herself <i class="icon-download-alt"> </i> </a></li>
 					</ol>
 
 				<p><b>Diabetes</b></pr>
@@ -703,53 +703,52 @@ var chart = new Highcharts.Chart({
 			  <p><i>Forms your physician needs to complete:</i></p>
 				
 					<ol>
-					<li><a href="pdf/5-Diabetes 1-Authorization to Release Health Information.pdf" target="_blank"> </i> <i class="icon-download-alt"> </i> Authorization to Release Health Information</a></li>
+					<li><a href="pdf/5-Diabetes 1-Authorization to Release Health Information.pdf" target="_blank">Authorization to Release Health Information <i class="icon-download-alt"> </i> </a></li>
 					
-					<li><a href="pdf/5-Diabetes 2-Physicians Report on Child with Diabetes.pdf" target="_blank"> </i> <i class="icon-download-alt"> </i> Physician’s Report on Child with Diabetes</a></li>
+					<li><a href="pdf/5-Diabetes 2-Physicians Report on Child with Diabetes.pdf" target="_blank">Physician’s Report on Child with Diabetes <i class="icon-download-alt"> </i></a></li>
 				
-					<li><a href="pdf/5-Diabetes 3-Physician request for school to administer medicine to student.pdf" target="_blank"> </i> <i class="icon-download-alt"> </i> Physician request for school to administer medicine to student</a></li>
+					<li><a href="pdf/5-Diabetes 3-Physician request for school to administer medicine to student.pdf" target="_blank">Physician request for school to administer medicine to student 
+					<i class="icon-download-alt"> </i> </a></li>
 					</ol>
 
 				<p><i>Forms you need to complete:</i></p>
 					<ol>
-					<li><a href="pdf/5-Diabetes 4-Diabetes Delegated Care Aide Agreement Form.pdf" target="_blank"> </i> <i class="icon-download-alt"> </i> Diabetes Delegated Care Aide Agreement Form</a></li>
+					<li><a href="pdf/5-Diabetes 4-Diabetes Delegated Care Aide Agreement Form.pdf" target="_blank"> </i> Diabetes Delegated Care Aide Agreement Form <i class="icon-download-alt"> </i> </a></li>
 					
-					<li><a href="pdf/5-Diabetes 5-Guidelines for Managing Diabetes in Chicago Public Schools- Guidelines and Appendix.pdf" target="_blank"> <i class="icon-download-alt"> </i> Guidelines for Managing Diabetes in Chicago Public Schools- Guidelines and Appendix</a></li>
+					<li><a href="pdf/5-Diabetes 5-Guidelines for Managing Diabetes in Chicago Public Schools- Guidelines and Appendix.pdf" target="_blank">Guidelines for Managing Diabetes in Chicago Public Schools- Guidelines and Appendix <i class="icon-download-alt"> </i> </a></li>
 					
-					<li><a href="pdf/5-Diabetes 6-Guidelines for Managing Diabetes in Chicago Public Schools- Appendix Only.pdf" target="_blank"> <i class="icon-download-alt"> </i> Guidelines for Managing Diabetes in Chicago Public Schools- Appendix Only</a></li>
+					<li><a href="pdf/5-Diabetes 6-Guidelines for Managing Diabetes in Chicago Public Schools- Appendix Only.pdf" target="_blank">Guidelines for Managing Diabetes in Chicago Public Schools- Appendix Only <i class="icon-download-alt"> </i> </a></li>
 					
-					<li><a href="pdf/5-Diabetes 7-Parent request for school to administer medicine to student.pdf" target="_blank"> <i class="icon-download-alt"> </i> Parent request for school to administer medicine to student</a></li>
+					<li><a href="pdf/5-Diabetes 7-Parent request for school to administer medicine to student.pdf" target="_blank">Parent request for school to administer medicine to student <i class="icon-download-alt"> </i> </a></li>
 					</ol>
 
 				<p><i>Self-administration of medication by student:</i></p>
 					<ol>
-					<li><a href="pdf/5-Diabetes 8-Parent request for the school to allow child to administer medication to himherself.pdf" target="_blank"> <i class="icon-download-alt"> </i> Parent request for the school to allow child to administer medication to him/herself</a></li>
+					<li><a href="pdf/5-Diabetes 8-Parent request for the school to allow child to administer medication to himherself.pdf" target="_blank">Parent request for the school to allow child to administer medication to him/herself <i class="icon-download-alt"></i></a></li>
 					
-					<li><a href="pdf/5-Diabetes 9-Physician request for the student to administer medication to himherself.pdf" target="_blank"> <i class="icon-download-alt"> </i> Physician request for the student to administer medication to him/herself</a></li>
+					<li><a href="pdf/5-Diabetes 9-Physician request for the student to administer medication to himherself.pdf" target="_blank">Physician request for the student to administer medication to him/herself <i class="icon-download-alt"></i> </a></li>
 					</ol>
 
 				<p><b>Food Allergies</b></p>
 					<p><i>Forms your physician needs to complete:</i></p>
 					<ol>
-					<li><a href="pdf/6-Food Allergies 1-Physician request for school to administer medicine to student.pdf" target="_blank"> <i class="icon-download-alt"></i> Physician request for school to administer medicine to student</a></li> 
+					<li><a href="pdf/6-Food Allergies 1-Physician request for school to administer medicine to student.pdf" target="_blank">Physician request for school to administer medicine to student <i class="icon-download-alt"></i></a></li> 
 					
-					<li><a href="pdf/6-Food Allergies 2-Physician request for student to carry Epi-Pen (if needed).pdf" target="_blank"> <i class="icon-download-alt"></i> Physician request for student to carry Epi-Pen (if needed)</a></li>
+					<li><a href="pdf/6-Food Allergies 2-Physician request for student to carry Epi-Pen (if needed).pdf" target="_blank">Physician request for student to carry Epi-Pen (if needed)</a></li>
 					</ol>
 
 				<p><i>Forms you need to complete:</i></p>
 					<ol>
-					<li><a href="pdf/6-Food Allergies 3-Guidelines 9-21-11 FINAL.pdf" target="_blank"> <i class="icon-download-alt"></i>
-					Guidelines for Managing Food Allergies and Other Life Threatening Allergies</a></li>
+					<li><a href="pdf/6-Food Allergies 3-Guidelines 9-21-11 FINAL.pdf" target="_blank">
+					Guidelines for Managing Food Allergies and Other Life Threatening Allergies <i class="icon-download-alt"></i></a></li>
 					
-					<li><a href="pdf/6-Food Allergies 4-Parent request for school to administer medicine to student.pdf" target="_blank"> <i class="icon-download-alt"></i>
-					Parent request for school to administer medicine to student</a></li></li>
+					<li><a href="pdf/6-Food Allergies 4-Parent request for school to administer medicine to student.pdf" target="_blank">Parent request for school to administer medicine to student <i class="icon-download-alt"></i></a></li></li>
 					</ol>
 
 				<p><i>Self-administration of medication by student:</i></p>
 					<ol>
-					<li><a href="pdf/6-Food Allergies 5-Parent request for the school to allow child to administer medication to himherself.pdf" target="_blank"> <i class="icon-download-alt"></i> Parent request for the school to allow child to administer medication to him/herself</a></li>
-					<li><a href="pdf/6-Food Allergies 6-Physician request for the student to administer medication to himherself.pdf" target="_blank"> <i class="icon-download-alt"></i>
-					Physician request for the student to administer medication to him/herself</a></li>
+					<li><a href="pdf/6-Food Allergies 5-Parent request for the school to allow child to administer medication to himherself.pdf" target="_blank">Parent request for the school to allow child to administer medication to him/herself <i class="icon-download-alt"></i></a></li>
+					<li><a href="pdf/6-Food Allergies 6-Physician request for the student to administer medication to himherself.pdf" target="_blank">Physician request for the student to administer medication to him/herself <i class="icon-download-alt"></i></a></li>
 					</ol>
 			
 			</div>
@@ -762,6 +761,7 @@ var chart = new Highcharts.Chart({
 		<div class="row">
 			<div class="ten columns offset-by-one">
 				<h2>CPS Health Policies</h2>
+				<hr>
 				<ul>
 				<a href="pdf/Administration of Medication Policy.pdf" target="_blank"> <i class="icon-download-alt"> </i> CPS Health Policies Administration of Medication</a><br>
 				<a href="pdf/Anti-Bullying Policy.pdf" target="_blank"> <i class="icon-download-alt"> </i> Anti-Bullying</a><br>
