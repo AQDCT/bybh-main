@@ -12,6 +12,7 @@
 /* -----------------------------------------
    Shared Styles
 ----------------------------------------- */
+
 .poster {padding-top:35px}
 
 .top-bar ul {
@@ -28,10 +29,11 @@
 }
 
 body {  
+	background-size: 100%;
 	font-family: 'Istok Web', sans-serif; 
-	/*background-image: url(http://aqdct.com/CPH/3/images/love_back.png); */
+	background-image: url(http://localhost/bybh/images/beyoubehealthy_background_platform.jpg); 
 	background-repeat: no-repeat;
-	background-position: center center;
+	background-position: bottom left;
 	background-attachment: fixed;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
@@ -41,18 +43,17 @@ body {
 
 .none { background-color: none; } 
 
-
 h1, h2, h3, h4, h5, h6 { font-family: 'Economica', sans-serif; font-style: normal; color: #666; text-rendering: optimizeLegibility; line-height: 1.1; margin-bottom: 14px; margin-top: 14px; }
 
 h1 small, h2 small, h3 small, h4 small, h5 small, h6 small { font-size: 60%; color: #6f6f6f; line-height: 0; }
 
-h1 { color: #FFF; font-size:40px; font-weight: bold; }
+h1 { color: #FFF; font-size:46px; font-weight: bold; }
 
-h2 { font-size: 24px; color: #333; line-height: 1.5em; padding-top: 0px; margin-bottom: 0px }
+h2 { font-size: 28px; color: #333; line-height: 1.5em; padding-top: 0px; margin-bottom: 0px }
 
 h3 { font-size: 20px; color: #333; }
 
-h4 { font-size: 24px; }
+h4 { font-size: 24px; margin-top:14px; }
 
 h5 { font-size: 17px; color: #3dbcec }
 
@@ -98,7 +99,7 @@ text-align:center;
 
 .header{ margin-top: 55px; }
 
-ul h4 a { color: #046584; font-size: 18px; line-height: 1.5em; }
+ul h4 a { color: #046584; font-size: 18px; line-height: 1.5em; text-decoration: none; }
 
 .social { margin-top: 0; padding-bottom: 15px; padding-right:0 }
 
@@ -141,7 +142,7 @@ h1.social { font-size: 40px; }
 .top-bar img { padding-top: 0px;}
 
 .top-bar {
-	background: #000;
+	background: #FFF;
 	line-height: 45px;
 	margin: 0 0 30px 0;
 	padding: 0;
@@ -152,17 +153,18 @@ h1.social { font-size: 40px; }
 
 .contain-to-grid {
 	width: 100%;
-	background: #000;
+	background: #FFF;
 }
 
 .top-bar ul > li a:not(.button) {
-	color: #FFF;
+	color: #2BA6CB;
 	display: block;
 	font-size: 12px;
 	font-weight: bold;
-	height: 45px;
+	height: inherit;
 	line-height: 45px;
 	padding: 0 15px;
+	text-decoration: none;
 
 }
 
@@ -170,6 +172,7 @@ h1.social { font-size: 40px; }
 color: #6FCAC6 
 }
 
+ 
 /* menu hover background */
 .top-bar ul > li:not(.name):hover, .top-bar ul > li:not(.name).active, .top-bar ul > li:not(.name):focus { background: rgba(0,0,0,0.0); list-style: none; }
 
@@ -199,6 +202,7 @@ list-style: none;
 ul.right li a{
 
 list-style: none;
+text-decoration: none;
 }
 
 /* -----------------------------------------
@@ -225,7 +229,7 @@ list-style: none;
 .tpad { padding-top: 120px; }
 .tpad50 { padding-top: 50px; }
 .tpad75 { padding-top: 75px; }
-.tpad105 { padding-top: 70px; }
+.tpad105 { padding-top: 80px; }
 .tpad110 { padding-top: 110px; }
 
 .tpad135 { padding-top: 135px; }
@@ -236,7 +240,7 @@ list-style: none;
 
 
 
-.section { padding-top: 129px; margin-bottom: 250px } 
+.section { padding-top: 120px; margin-bottom: 250px } 
 .sectionH { padding-top: 190px; }
 .sectionL { margin-bottom: 1900px }
 .sectionL2 { padding-bottom: 0px; }
@@ -448,13 +452,6 @@ background-position: -8px 0;
 }
 
 
-.home h4{ font-size: 26px; }
-.home-love h4{ color: #D92B28; }
-.home-health h4{ color: #6FCAC6; }
-.home-teen h4{ color: #7CB542; }
-.home-clinic h4{ color: #F29120; }
-.home-data h4{ color: #046584; }
-
 .home-grad {
 /* IE10 Consumer Preview */ 
 background-image: -ms-linear-gradient(bottom, #FFFFFF 0%, #8C8C8C 100%);
@@ -608,6 +605,81 @@ background: #DCDCDC;
 ul.accordion > li.active {
 border-top: 3px solid #3dbcec;
 }
+
+/* POSTERS */
+
+#layer1 {
+ position: absolute;
+ z-index:1;
+ visibility: hidden;
+ width: 220px;
+ height: 220px;
+ left: 100px;
+ top: 100px;
+ margin-top:20px;
+ margin-left:15px;
+ background-color: #FFFFFF;
+ border: 1px solid #000;
+ padding: 10px;
+}
+#layer2 {
+  position: absolute;
+ z-index:1;
+ visibility: hidden;
+ width: 220px;
+ height: 220px;
+ left: 100px;
+ top: 100px;
+ margin-top:20px;
+ margin-left:15px;
+ background-color: #FFFFFF;
+ border: 1px solid #000;
+ padding: 10px;
+}
+#layer3 {
+ position: absolute;
+ z-index:1;
+ visibility: hidden;
+ width: 220px;
+ height: 220px;
+ left: 100px;
+ top: 100px;
+ margin-top:20px;
+ margin-left:15px;
+ background-color: #FFFFFF;
+ border: 1px solid #000;
+ padding: 10px;
+}
+
+#close {
+ float: right;}
+ 
+.footer a { font-weight:bold; font-size: 13px; text-decoration: none; } 
+.footer { background-color: #FFF; padding-top:20px; }
+.noscroll-footer { background-color: #FFF; padding-top:20px; }
+.noscroll-footer a { font-weight:bold; font-size: 13px; }
+
+*{ margin: 0;}
+
+.wrapper {
+	min-height: 100%;
+	height: auto !important;
+	height: 100%;
+	margin: 0 auto -65px; /* the bottom margin is the negative value of the footer's height */
+}
+
+.noscroll-footer {
+	min-height: 65px;
+	border-top:thin solid #666;
+}
+
+.footer, .push {
+	min-height: 65px; 
+	border-top:thin solid #666;
+	}
+.push {
+	min-height: 570px; 
+	}
 /* ---------------------------------------------
    !!!MUST GO LAST!!! Device Media Queries
 ------------------------------------------------ */
@@ -693,6 +765,7 @@ border-top: 3px solid #3dbcec;
 	width: auto;
 	/*background: purple;*/
  }
+ .top-bar img { padding-top: 0px;}
  .tpad { padding-top: 54px; }
  .tpad110 { padding-top: 50px; }
  .tpad135 { padding-top: 60px; }
@@ -706,10 +779,8 @@ border-top: 3px solid #3dbcec;
 	width: auto;
 	/*background: green;*/
 	}
- .top-bar img {
- 		/*display: none;*/
- 	}
- 	 .tpad { padding-top: 70px; }
+.top-bar img { padding-top: 35px;}
+ 	 .tpad { padding-top: 120px; }
  	  .tpad135 { padding-top: 65px; }
 
 }
@@ -719,9 +790,9 @@ border-top: 3px solid #3dbcec;
 @media only screen and (min-width : 68.75em) {
 		.contain-to-grid .top-bar {
 	width: auto;
-	/*background: black;*/
+	/*background: pink;*/
  }
- 	.top-bar img {
+ 	.top-bar img { padding-top: 35px;
  		/*display: none;*/
  	}
 }
@@ -731,63 +802,28 @@ border-top: 3px solid #3dbcec;
 @media only screen and (min-width : 81.25em) {
 	.contain-to-grid .top-bar {
 	width: auto;
-	/*background: #ccc;*/
+	background: #FFF;
  }
- 	.top-bar img {
- 		/*display: none;*/
+ 	.top-bar img { 
+ 	padding-top: 35px; 
  	}
-}
  
- 
-/* POSTERS */
+ }
 
-#layer1 {
- position: absolute;
- z-index:1;
- visibility: hidden;
- width: 220px;
- height: 220px;
- left: 100px;
- top: 100px;
- margin-top:20px;
- margin-left:15px;
- background-color: #FFFFFF;
- border: 1px solid #000;
- padding: 10px;
-}
-#layer2 {
-  position: absolute;
- z-index:1;
- visibility: hidden;
- width: 220px;
- height: 220px;
- left: 100px;
- top: 100px;
- margin-top:20px;
- margin-left:15px;
- background-color: #FFFFFF;
- border: 1px solid #000;
- padding: 10px;
-}
-#layer3 {
- position: absolute;
- z-index:1;
- visibility: hidden;
- width: 220px;
- height: 220px;
- left: 100px;
- top: 100px;
- margin-top:20px;
- margin-left:15px;
- background-color: #FFFFFF;
- border: 1px solid #000;
- padding: 10px;
-}
 
-#close {
- float: right;
-}
+.home a { text-decoration:none;}
+.home h4 { font-size: 22px; color:#FFF; font-weight: bold; }
+.home-love { background-color:  rgba(217, 43, 40, 0.85); border-right:3px solid rgba(0,0,0, 0.5); }
+.home-health { background-color: rgba(111, 202, 198, 0.85);border-right:3px solid rgba(0,0,0, 0.5); }
+.home-teen { background-color: rgba(124, 181, 66, 0.85); border-right:3px solid rgba(0,0,0, 0.5); }
+.home-clinic { background-color: rgba(242, 145, 34, 0.85); border-right:3px solid rgba(0,0,0, 0.5); }
+.home-data { background-color: rgba(4, 101, 132, 0.75); }
+.home .three {text-align:center;}
+
+.text-glow-hover{ color: #fff;}
+
+.text-glow-hover:hover{ text-shadow: 0 0 10px #fff;}
 
 
 
- 
+

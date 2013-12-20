@@ -31,7 +31,7 @@
 		</div>
 	
 		<div class="three mobile-four columns">
-			<ul class="nav open hide-for-small tpad" style="position: fixed; padding-left: 25px">
+			<ul class="nav open hide-for-small tpad105" style="position: fixed; padding-left: 25px">
 			<h4>Pdf files for download</h4><hr>
 			
 		<h4>

@@ -13,7 +13,7 @@
 </head>
 
 
-<body style="background: #D92B28">
+<body>
 
 <!-- Analytics -->
 <?php include("includes/ga.php"); ?>
@@ -41,7 +41,7 @@ $( document ).ready(function() {
   	<div class="eleven columns">
   	</div>
   	<div class="three columns">
-    	<ul class="nav open hide-for-small tpad110" style="position: fixed; padding-left: 25px">
+    	<ul class="nav open hide-for-small tpad105" style="position: fixed; padding-left: 25px">
     		<h4>Sex &amp; Relationships</h4>
     		<hr>
     		<h4 style="margin-bottom: 0px"><li><a href="#sectionT" data-selector='menu0'>Bodies</a></li></h4>

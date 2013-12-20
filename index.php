@@ -13,117 +13,117 @@
 </head>
 
 
-<body style="background: #FFF">
+<body>
 
 <!-- Analytics -->
 <?php include("includes/ga.php"); ?>
 <!--  END Analytics -->
 
 <!-- TOP MENU -->
-<?php include("includes/menu.php"); ?>
+<div class="fixed contain-to-grid drop">
+	<div class="row">
+		<nav class="top-bar">
+			  <ul>
+					<!-- Title Area -->
+					<li><a href="<?=$root;?>/index.php"><img class="hide-for-medium-down" src="<?=$root;?>/images/BeYouBeHealthy_logo_300.png" alt="Be You Be Healthy Logo"><img class="show-for-medium-down" src="<?=$root;?>/images/BeYouBeHealthy_logo.png" alt="Be You Be Healthy Logo"></a></li>
+					<li class="toggle-topbar"><a href="#"></a></li>
+			  </ul> 
+
+		 <section>
+			<!-- Right Nav Section -->
+
+				<ul class="right">
+		 
+				   <li class="social" style="list-style: none"><a href="http://www.facebook.com/sexloop" target="_blank"><i class="icon-facebook" style="font-color: white; font-size: 20px"> </i></a></li>
+		   
+					<li class="social" style="list-style: none"><a href="https://twitter.com/sexedloop" target="_blank"><i class="icon-twitter" style="font-color: white; font-size: 20px; padding-right: 10px"> </i></a></li>
+			
+				   <li class="social" style="list-style: none"><a href="http://www.sexedloop.com/feed" target="_blank"><i class="icon-rss" style="font-color: white; font-size: 20px; padding-right: 15px"> </i></a></li>
+		  
+				</ul>
+     	 </section>
+    </nav>	
+
+  </div>
+<!-- END TOP FIXD -->	
+
+</div>
+     
+  
 <!--  END MENU -->
 
 
-
+<!--
 <div class="row tpad135 home-grad">
 	<div class="four mobile-four columns">
-		<div class="holder smooth1">
-			<a href="posters.php"><img class="bot-shadow rnd" src="http://beyoubehealthy.org/images/posters_homepage.png"></a>
-		</div>
+		
 	</div>
     <div class="seven columns">
-	 	<div id="featured" >
 	 	
-			<a href="bodies.php#section11">
-			<img class="rnd" src="http://beyoubehealthy.org/images/slider3.jpg"></a>
-			
-			<a href="bodies.php#section11">
-			<img class="rnd" src="http://beyoubehealthy.org/images/slider4.jpg"></a>
-			
-			<a href="love_the_glove.php#section4">
-			<img class="rnd" src="http://beyoubehealthy.org/images/slider5.jpg"></a>
-			
-			<a href="http://sexedloop.com/2013/03/21/dont-bully-me-down" target="_blank">
-			<img class="rnd" src="http://beyoubehealthy.org/images/slider6.jpg"></a>
-
-			<a href="http://www.inspot.org" target="_blank">
-			<img class="rnd" src="http://beyoubehealthy.org/images/slider7.jpg"></a>
-			
-		</div>
 
     </div>
     
     <div class="four columns">
-   		<a href="love_the_glove.php"><img class="bot-shadow rnd" src="images/love_the_glove_home.png"></a>
+   	
 	</div>
 	
 </div>
+-->
 
-<div class="row home">
-    <div class="fifteen columns centered" style="margin-top: 20px">	
-
-		 <div class="three columns home-love" style="border-right: thin solid #dcdcdc">
-			<div class="holder smooth">
-				<a href="bodies.php"><img class="bot-shadow" src="http://beyoubehealthy.org/images/love.png"></a>
-				<div class="go-top love">
-					
-					<!--Image Description-->
-					<p>	</p> 
-				</div>
-			</div>
-			<h4>Sex &amp; Relationships</h4>
-		</div>
-		
-		 <div class="three columns home-health" style="border-right: thin solid #dcdcdc">
-			<div class="holder smooth">
-				<a href="health-matters.php"><img class="bot-shadow" src="http://beyoubehealthy.org/images/health.png"></a>
-				<div class="go-top health">
-					<!--Image Description
-					<p>	</p> -->
-				</div>
-			</div>
-			<h4>Health Matters</h4>
-		</div>
-		
-		 <div class="three columns home-teen" style="border-right: thin solid #dcdcdc">
-			<div class="holder smooth">
-				<a href="teen_health_rights.php"><img class="bot-shadow" src="http://beyoubehealthy.org/images/rights.png"></a>
-				<div class="go-top teen">
-					<!--Image Description
-					<p>	</p> -->
-				</div>
-			</div>
-			<h4>Teen Health Care Rights</h4>
-		</div>
-		
-		 <div class="three columns home-clinic" style="border-right: thin solid #dcdcdc">
-			<div class="holder smooth">
-				<a href="clinic_finder.php"><img class="bot-shadow" src="http://beyoubehealthy.org/images/clinic.png"></a>
-				<div class="go-top clinic">
-					<!--Image Description
-					<p>	</p> -->
-				</div>
-			</div>
-			<h4>Clinic Finder</h4>
-		</div>
-		
-		 <div class="three columns home-data">
-			<div class="holder smooth">
-				<a href="health_data_research.php"><img class="bot-shadow" src="http://beyoubehealthy.org/images/data_research.png"></a>
-				<div class="go-top data">
-					
-					<!--Image Description
-					<p>	</p> -->
-				</div>
-				
-			</div>
-			<h4>Health Data & Research</h4>
-		</div>
-
+<div class="hide-for-medium-down" style="margin: 250px 0px 150px ">
+	<div class="row">
+		<div class="six columns push-nine">
+			<h1 style="font-size:42px">It is easier to build strong children than to repair broken men.</h1>
+			<h5 style="color:#dcdcdc; text-align:right; padding-right:40px; margin-top:40px;">.... Fredrick Douglas</h5>
+					</div>
+		<div class="one columns"></div>
 	</div>
 </div>
+
+<div class="show-for-medium" style="margin: 140px 0px 180px ">
+	<div class="row">
+		<div class="seven columns push-eight">
+			<h1 style="font-size:36px">It is easier to build strong children than to repair broken men.</h1>
+			<h5 style="color:#dcdcdc; text-align:right; padding-right:40px; margin-top:40px;">.... Fredrick Douglas</h5>
+					</div>
+		<div class="one columns"></div>
+	</div>
+</div>
+
+<div class="show-for-medium-down" style="margin: 60px 0"></div>
+	<div class="row home">
+		<div class="fifteen columns">	
+			
+			<div class="row">
+				<div class="twelve columns push-three">
+				
+					<div class="text-glow-hover three columns home-love panel">
+							<a href="bodies.php"><h4>Sex &amp; Relationships</h4></a>
+					</div>
+	
+					<div class="text-glow-hover three columns home-health panel">
+							<a href="health-matters.php"><h4>Health Matters</h4></a>
+					</div>
+	
+					<div class="text-glow-hover three columns home-teen panel">
+							<a href="teen_health_rights.php"><h4>Your Health Care Rights</h4></a>
+					</div>
+	
+					<div class="text-glow-hover three columns home-clinic panel">
+							<a href="http://www.sexedloop.com" target="_blank"><h4>BeYou Media</h4></a>
+					</div>
+	
+					 <div class="text-glow-hover three columns home-data panel">
+							<a href="health_data_research.php"><h4>Health Data & Research</h4></a>			
+					</div>
+					
+				</div>
+			</div>
+		</div>
+		
+</div>
     
-<?php include("includes/footer.php"); ?>
+<?php include("includes/noscroll-footer.php"); ?>
   
 
   <!-- Included JS Files (Compressed) -->
@@ -132,7 +132,7 @@
   <!-- Initialize JS Plugins -->
   <!-- <script src="javascripts/app.js"></script> -->
 
- 
+ <!--
 			<script>
 		  $('#featured').orbit({
 		  animation: 'fade',      // fade, horizontal-slide, vertical-slide, horizontal-push
@@ -154,7 +154,7 @@
 		  fluid: true                         // or set a aspect ratio for content slides (ex: '4x3')
 		});
     </script> 
-    
+  -->  
     
   
 </body>

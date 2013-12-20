@@ -26,7 +26,7 @@
   	<div class="eleven columns">
   	</div>
   	<div class="three mobile-four columns">
-    	<ul class="nav open hide-for-small tpad105 tight list" style="position: fixed; padding-left: 25px">
+    	<ul class="nav open hide-for-small tpad105" style="position: fixed; padding-left: 25px">
     		<h4>Health Matters</h4>
     		<hr>
     		<h4 style='margin-bottom: 0px;'>
