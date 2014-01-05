@@ -1,6 +1,7 @@
 <?php
 error_reporting(E_ALL); ini_set('display_errors', 'On'); 
 include('admin/config.php');
+
 $conn=mysql_connect($hostname, $username, $password);
 // Check connection
 if(! $conn )
@@ -27,9 +28,9 @@ function sendRegistrantEmail($email){
   
 }
 
-function sendAdminEmail($database, $firstname, $lastname, $email, $address, $city, $state, $zip, $school){
+function sendAdminEmail($database, $firstname, $lastname, $email, $address, $city, $state, $zip, $school, $age_range){
 
-  $stmt = "INSERT INTO `$database`.`condom_giveaway` (firstname, lastname, email, address, city, state, zip, school) VALUES ('".$firstname."', '".$lastname."', '".$email."', '".$address."', '".$city."', '".$state."', '".$zip."', '".$school."')";
+  $stmt = "INSERT INTO `$database`.`condom_giveaway` (firstname, lastname, email, address, city, state, zip, school, age_range) VALUES ('".$firstname."', '".$lastname."', '".$email."', '".$address."', '".$city."', '".$state."', '".$zip."', '".$school."', '".$age_range".')";
   $insert = mysql_query($stmt);
 
   $send = "<h1>Another request has come in for the condom giveaway.</h1>";
@@ -58,15 +59,14 @@ function sendAdminEmail($database, $firstname, $lastname, $email, $address, $cit
 
 $firstname = mysql_real_escape_string($_GET['firstname']);
 $lastname = mysql_real_escape_string($_GET['lastname']);
-
 $email = mysql_real_escape_string($_GET['email']);
-
 $address = mysql_real_escape_string($_GET['address']);
 $city = mysql_real_escape_string($_GET['city']);
 $state = mysql_real_escape_string($_GET['state']);
 $zip = mysql_real_escape_string($_GET['zip']);
-
 $school = mysql_real_escape_string($_GET['school']);
+$age_range = mysql_real_escape_string($_GET['age_range']);
+
 //echo "('".$firstname."', '".$lastname."', '".$email."', '".$address."', '".$city."', '".$state."', '".$zip."', '".$school."')";
 $sql='SELECT email FROM `'.$database.'`.`condom_giveaway` WHERE email="'.$email.'"';
 //echo $sql;
@@ -75,7 +75,7 @@ $result = mysql_query($sql);
 $count = mysql_num_rows($result);
 
 if($count == 0){
-  $success = sendAdminEmail($database, $firstname, $lastname, $email, $address, $city, $state, $zip, $school);
+  $success = sendAdminEmail($database, $firstname, $lastname, $email, $address, $city, $state, $zip, $school, $age_range);
 }
 else{
   $success = "error";
