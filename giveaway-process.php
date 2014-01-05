@@ -30,7 +30,7 @@ function sendRegistrantEmail($email){
 
 function sendAdminEmail($database, $firstname, $lastname, $email, $address, $city, $state, $zip, $school, $age_range){
 
-  $stmt = "INSERT INTO `$database`.`condom_giveaway` (firstname, lastname, email, address, city, state, zip, school, age_range) VALUES ('".$firstname."', '".$lastname."', '".$email."', '".$address."', '".$city."', '".$state."', '".$zip."', '".$school."', '".$age_range".')";
+  $stmt = "INSERT INTO `$database`.`condom_giveaway` (firstname, lastname, email, address, city, state, zip, school, age_range) VALUES ('".$firstname."', '".$lastname."', '".$email."', '".$address."', '".$city."', '".$state."', '".$zip."', '".$school."', '".$age_range."')";
   $insert = mysql_query($stmt);
 
   $send = "<h1>Another request has come in for the condom giveaway.</h1>";
