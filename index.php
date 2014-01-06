@@ -50,45 +50,39 @@
 </div>
      
   
-<!--  END MENU -->
 
 
-<!--
-<div class="row tpad135 home-grad">
-	<div class="four mobile-four columns">
-		
-	</div>
-    <div class="seven columns">
-	 	
-
-    </div>
-    
-    <div class="four columns">
-   	
-	</div>
-	
-</div>
--->
-
-<div class="hide-for-medium-down" style="margin: 250px 0px 150px ">
+<div class="show-for-xlarge" style="margin:320px 0px 190px;">
 	<div class="row">
-		<div class="six columns push-nine">
+		<div class="seven columns push-eight">
 			<h1 style="font-size:42px">It is easier to build strong children than to repair broken men.</h1>
 			<h5 style="color:#dcdcdc; text-align:right; padding-right:40px; margin-top:40px;">.... Fredrick Douglas</h5>
-					</div>
+		</div>
 		<div class="one columns"></div>
 	</div>
 </div>
 
-<div class="show-for-medium" style="margin: 140px 0px 180px ">
+<div class="show-for-large" style="margin: 290px 0px 140px;">
+	<div class="row">
+		<div class="seven columns push-eight">
+			<h1 style="font-size:42px">It is easier to build strong children than to repair broken men.</h1>
+			<h5 style="color:#dcdcdc; text-align:right; padding-right:40px; margin-top:40px;">.... Fredrick Douglas</h5>
+		</div>
+		<div class="one columns"></div>
+	</div>
+</div>
+
+<div class="show-for-medium" style="margin: 240px 0px 140px ">
 	<div class="row">
 		<div class="seven columns push-eight">
 			<h1 style="font-size:36px">It is easier to build strong children than to repair broken men.</h1>
 			<h5 style="color:#dcdcdc; text-align:right; padding-right:40px; margin-top:40px;">.... Fredrick Douglas</h5>
-					</div>
+		</div>
 		<div class="one columns"></div>
 	</div>
 </div>
+
+
 
 <div class="show-for-medium-down" style="margin: 60px 0"></div>
 	<div class="row home">
@@ -110,7 +104,7 @@
 					</div>
 	
 					<div class="text-glow-hover three columns home-clinic panel">
-							<a href="http://www.sexedloop.com" target="_blank"><h4>BeYou Media</h4></a>
+							<a href="http://beyoumedia.org" target="_blank"><h4>BeYou Media</h4></a>
 					</div>
 	
 					 <div class="text-glow-hover three columns home-data panel">

@@ -31,7 +31,9 @@
 body {  
 	background-size: 100%;
 	font-family: 'Istok Web', sans-serif; 
-	background-image: url(/images/beyoubehealthy_background_platform.jpg); 
+background-image: url(http://localhost/bybh/images/beyoubehealthy_background_platform.jpg); 
+
+	/*background-image: url(/images/beyoubehealthy_background_platform.jpg); */
 	background-repeat: no-repeat;
 	background-position: bottom left;
 	background-attachment: fixed;
