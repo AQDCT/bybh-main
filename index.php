@@ -55,8 +55,8 @@
 <div class="show-for-xlarge" style="margin:320px 0px 190px;">
 	<div class="row">
 		<div class="seven columns push-eight">
-			<h1 style="font-size:42px">It is easier to build strong children than to repair broken men.</h1>
-			<h5 style="color:#dcdcdc; text-align:right; padding-right:40px; margin-top:40px;">.... Fredrick Douglas</h5>
+			<h1 style="font-size:42px; text-align: right; padding-right:40px;">It is easier to build strong children<br/>than to repair broken men.</h1>
+			<h5 style="color:#dcdcdc; text-align:right; padding-right:40px; margin-top:40px;">- Fredrick Douglas</h5>
 		</div>
 		<div class="one columns"></div>
 	</div>
@@ -65,8 +65,8 @@
 <div class="show-for-large" style="margin: 290px 0px 140px;">
 	<div class="row">
 		<div class="seven columns push-eight">
-			<h1 style="font-size:42px">It is easier to build strong children than to repair broken men.</h1>
-			<h5 style="color:#dcdcdc; text-align:right; padding-right:40px; margin-top:40px;">.... Fredrick Douglas</h5>
+			<h1 style="font-size:42px; text-align: right; padding-right:40px;">It is easier to build strong children<br/> than to repair broken men.</h1>
+			<h5 style="color:#dcdcdc; text-align:right; padding-right:40px; margin-top:40px;">- Fredrick Douglas</h5>
 		</div>
 		<div class="one columns"></div>
 	</div>
@@ -75,8 +75,8 @@
 <div class="show-for-medium" style="margin: 240px 0px 140px ">
 	<div class="row">
 		<div class="seven columns push-eight">
-			<h1 style="font-size:36px">It is easier to build strong children than to repair broken men.</h1>
-			<h5 style="color:#dcdcdc; text-align:right; padding-right:40px; margin-top:40px;">.... Fredrick Douglas</h5>
+			<h1 style="font-size:36px; text-align: right; padding-right:40px;">It is easier to build strong children<br/> than to repair broken men.</h1>
+			<h5 style="color:#dcdcdc; text-align:right; padding-right:40px; margin-top:40px;">- Fredrick Douglas</h5>
 		</div>
 		<div class="one columns"></div>
 	</div>
