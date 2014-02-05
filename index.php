@@ -108,7 +108,7 @@
 					</div>
 	
 					 <div class="text-glow-hover three columns home-data panel">
-							<a href="health_data_research.php"><h4>Health Data & Research</h4></a>			
+							<a href="data/web/studies"><h4>Health Data & Research</h4></a>			
 					</div>
 					
 				</div>

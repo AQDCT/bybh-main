@@ -9,7 +9,7 @@
   
 <?php
   
-  $root = '/bybh';
+  $root = '/bybh-main';
 
 ?>  
 
