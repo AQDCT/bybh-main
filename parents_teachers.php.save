@@ -53,8 +53,6 @@
 						<span class="left-indent" id="menu0">
 										<li><a href="#section721">Youth in Foster Care</a></li>
 										<li><a href="#section722">Pregnant and Parenting Youth</a></li>
-										<li><a href="#section723">Finding Food</a></li>
-										<li><a href="#section724">Homelessness</a></li>
 							</span>
 		
 			<h4 style='margin-top: 0px'>
@@ -564,7 +562,9 @@ var chart = new Highcharts.Chart({
     });
 });
     
-</script><h3>Why does this difference exist?</h3>
+</script>
+
+<h3>Why does this difference exist?</h3>
 <p>Youth in care may face multiple risk factors:</p>
 <ul>
   <li>Histories of abuse and neglect</li>
@@ -651,68 +651,9 @@ var chart = new Highcharts.Chart({
 </div></div></div>
 
 
-<div class="section" id="section723">
-	<div class="row">
-		<div class="ten columns offset-by-one">
-		<h2>Finding Food in Chicago</h2>
-
-			<p>People who live in neighborhoods without a large chain grocery store (Dominick’s, Jewel-Osco, etc.) are less likely to have a healthy diet. This specifically has an impact on young people:</p>
-			<ul>
-			<li>When people don’t have a major grocery store, they buy food at convenience stores and fast food restaurants.</li>
-
-			<li>When more of these types of stores and restaurants are available, young people have a higher body mass index (BMI). This means more adolescents are overweight or obese.</li>
-			</ul>
-			
-			<p>Chicago’s food bank, the Greater Chicago Food Depository, works to end hunger:</p>
-			<ul>
-			<li>Distributing donated foods to its network of 650 food pantries, soup kitchens, and shelters. 
-			<li>37% of the people they serve are younger than 18. 
-			</ul>
-			<p>To find a food pantry, soup kitchen, or shelter in Cook County click <a href="http://www.chicagosfoodbank.org/site/PageServer?pagename=member_need_food"> here</a>.</p>
-
-			<p>Source:
-			The Joint Center for Political and Economic Studies. <a href="http://www.jointcenter.org/sites/default/files/upload/research/files/Place%20Matters%20for%20Health%20in%20Cook%20County.pdf" target="_blank">“Place Matters for Health in Cook County: Ensuring opportunities for good health for all"</a>. July 2012.</p> 
-
-		</div>
-	</div>
-</div>
 
 
-<div class="section" id="section724">
-	<div class="row">
-		<div class="ten columns offset-by-one">
-			<h2>Homelessness in Chicago</h2>
 
-			<p>In a given year, approximately 15,000 young people (between the ages of 13 and 21) experience homelessness. There are many reasons for this, but most have either left home or, due to serious family problems, were kicked out.</p>
-
-			<p>“What am I worth?” <a href="http://www.youtube.com/watch?v=4IyE7CxT3_s&feature=youtu.be">Watch Here</a></p>
-			<p>Learn more about funding advocacy here: <a href="http://www.chicagohomeless.org/programs-campaigns/advocacy-public-policy/budget-advocacy/">www.chicagohomeless.org/programs-campaigns/advocacy-public-policy/budget-advocacy</a></p>
-
-			<p>Some youth are particularly at risk for becoming homeless, including:</p>
-			<ul>
-				<li>Pregnant and parenting teens</li> 
-				<li>Wards of the State (current and former)</li> 
-				<li>Youth who identify as lesbian, gay, bisexual, transgendered, or questioning (LGBTQ)</li> 
-			</ul>
-
-			<p>Homeless youth are more likely to be endangered and at greater risk for assault. There are not enough resources to address the problem of homelessness among young people.</p>
-
-			<p>Here are two resources to help you or a friend overcome homelessness.</p>
-			<ul>
-				<li>The Night Ministry provides housing and other services for homeless youth and adults in Chicago. For more information about their program, visit their <a href="http://www.thenightministry.org/">website</a>.</li>
-				<li>Through their Home Free program, The National Runaway Safeline (NRS) provides bus tickets to adolescents who have run away from home and want to return. To contact NRS, call 1-800-RUNAWAY. For more information visit the  <a href="http://www.1800runaway.org"> NRS website</a>.</li> 
-			</ul>
-
-			<p>Source: Lakeview Action Coalition. <a href="http://www.lakeviewaction.org/fact_sheet_on_homeless_youth.html"> “Fact Sheet on Homeless Youth”</a></p>
-			
-			<p>Source: Lakeview Action Coalition. “Fact Sheet on Homeless Youth” <a href="http://www.lakeviewaction.org/fact_sheet_on_homeless_youth.html">www.lakeviewaction.org/fact_sheet_on_homeless_youth.html</a></p>
-			
-			<p>More Resources:<br>Homeless Youth Survey: <a href="www.impactresearch.org">www.impactresearch.org</a> (click on publications)<br>
-			Chicago Coalition for the Homeless: <a href="www.chicagohomeless.org">www.chicagohomeless.org</a></p>
-			</div>
-		</div>
-
-	</div>
 	<div class="section" id="section8">
 		<div class="row">
 			<div class="ten columns offset-by-one">

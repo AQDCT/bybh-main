@@ -2,7 +2,7 @@
 
 $username = "dbo466179813";
 $database = "db466179813";
-$password = "shiva2013";
+$password = "Baseba2l!";
 $hostname = "localhost:/tmp/mysql5.sock"; 
 $con=mysql_connect($hostname, $username, $password);
 // Check connection

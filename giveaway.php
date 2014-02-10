@@ -99,7 +99,7 @@
   </div>
 </div>
 <!-- TOP MENU -->
-<?php include("includes/footer.php"); ?>
+<?php include("includes/noscroll-footer.php"); ?>
 <!--  END MENU -->
 
 </body>

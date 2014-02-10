@@ -1,17 +1,16 @@
-
 <?php
 
-/* SERVER 
+/* SERVER  */
 $username = "dbo466179813";
 $database = "db466179813";
-$password = "Bananas!!";
+$password = "Baseba2l!";
 $hostname = "localhost:/tmp/mysql5.sock"; 
-*/
 
-/* LOCAL  */
+
+/* LOCAL  
 $username = 'root';
 $database = 'bybh';
 $password = 'root';
 $hostname = 'localhost';
-
+*/
 ?>

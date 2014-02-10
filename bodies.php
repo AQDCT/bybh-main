@@ -1055,12 +1055,17 @@ away because daring you to prove love is not love.
   <li>Being forced to listen to someone talk sexually to you</li>
 </ul>
 <p>When reading through these examples of sexual violence, did you notice if they have anything in common? You may have seen that all forms of sexual violence are sexual acts in which there is a <strong>lack of consent</strong>. In other words, unless you say &ldquo;yes&rdquo; to a sexual act, it is wrong for someone to touch you in a sexual way, make you touch them in a sexual way, have you look at sexual movies or images, or any other sexual behavior that you do not explicitly agree to participate in. </p>
-<p>To start a conversation about what consent does (or doesn&rsquo;t) look like, visit <a href="http://vimeo.com/9205801">http://vimeo.com/9205801</a></p>
-<p>To think about what it means to consent, visit <a href="http://www.youtube.com/watch?v=bgd3m-x46JU">http://www.youtube.com/watch?v=bgd3m-x46JU</a></p>
-<p>Without consent, any sexual act can be a form of sexual violence. If you have been in a sexual situation in which you were forced, tricked, or manipulated and you felt uncomfortable during the act, you can get help. There are many <u>resources</u> (&ldquo;resources&rdquo; should link to Sexual Violence Resources section) for those who have been sexually assaulted or sexually abused in the Chicago community, nationwide, and on the Internet.</p>
-<p>To share the experiences of survivors of sexual violence, check out Project Unbreakable: <a href="http://www.youtube.com/watch?v=5YN_GQStLbM">http://www.youtube.com/watch?v=5YN_GQStLbM</a></p>
-<p>If you or someone you know has experienced sexual violence, you can get help. If you&rsquo;d like to help spread the word about consent, there are lots of resources to help you become an advocate against sexual violence. Check out our <u>Sexual Violence Resources</u> section for support. (&ldquo;Sexual Violence Resources&rdquo; should link to Sexual Violence Resources section)</p>
-<p>To learn more about the influence of the media on &ldquo;normalizing&rdquo; sexual violence, especially in the context of drinking alcohol: <a href="http://www.youtube.com/watch?v=-hr58RXDC3o">http://www.youtube.com/watch?v=-hr58RXDC3o</a></p>
+<p>To start a conversation about what consent does (or doesn&rsquo;t) look like, check this out:</p>
+<div class="flex-video widescreen vimeo"><iframe src="//player.vimeo.com/video/9205801" width="560" height="auto" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
+<p>To think about what it means to consent:</p>
+<div class="flex-video widescreen"><iframe width="560" height="auto" src="//www.youtube.com/embed/bgd3m-x46JU" frameborder="0" allowfullscreen></iframe></div>
+
+<p>Without consent, any sexual act can be a form of sexual violence. If you have been in a sexual situation in which you were forced, tricked, or manipulated and you felt uncomfortable during the act, you can get help. There are many resources for those who have been sexually assaulted or sexually abused in the Chicago community, nationwide, and on the Internet.</p>
+<p>To share the experiences of survivors of sexual violence, check out Project Unbreakable:</p>
+<div class="flex-video widescreen vimeo "><iframe width="560" height="auto" src="//www.youtube.com/embed/5YN_GQStLbM" frameborder="0" allowfullscreen></iframe></div>
+<p>If you or someone you know has experienced sexual violence, you can get help. If you&rsquo;d like to help spread the word about consent, there are lots of <a href="#section410" data-selector="menu3">resources</a> to help you become an advocate against sexual violence. Check out our <a href="#section410" data-selector="menu3">Sexual Violence Resources</a> section for support. (&ldquo;Sexual Violence Resources&rdquo; should link to Sexual Violence Resources section)</p>
+<p>To learn more about the influence of the media on &ldquo;normalizing&rdquo; sexual violence, especially in the context of drinking alcohol:</p>
+<div class="flex-video widescreen vimeo "><iframe width="560" height="auto" src="//www.youtube.com/embed/-hr58RXDC3o" frameborder="0" allowfullscreen></iframe></div>
 
   <h2><strong>Verbal Signals of Consent</strong></h2>
 <table width='100%'>
@@ -1339,7 +1344,7 @@ Illinois Coalition Against Sexual Assault, <em>After Sexual Assault</em> (<a hre
            <h2>Dating Violence</h2>
   <p><strong>Dating Violence is a pattern of physically, sexually, verbally, and/or emotionally abusive or controlling behavior in a dating relationship.</strong></p>
 <p>It may involve digital communications and technologies, verbal communication, and physical interactions.</p>
-<p><strong><u>Physical Abuse</u> is any unwanted contact with the other person&rsquo;s body. It does not have to leave a mark or a bruise. <strong></strong></p>
+<p><strong><u>Physical Abuse</u></strong> is any unwanted contact with the other person&rsquo;s body. It does not have to leave a mark or a bruise.</p>
 <blockquote>
   <p>Some examples: <br>
     scratching, pinching, biting, pulling hair, spitting, choking, <br>
@@ -1356,8 +1361,7 @@ Illinois Coalition Against Sexual Assault, <em>After Sexual Assault</em> (<a hre
     not letting someone use protection against STIs or birth control <br>
     forcing someone to pose for still/video images of him/herself and share them<br>
     forcing someone to wear or not wear items of clothing<br>
-    recording a sexual act or nude image of someone without their consent<br>
-    sending someone unsolicited and unwelcomed sexual images </p>
+    recording a sexual act or nude image of someone without their consent<br>    sending someone unsolicited and unwelcomed sexual images </p>
 </blockquote>
 <p><strong><u>Verbal/Emotional Abuse</u></strong> is saying or doing something to another person that causes the person to have a lower self-esteem<strong>, </strong>trying to control the person&rsquo;s feelings or behaviors,<strong> </strong>and<strong> </strong>take place in real life or through digital technologies, like social networks, text messages, etc – including through online posts or digital communications that threaten, harass, or embarrass someone.<strong></strong></p>
 <blockquote>
@@ -1394,7 +1398,8 @@ Illinois Coalition Against Sexual Assault, <em>After Sexual Assault</em> (<a hre
 <p>Do you have a trusted friend, family member or a teacher that you can talk to? If not there are organizations that can help you. Visit loveisrespect.org to learn more.&nbsp;If you need help right away, text the National Dating Abuse Hotline:&nbsp;text 'loveis'&nbsp;to 77054&nbsp;or call&nbsp;1-866-331-9474.</p>
 <p>You can also call the City of Chicago&rsquo;s free Domestic Violence Help Line&nbsp;at 1-877-863-6338.</p>
 <p><strong>LINKS TO RESOURCES: </strong><br>
-  One Love Foundation's 'Be 1 For Change' video<strong> make the embedded video larger</strong> <br>
+  One Love Foundation's 'Be 1 For Change': <br>
+<div class="flex-video widescreen"><iframe width="560" height="auto" src="//www.youtube.com/embed/c7U__fvlf58" frameborder="0" allowfullscreen></iframe></div>
   <br>
   <a href="http://www.joinonelove.org/main.asp?page=78" target="_blank">Free Danger Assessment Mobile App</a>: Feeling unsure about your relationship, or a friend&rsquo;s? Take this free quiz. <br>
   <a href="http://sexedloop.com/need-to-know/healthyrelationships/" target="_blank">Sex Ed Loop Blog</a>: What you need to know about healthy relationships<br>
@@ -1445,11 +1450,12 @@ Rapists may threaten to kill the victim if they don&rsquo;t do what they are tol
       <div class="ten columns offset-by-one" style="margin-bottom: 100px">     
            <h2>Male Survivors</h2>
 <blockquote>When many people think of sexual violence, they think of it as &ldquo;a woman&rsquo;s problem&rdquo;</blockquote>
+<div class="flex-video widescreen"><iframe width="560" height="315" src="//www.youtube.com/embed/aphNXHzz9FU" frameborder="0" allowfullscreen></iframe></div>
 <p>As a result, sexual violence education often teaches women to protect themselves. Most education focuses on teaching men not to rape, and teaching women how &lsquo;not to be raped&rsquo;. </p>
 <p><strong>It is also important to recognize that men can be sexually assaulted.</strong><strong> </strong></p>
 <p>Sexual violence is about one person trying to take the power away from another and taking control over her or him. In other words, sexual violence is a crime that is not motivated by sex. To hear more about rape as &ldquo;a power issue,&rdquo; listen to a former US Marine&rsquo;s story on overcoming rape by <a href="http://www.bbc.co.uk/news/magazine-23152463" target="_blank">clicking here</a>.</p>
 <p>If you are a victim of sexual violence, it is not your fault. No matter where you were or what you did or did not do, the only thing that causes an act of violence is a perpetrator. While studies show that many men do not report an occurrence of sexual assault, it is important for you to come forward to get the help you deserve.
-<h3>Men and Sexual Assault</h3>
+
 
 
 
@@ -1498,26 +1504,17 @@ var chart = new Highcharts.Chart({
     
 </script>
 
-<p>Some of the reasons males do not come forward:</p>
+<p>Some of the reasons males do not come forward:</p> 
+
 <ul>
-  <li>Fear that they won&rsquo;t be believed.</strong><br/> When many people think of a sexual assault,       they think of a man assaulting a woman and may find it hard to accept the       fact that men are sexually assaulted as well.</li>
+  <li><strong>Fear that they won't be believed.</strong> When many people think of a sexual assault, they think of a man assaulting a woman and may find it hard to accept the fact that men are sexually assaulted as well.</li>
   
-  <li>Fear of being blamed</li>
-  <ul>
-    <li>You may think &quot;…if only I would have       been more careful or aware…&quot; These thoughts may lead you to believe       that the attack was somehow your fault. Others may make it worse by       implying that if you would - or would not have done - certain things, you       wouldn&rsquo;t have been raped. </li>
-  </ul>
-</ul>
-<ul>
-  <li>Question of &ldquo;Manhood&rdquo;</li>
-  <ul>
-    <li>&quot;Manhood&quot; is often measured in       terms of physical and emotional strength. Sometimes, a male survivor       won&rsquo;t come forward because he fears that others might question his       &quot;manhood&quot; because of what has happened to him.</li>
-  </ul>
-</ul>
-<ul>
-  <li>Question of sexuality</li>
-  <ul>
-    <li>When a man is raped, it is almost always by       another man, and research seems to indicate that some victims never come       forward because they fear being labeled homosexual or gay, especially if       the victim has an erection or ejaculates--a physical response that can       happen even if the victim is unconscious.</li>
-  </ul>
+  <li><b>Fear of being blamed</b> You may think "if only I would have been more careful or aware?" These thoughts may lead you to believe that the attack was somehow your fault. Others may make it worse by implying thatg that if you would - or would not have done &mdash; certain things, you wouldn't have been raped.</li>
+
+	<li><b>Question of 'Manhood'</b>'Manhood' is often measured in terms of physical and emotional strength. Sometimes, a male survivor won't come forward because he fears that others might question his 'manhood' because of what has happened to him</li>
+
+  <li><b>Question of sexuality</b> When a man is raped, it is almost always by another man, and research seems to indicate that some victims never come forward because they fear being labeled homosexual or gay, especially if the victim hasan erection or ejaculates &mdash; a physical response that can happen even if the victim is unconscious.</li>
+
 </ul>
 <p>While many of these reasons stop men from coming forward about sexual violence, all victims deserve medical, legal, and advocacy support. </p>
 <p>If you are a man who has experienced sexual violence, you can get help through a variety of sexual assault resources by <A href="bodies.php#section410">clicking here</a>.</p>
@@ -1541,19 +1538,7 @@ var chart = new Highcharts.Chart({
 <p>The <strong>advocate</strong> is the victim&rsquo;s confidential personal link. An advocate knows the workers at the hospital, police station, and courthouse. They work with these people to help the victim and their family. Most importantly, you do not have to pay for an advocate&rsquo;s help.</p>
 <p><strong>How to Get an Advocate </strong>
 <br>There are several ways a victim or their family and friends can contact an advocate. </p>
-<p>The Illinois Coalition Against Sexual Assault (ICASA) has rape crisis centers all over the state. You can find information about each center at the <a href="http://www.icasa.org/home.aspx?PageID=500&" target="_blank">ICASA website</a>.</p>
-<ul>
-  <li>They also have counselors who can listen and advise you.</li>
-</ul>
-<ul>
-  <li>Rape Victim Advocates (RVA) also provides advocacy and counseling to those affected by rape. Call 312-443-9603 or visit the <a href="http://www.rapevictimadvocates.org/" target="_blank">RVA website</a> for more information.</li>
-</ul>
-<ul>
-  <li>At the hospital emergency room, ask a nurse      or other hospital employee to call an advocate. The advocate will come to      the hospital to help the victim.</li>
-</ul>
-<ul>
-  <li>Call the police to report the crime, and ask      the police to call an advocate.</li>
-</ul>
+<p>The Illinois Coalition Against Sexual Assault (ICASA) has rape crisis centers all over the state. You can find information about each center at the <a href="http://www.icasa.org/home.aspx?PageID=500&" target="_blank">ICASA website</a>. They also have counselors who can listen and advise you. Rape Victim Advocates (RVA) also provides advocacy and counseling to those affected by rape. Call 312-443-9603 or visit the <a href="http://www.rapevictimadvocates.org/" target="_blank">RVA website</a> for more information. At the hospital emergency room, ask a nurse      or other hospital employee to call an advocate. The advocate will come to      the hospital to help the victim. Call the police to report the crime, and ask the police to call an advocate.</p>
 <p><strong>Advocate&rsquo;s Limitations</strong>
   <br>An advocate can assist the victim in several ways; however, there are certain things that the advocate can&rsquo;t do. An advocate does not:</p>
 <ul>
@@ -1668,7 +1653,7 @@ var chart = new Highcharts.Chart({
 <p><strong>4. Support survivors.</strong>
 <blockquote>
   <p>Listen to the women and men in your life who may be survivors, and believe them. More than 1 million women are raped in America each year. Learn how to be supportive, and know your local rape crisis center where they can get resources and help.  
-  <P>[INSERT CHART]</P>
+
   <p><em>What you can do:</em>  Get support yourself.</p></blockquote>
 
 <p><strong>5. Give your time.</strong></p>
@@ -1684,7 +1669,7 @@ var chart = new Highcharts.Chart({
 <p><strong>7. Talk with men.</strong></p>
 <blockquote>
   <p>Find out how rape has impacted their lives. Find out how much men lose by being seen as potential rapists. Find out what other men have to say about how to change that reality. Find out how to support male survivors of rape and sexual abuse. </p>
-<em>What you can do:</em>  Really listen.</blockquote>
+<p><em>What you can do:</em>  Really listen</p></blockquote>
 <p><strong>8. Organize.</strong></p>
 <blockquote>
   <p>Create a men&rsquo;s movement against male violence against women: start a dialogue group to examine cultural attitudes about rape, start a men&rsquo;s anti-rape group, bring workshops and trainings into your school or workplace. </p>
@@ -1693,7 +1678,7 @@ var chart = new Highcharts.Chart({
 <p><strong>9. Work against all forms of oppression.</strong></p>
 <blockquote>
   <p>Violence against women, sexism, racism, heterosexism, and homophobia…all forms of oppression are linked. We cannot end one without challenging them all and know that every prejudice we hold injures others and limits our experience.</p>
-<em>What you can do:</em>  Challenge yourself to grow every day</blockquote>
+<p><em>What you can do:</em>  Challenge yourself to grow every dy</p></blockquote>
 <p><strong>10. Create a new masculinity.</strong></p>
 <blockquote>
   <p>Be brave enough to openly value equality. Use your strength and privilege in the service of justice. Live your potential without harming others. Celebrate the construction of a new masculinity that does not depend on the dehumanization of others. </p>

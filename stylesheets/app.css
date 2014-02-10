@@ -13,6 +13,11 @@
    Shared Styles
 ----------------------------------------- */
 
+blockquote, blockquote p {
+line-height: 1.4;
+color: #222;
+}
+
 .poster {padding-top:35px}
 
 .top-bar ul {
@@ -229,7 +234,7 @@ text-decoration: none;
 .tpad { padding-top: 120px; }
 .tpad50 { padding-top: 50px; }
 .tpad75 { padding-top: 75px; }
-.tpad105 { padding-top: 80px; }
+.tpad105 { padding-top: 70px; }
 .tpad110 { padding-top: 110px; }
 
 .tpad135 { padding-top: 135px; }
