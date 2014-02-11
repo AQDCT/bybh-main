@@ -15,7 +15,7 @@
 					<li><a href="<?=$root;?>/health-matters.php">Health Matters</a></li>
 					<li><a href="<?=$root;?>/teen_health_rights.php">Teen Rights</a></li>
 					<li><a href="http://beyoumedia.org" target="_blank">BeYou Media</a></li>
-					<li><a href="<?=$root;?>health_data_research.php">Data &amp; Research</a></li>
+					<li><a href="<?=$root;?>/health_data_research.php">Data &amp; Research</a></li>
 	 
 				   <li class="social" style="list-style: none"><a href="http://www.facebook.com/sexloop" target="_blank"><i class="icon-facebook" style="font-color: white; font-size: 20px"> </i></a></li>
 	   
