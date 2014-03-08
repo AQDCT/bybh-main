@@ -823,7 +823,7 @@ border-top: 3px solid #3dbcec;
 
 /* HOMEPAGE */
 .home .quotation { margin-top: 2.5em; text-align: right;}
-.home .quotation h1 { font-size: 4em;}
+.home .quotation h1 { font-size: 3.8em;}
 .home .quotation h3 { color: white; font-size: 2.5em;}
 .home a { text-decoration:none;}
 .home h4 { font-size: 22px; color:#FFF; font-weight: bold; }
@@ -831,9 +831,9 @@ border-top: 3px solid #3dbcec;
 .home-health { background-color: rgba(111, 202, 198, 0.85);border-right:3px solid rgba(0,0,0, 0.5); }
 .home-teen { background-color: rgba(124, 181, 66, 0.85); border-right:3px solid rgba(0,0,0, 0.5); }
 .home-clinic { background-color: rgba(242, 145, 34, 0.85); border-right:3px solid rgba(0,0,0, 0.5); }
-.home-data { background-color: rgba(4, 101, 132, 0.75); }
+.home-data { background-color: rgba(4, 101, 132, 0.75); border-right: 3px solid rgba(0, 0, 0, 0.5);}
 .home .three {text-align:center;}
-.home .panel {padding: 0px; text-align: right; padding-right: 20px;}
+.home .panel {padding: 0px; text-align: right; padding-right: 20px; margin: 0 0 3px 0;}
 .text-glow-hover{ color: #fff;}
 
 .text-glow-hover:hover{ text-shadow: 0 0 10px #fff;}

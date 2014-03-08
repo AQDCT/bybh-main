@@ -50,10 +50,7 @@
 <div class="row home">
 
 		<div class="eight columns push-six end quotation">
-			
-			<h3 class="show-for-small">It is easier to build <br/>strong children than to <br/>repair broken men.</h3>
-			<h4 class="show-for-small">- Fredrick Douglas</h4>
-
+<p class="show-for-small">&nbsp;</p>
 			<h1 class="hide-for-small">It is easier to build strong children than to repair broken men.</h1>
 			<h3 class="hide-for-small">- Fredrick Douglas</h3>
 		<div class="row ">
