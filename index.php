@@ -59,33 +59,33 @@
 		<div class="row ">
 
 				
-					<div class="text-glow-hover twelve columns push-three end home-love panel">
+					<div class="text-glow-hover eight columns push-seven end home-love panel">
 							<a href="bodies.php"><h4>Sex &amp; Relationships</h4></a>
 					</div>
 
 		</div>
 		<div class="row">
 	
-					<div class="text-glow-hover twelve columns push-three end home-health panel">
+					<div class="text-glow-hover eight columns push-seven end home-health panel">
 							<a href="health-matters.php"><h4>Health Matters</h4></a>
 					</div>
 
 		</div>
 		<div class="row">
 	
-					<div class="text-glow-hover twelve columns push-three end home-teen panel">
+					<div class="text-glow-hover eight columns push-seven end home-teen panel">
 							<a href="teen_health_rights.php"><h4>Your Health Care Rights</h4></a>
 					</div>
 		</div>
 		<div class="row">
 	
-					<div class="text-glow-hover twelve columns push-three end home-clinic panel">
+					<div class="text-glow-hover eight columns push-seven end home-clinic panel">
 							<a href="http://beyoumedia.org" target="_blank"><h4>BeYou Media</h4></a>
 					</div>
 		</div>
 		<div class="row">
 	
-					 <div class="text-glow-hover twelve columns push-three end home-data panel">
+					 <div class="text-glow-hover eight columns push-seven end home-data panel">
 							<a href="http://data.beyoubehealthy.org"><h4>Health Data & Research</h4></a>			
 					</div>
 	
