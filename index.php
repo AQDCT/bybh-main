@@ -51,8 +51,8 @@
 
 		<div class="eight columns push-six end quotation">
 			
-			<h3 class="show-for-small">It is easier to build strong children than to repair broken men.</h3>
-			<h5 class="show-for-small">- Fredrick Douglas</h5>
+			<h3 class="show-for-small">It is easier to build strong children than to repair <br/>broken men.</h3>
+			<h4 class="show-for-small">- Fredrick Douglas</h4>
 
 			<h1 class="hide-for-small">It is easier to build strong children than to repair broken men.</h1>
 			<h3 class="hide-for-small">- Fredrick Douglas</h3>
