@@ -24,6 +24,8 @@ color: #222;
 	overflow: hidden;
 }
 
+
+
 .transparent {
   zoom: 1; /* gives the object layout */
   -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
@@ -208,6 +210,10 @@ ul.right li a{
 
 list-style: none;
 text-decoration: none;
+}
+
+.top-bar img .logo{
+padding-top: 0px !important;
 }
 
 /* -----------------------------------------
@@ -784,7 +790,7 @@ border-top: 3px solid #3dbcec;
 	width: auto;
 	/*background: green;*/
 	}
-.top-bar img { padding-top: 35px;}
+.top-bar img { padding-top: 0px;}
  	 .tpad { padding-top: 120px; }
  	  .tpad135 { padding-top: 65px; }
 
@@ -797,7 +803,7 @@ border-top: 3px solid #3dbcec;
 	width: auto;
 	/*background: pink;*/
  }
- 	.top-bar img { padding-top: 35px;
+ 	.top-bar img { padding-top: 0px;
  		/*display: none;*/
  	}
 }
@@ -810,12 +816,15 @@ border-top: 3px solid #3dbcec;
 	background: #FFF;
  }
  	.top-bar img { 
- 	padding-top: 35px; 
+ 	padding-top: 0px; 
  	}
  
  }
 
-
+/* HOMEPAGE */
+.home .quotation { margin-top: 2.5em; text-align: right;}
+.home .quotation h1 { font-size: 4em;}
+.home .quotation h3 { color: white; font-size: 2.5em;}
 .home a { text-decoration:none;}
 .home h4 { font-size: 22px; color:#FFF; font-weight: bold; }
 .home-love { background-color:  rgba(217, 43, 40, 0.85); border-right:3px solid rgba(0,0,0, 0.5); }
@@ -824,7 +833,7 @@ border-top: 3px solid #3dbcec;
 .home-clinic { background-color: rgba(242, 145, 34, 0.85); border-right:3px solid rgba(0,0,0, 0.5); }
 .home-data { background-color: rgba(4, 101, 132, 0.75); }
 .home .three {text-align:center;}
-
+.home .panel {padding: 0px; text-align: right; padding-right: 20px;}
 .text-glow-hover{ color: #fff;}
 
 .text-glow-hover:hover{ text-shadow: 0 0 10px #fff;}
