@@ -31,13 +31,13 @@
 
 	<div id="sectionT" class="tpad">
 		<div class="row">
-			<div class="nine columns offset-by-one">
+			<div class="nine columns">
 				<h1>Privacy Policy</h1>
 			</div>
 		</div>
 		
 		<div class="row">
-			<div class="ten columns offset-by-one">
+			<div class="ten columns">
 
 				<p style="padding-top: 20px">The purpose of this Website Privacy Policy is to outline how we deal with any personal data you provide to us while visiting this website. Naturally, if you are not happy with this Website Privacy Policy you should not use this website. By visiting this website, you are accepting the terms of this Website Privacy Policy. Any external links to other websites are clearly identifiable as such, and we are not responsible for the content or the privacy policies of these other websites.</p>
 

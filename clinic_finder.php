@@ -53,12 +53,12 @@
 
 <div id="sectionT" class="sectionT tpad">
 		<div class="row">
-			<div class="nine columns offset-by-one">
+			<div class="nine columns">
 			<h1>Clinic Finder</h1>
 			</div>
 		</div>
 			<!--<div class="row">
-				<div class="ten columns offset-by-one">
+				<div class="ten columns">
 				<div class="row">
 					<div class="nine columns">
 					<img style="padding-top: 15px" src="images/health_resources_logo.png">
@@ -80,7 +80,7 @@
 			</div>-->
 			
 			<div class="row">
-				<div class="ten columns offset-by-one section">
+				<div class="ten columns section">
 		
 				<iframe style="padding-top: 25px" src="http://www.scribd.com/embeds/112712806/content?start_page=1&view_mode=scroll" data-auto-height="false" data-aspect-ratio="undefined" scrolling="no" id="doc_65550" width="100%" height="600" frameborder="0"></iframe>
 				</div>

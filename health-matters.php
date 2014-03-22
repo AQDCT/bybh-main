@@ -60,13 +60,13 @@
 	
 	<div id="sectionT" class="tpad">	
     	<div class="row">
-		  	<div class="nine columns offset-by-one">
+		  	<div class="nine columns">
 		  	<h1>Health Matters</h1>
 		</div>
 	</div>
     
     <div class="row">
-		<div class="ten columns offset-by-one">
+		<div class="ten columns">
 		
 			<p style="padding-top:20px">Adolescents occupy a very special place in the world, standing squarely between childhood and adulthood. Scientifically documented as the most tumultuous time in one’s life, adolescence can also be the ripest: Ripe for planting healthy behaviors that take root, ripe for changing unhealthy patterns into nourishing ones, ripe for guiding to healthfulness. Too often, the emotional and physical health of our adolescents takes a back seat to the needs of infants and toddlers. Yet adolescence is the most formative period in our lives for adopting behaviors that ensure good health throughout life.</p>
 			
@@ -101,7 +101,7 @@
  	
 <!-- SECTION A -->  
  		<div id="sectionA" class="tpad">   
-      		<div class="ten columns offset-by-one">
+      		<div class="ten columns">
 
 				<h2>Disease Prevention</h2>
 				<p>While immunizations for infants and young children are readily acknowledged as being vital to well-being, the importance of boosters and recommended vaccines for adolescents is not always recognized.&nbsp;</p>
@@ -148,7 +148,7 @@
 <!-- SECTION B -->  
  	<div id="sectionB" class="tpad">
     	<div class="row">
-      		<div class="ten columns offset-by-one">
+      		<div class="ten columns">
 
 				<h2>Nutrition and Physical Activity</h2>
 				<p>Good nutrition and physical activity are essential to overall health and wellbeing. For decades, people have been flooded with messages about how regular exercise and healthy eating prevent diabetes, cancer, and heart disease, but studies have shown that a vast majority of Americans do not follow this advice.&nbsp;</p>
@@ -205,7 +205,7 @@
 <!-- SECTION C -->  
  	<div id="sectionC" class="tpad">
     	<div class="row">
-      		<div class="ten columns offset-by-one">
+      		<div class="ten columns">
 
 				<h2>Substance Use</h2>
 				<p><b>Tobacco</b>
@@ -227,7 +227,7 @@
 <!-- SECTION 0  --> 
  	<div id="section0" class="tpad">
     	<div class="row">
-      		<div class="ten columns offset-by-one">
+      		<div class="ten columns">
 			<h2>Asthma</h2>
 			<p>For people with asthma, breathing can be a daily challenge. Asthma is a condition where the bronchial 
 			tubes (the tubes that bring air into your lungs) become inflamed making it difficult for air to pass through.
@@ -297,7 +297,7 @@
 <!-- SECTION 1  --> 
   	<div id="section1" class="tpad">
     	<div class="row">
-      		<div class="ten columns offset-by-one">
+      		<div class="ten columns">
       		<h2>Attention Deficit Hyperactivity Disorder (ADHD)</h2>
 			<p>Sometimes it is hard to concentrate, especially if the television is turned on, kids are playing in other parts
 			of the room, or your parents are making dinner while you’re studying. Sometimes people can have a 
@@ -370,7 +370,7 @@
 
 	<div id="section2" class="tpad">
 		<div class="row">
-			<div class="ten columns offset-by-one">
+			<div class="ten columns">
 			<h2>Diabetes</h2>
 			<p>Diabetes affects your body&rsquo;s ability to produce or use glucose (sugar). More and more young people are being diagnosed with diabetes. If you have this condition, or are at risk for developing diabetes, you need to take action now to safeguard your health. &nbsp;</p>
 			<p>Glucose is the fuel that powers your body and it&rsquo;s in nearly everything we eat---fruits, vegetables, breads----not just candies and sodas. To get glucose into the cells, your body produced insulin. Insulin is a hormone that works like a doorman, allowing glucose to enter into your cells and energize you.&nbsp;</p>
@@ -409,7 +409,7 @@
 
  	 <div id="section3" class="tpad">
 		<div class="row">
-			<div class="ten columns offset-by-one">     
+			<div class="ten columns">     
 			<h2>Epilepsy/Seizure Disorder</h2>
 			<p>Epilepsy/seizure disorder is more common that most people realize. About one person in a hundred lives with this disorder, which often begins in childhood. It is a disorder, not a disease; it&rsquo;s not something you &ldquo;catch&rdquo; by being around a person with this disorder.<strong>&nbsp;</strong>&nbsp;</p>
 			<p>Epilepsy /seizure disorder is not a mental disorder. It is a physical disorder formed by sudden or brief changes in how the brain works. It is a symptom of a neurological disorder that affects the brain and shows itself in the form of seizures.&nbsp;</p>
@@ -426,7 +426,7 @@
       <!-- SECTION 4 --> 
   	<div id="section4" class="tpad">
     	<div class="row">
-      		<div class="ten columns offset-by-one">     
+      		<div class="ten columns">     
 			<h2>Food Allergies</h2>
 			<p>Food Allergies are becoming more and more common for children and adolescents.&nbsp; It is estimated that about 3 million kids in the US have food allergies and it is constantly growing.&nbsp; Food allergies are very serious and unfortunately can be fatal for some people. It is a condition that needs to be taken very seriously.</p>
 			<p>A food allergy is different than food intolerance. Some key facts about food allergy:</p>
@@ -473,7 +473,7 @@
 <!-- SECTION 5 --> 
   	<div id="section5" class="tpad">
     	<div class="row">
-			<div class="ten columns offset-by-one">     
+			<div class="ten columns">     
 			<h2>High Blood Pressure (Hypertension)</h2>
 			<p>Evidence suggests that having high blood pressure (hypertension) in childhood is linked to high blood pressure as an adult. The condition is also genetic (inherited). It can lead to an increased risk of strokes, heart attacks or heart failure, as well as kidney disease. High blood pressure may have no symptoms but severe cases may involve chest pain, headaches, and blurred vision.</p>
 			<p>Body size is the biggest predictor of high blood pressure in children. About half of children with high blood pressure are very overweight or obese. Losing weight can improve blood pressure. Girls with this condition who are on birth control pills must be monitored, since the pill tends to make it worse. Drinking alcohol and smoking can also increase blood pressure.</p>
@@ -493,7 +493,7 @@
 <!-- SECTION 6 --> 
  	 <div id="section6" class="tpad">
 		<div class="row">
-			<div class="ten columns offset-by-one">     
+			<div class="ten columns">     
 			<h2>Sickle Cell Anemia</h2>
 
 			<p>It may seem strange, but inside your blood are tiny little cells called red blood cells. What is even crazier, these red blood cells are actually made in your bones! Every time you breathe, bone marrow creates red blood cells and releases them into your blood to carry oxygen throughout your body. Oxygen is really important for your body, and these red blood cells are usually rounded since it is the easiest way for them to move through your blood stream. Sometimes a person doesn&rsquo;t have enough red blood cells. This is called anemia. It means that people who have anemia have less oxygen throughout their body. Sometimes anemia is caused because the red blood cells are not round but sickle shaped. A sickle shape looks like a crescent moon. When a person has sickle shaped red blood cells, it is called sickle cell anemia. &nbsp;</p>
@@ -520,7 +520,7 @@
 
 	<div id="section7" class="tpad" style="margin-bottom: 100px">
 		<div class="row">
-			<div class="ten columns offset-by-one">     
+			<div class="ten columns">     
 			<h2>HIV Infection</h2>
 			<p>The human immunodeficiency virus (HIV) infects cells of the immune system, destroying or impairing their ability to function properly. As the infection progresses, the immune system becomes weaker, and the person becomes more susceptible to infections. The most advanced stage of HIV infection is acquired immunodeficiency syndrome (AIDS). It can take 10-15 years for an HIV-infected person to develop AIDS; antiretroviral drugs can slow down the process even further.</p>
 			<p>HIV is transmitted through unprotected sexual intercourse (anal or vaginal), transfusion of contaminated blood, sharing of contaminated needles, and between a mother and her infant during pregnancy, childbirth and breastfeeding.</p>

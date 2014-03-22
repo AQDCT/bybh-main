@@ -27,13 +27,13 @@
 
 <div id="sectionT" class="sectionT tpad">
 		<div class="row">
-			<div class="nine columns offset-by-one">
+			<div class="nine columns">
 			<h1>Contact</h1>
 			</div>
 		</div>
 		
 		<div class="row">
-			<div class="ten columns offset-by-one">
+			<div class="ten columns">
 			<p style="padding-top: 20px">Office of Adolescent and School Health<br>
 			Chicago Department of Public Health<br>
 			333 South State Street, Room 200<br>

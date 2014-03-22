@@ -25,13 +25,13 @@
 
 <div id="sectionT" class="tpad">
     <div class="row">
-      <div class="nine columns offset-by-one">
+      <div class="nine columns">
       <h1>Site Map</h1>
       </div>
     </div>
     
     <div class="row">
-      <div class="ten columns offset-by-one">
+      <div class="ten columns">
 <p>
   
 <ul style="list-style: disc; padding-left: 15px">

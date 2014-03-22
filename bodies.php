@@ -13,7 +13,7 @@
 </head>
 
 
-<body>
+<body style="background: #c02e2e">
 
 <!-- Analytics -->
 <?php include("includes/ga.php"); ?>
@@ -104,13 +104,13 @@ $( document ).ready(function() {
 
 		<div id="sectionT" class="tpad">
 			<div class="row">
-				<div class="nine columns offset-by-one">
+				<div class="nine columns">
 					<h1>Bodies</h1>
 				</div>
 			</div>
 			
 			<div class="row">
-				<div class="ten columns offset-by-one">
+				<div class="ten columns">
 					<h2>Puberty</h2>
 					<p>Most people have an idea of some of the changes that occur during puberty. Most people
 					have had that lesson at school, or been shown books or leaflets about it &mdash; and let’s be
@@ -157,7 +157,7 @@ $( document ).ready(function() {
 		<!-- SECTION 1  --> 
 		<div id="section1" class="tpad">
 			<div class="row">
-				<div class="ten columns offset-by-one">
+				<div class="ten columns">
 					<h2>Boys’ Bodies</h2>		
 					<p>Once a guy hits puberty he begins to produce sperm cells in his testes, sperm are the male half of making a baby. At the same time they also produce a chemical called testosterone. Testosterone is the male hormone that causes all the other manly changes to take place during puberty, like…</p>
 
@@ -221,7 +221,7 @@ $( document ).ready(function() {
 		<!-- SECTION 2  --> 
 		<div id="section2" class="tpad">
 			<div class="row">
-				<div class="ten columns offset-by-one">
+				<div class="ten columns">
 					<h2>Girls’ Bodies</h2> 
 
 					<p>It is amazing how few people actually know what a vagina is or what it looks like. The main reason is that unlike with boys, female genitals are tucked away underneath, meaning girls can’t even see their genitals, or a glimpse anyone else’s, in the shower. The only way a girl can get a good look at is if she is very flexible or uses a mirror.</p>
@@ -266,13 +266,13 @@ $( document ).ready(function() {
 <!-- SECTION 3 --> 		
 		<div id="section3" class="tpad">
     <div class="row">
-      <div class="nine columns offset-by-one">
+      <div class="nine columns">
       <h1>Sex</h1>
       </div>
     </div>
     
     <div class="row">
-      <div class="ten columns offset-by-one">
+      <div class="ten columns">
       <h2>How Do You Know You Are Ready?</h2>
 		<p>Once puberty starts, it is natural for young people to be fascinated by sex and to gossip and joke 
 		about it. But there’s something important that you need to know: People are not always truthful 
@@ -296,7 +296,7 @@ $( document ).ready(function() {
   <!-- SECTION 4  --> 
   <div id="section4" class="tpad">
     <div class="row">
-      <div class="ten columns offset-by-one">
+      <div class="ten columns">
       <h2>Love and Sex</h2>
 		<p>Sex can be something that people in love do. It is a way to show someone that you love them. But 
 		having sex with someone will not make a person fall in love with you or make them stay in love 
@@ -321,7 +321,7 @@ $( document ).ready(function() {
   <!-- SECTION 5  --> 
   <div id="section5" class="tpad">
     <div class="row">
-      <div class="ten columns offset-by-one">
+      <div class="ten columns">
       <h2>How to Say ‘No’</h2>
 		<p>All sexual activity is about choices. You should never feel like you have to do anything 
 		you don’t want to do, whether it’s kissing, touching, stroking or intercourse. Even if you 
@@ -365,7 +365,7 @@ away because daring you to prove love is not love.
   <!-- SECTION 6 --> 
   <div id="section6" class="tpad">
     <div class="row">
-      <div class="ten columns offset-by-one">     
+      <div class="ten columns">     
       <h2>Sex for One</h2>
       	<p>Masturbation is the sex you have with yourself. There are little risks involved, you can’t 
 		get pregnant or catch a sexually transmitted infection, and it is much easier to achieve an 
@@ -401,7 +401,7 @@ away because daring you to prove love is not love.
       <!-- SECTION 7 --> 
   <div id="section7" class="tpad">
     <div class="row">
-      <div class="ten columns offset-by-one">     
+      <div class="ten columns">     
       	<h2>The First Time</h2>
 		<p>The first time you have sex is scary and exciting. Some people want the first time to be 
 		special. Others just want to get on with it. And everyone wants to be thought of as good 
@@ -435,7 +435,7 @@ away because daring you to prove love is not love.
       <!-- SECTION 8 --> 
   <div id="section8" class="tpad">
     <div class="row">
-      <div class="ten columns offset-by-one">     
+      <div class="ten columns">     
       <h2>Doing It</h2>
 			<p>Regardless of who you happen to be in bed with – whether you are a guy and a girl, two 
 			boys or two girls – people generally have sex in the same way.
@@ -493,7 +493,7 @@ away because daring you to prove love is not love.
       <!-- SECTION 9 --> 
   <div id="section9" class="tpad">
     <div class="row">
-      <div class="ten columns offset-by-one">     
+      <div class="ten columns">     
       	<h2>Sex and Religion</h2>
 		<p>Many people follow religion and it is a great source of happiness and support for them. 
 		Some people follow a religion because their family does and it is expected of them. 
@@ -513,7 +513,7 @@ away because daring you to prove love is not love.
       <!-- SECTION 10 --> 
   <div id="section10" class="tpad">
     <div class="row">
-      <div class="ten columns offset-by-one">     
+      <div class="ten columns">     
       <h2>Sex and the Law</h2>
 			<p>In Illinois, there is a legal age when you are allowed to have sex--17 years old. It’s called 
 			the age of consent. But people have sex before they reach this age, so what is the point of 
@@ -558,13 +558,13 @@ away because daring you to prove love is not love.
 <!-- SECTION 11  --> 
 <div id="section11" class="tpad">
     <div class="row">
-      <div class="nine columns offset-by-one">
+      <div class="nine columns">
       <h1>Relationships</h1>
       </div>
     </div>
     
     <div class="row">
-      <div class="ten columns offset-by-one">
+      <div class="ten columns">
       	<h2>Be You. Be Happy</h2>
 			<p>The most important relationship in life is the one you have with yourself. Sounds simple 
 			but many teens and young adults struggle to accept who they are and to feel 
@@ -597,7 +597,7 @@ away because daring you to prove love is not love.
   <!-- SECTION 12  --> 
   <div id="section12" class="tpad">
     <div class="row">
-      <div class="ten columns offset-by-one">
+      <div class="ten columns">
       <h2>Be You and Single</h2>
 		<p>Teens often feel pressured to be part of a couple, as if there’s something wrong with them
 		if they are single. The truth is, there’s nothing wrong with being single. In fact, 
@@ -618,7 +618,7 @@ away because daring you to prove love is not love.
   <!-- SECTION 13  --> 
   <div id="section13" class="tpad">
     <div class="row">
-      <div class="ten columns offset-by-one">
+      <div class="ten columns">
       <h2>Coming Out</h2>
 		<p>Coming out (of the closet) is a figure of speech for lesbian, gay, bisexual, and transgender
 		that describes the disclosure of a person’s sexual orientation and/or gender identity.
@@ -711,7 +711,7 @@ away because daring you to prove love is not love.
   <!-- SECTION 20  --> 
   <div id="section20" class="tpad">
     <div class="row">
-      <div class="ten columns offset-by-one">  
+      <div class="ten columns">  
       	
 				
 		<h2>TRANSGENDER 101: A QUICK GUIDE ON BEING AN ALLY TO PEOPLE WHO ARE
@@ -859,7 +859,7 @@ away because daring you to prove love is not love.
   <!-- SECTION 14 --> 
   <div id="section14" class="tpad">
     <div class="row">
-      <div class="ten columns offset-by-one">     
+      <div class="ten columns">     
       <h2>Crushing</h2> 
 			<p>Suddenly your world becomes like a movie. Everything is intense and dramatic, a 
 			whirlwind of emotion. Your notebooks are full of doodles. Your life now has its own 
@@ -895,7 +895,7 @@ away because daring you to prove love is not love.
       <!-- SECTION 15 --> 
   <div id="section15" class="tpad">
     <div class="row">
-      <div class="ten columns offset-by-one">     
+      <div class="ten columns">     
       <h2>How to Ask Someone Out</h2>
 			<p>This is one of the most frequently asked questions in all Q&A pages. Some sites say, “be 
 			direct. Just ask,” others suggest pick-up lines and flirting. Those aren’t bad ideas but the 
@@ -916,7 +916,7 @@ away because daring you to prove love is not love.
       <!-- SECTION 16 --> 
   <div id="section16" class="tpad">
     <div class="row">
-      <div class="ten columns offset-by-one">     
+      <div class="ten columns">     
       <h2>Being in a Relationship</h2>
 			<p>Being in a relationship is can be a really special feeling. At the beginning it is nice to 
 			know that someone you are attracted to feels the same way about you, wants to do nice 
@@ -949,7 +949,7 @@ away because daring you to prove love is not love.
       <!-- SECTION 17 --> 
   <div id="section17" class="tpad">
     <div class="row">
-      <div class="ten columns offset-by-one">     
+      <div class="ten columns">     
       <h2>Being in a Safe Relationship</h2>
 			<p>It’s important to remember that you <b>do not</b> have to be together all of the time – this goes 
 			for boyfriends or girlfriends and even best friends. There is a difference between 
@@ -991,7 +991,7 @@ away because daring you to prove love is not love.
       <!-- SECTION 18 --> 
   <div id="section18" class="tpad">
     <div class="row">
-      <div class="ten columns offset-by-one">     
+      <div class="ten columns">     
       <h2>Arguments Happen</h2>
 			<p>Sometimes when we get upset, we get angry, shout and even say things that we don’t 
 			really mean in an attempt to get a reaction or to hurt our partners. After we cool off, we 
@@ -1013,7 +1013,7 @@ away because daring you to prove love is not love.
       <!-- SECTION 19 --> 
   <div id="section19" class="tpad">
     <div class="row">
-      <div class="ten columns offset-by-one" style="margin-bottom: 100px">     
+      <div class="ten columns" style="margin-bottom: 100px">     
       <h2>Breaking Up</h2>
 			<p>Everyone will experience a break-up at some point. No matter what may have happened, 
 			you’ve invested time, energy and emotion in that relationship. You’ve shared experiences
@@ -1035,13 +1035,13 @@ away because daring you to prove love is not love.
 
 <div id="section400" class="tpad">
    		<div class="row">
-				<div class="nine columns offset-by-one">
+				<div class="nine columns">
 					<h1>Staying Safe</h1>
 				</div>
 			</div>
 
     <div class="row" id="section401">
-      <div class="ten columns offset-by-one" style="margin-bottom: 100px">     
+      <div class="ten columns" style="margin-bottom: 100px">     
            <h2>Sexual Violence</h2>
 <p><strong>Sexual Violence</strong><br>
   Sexual violence occurs in many ways. Rape, sexual assault, sexual abuse, and sexual harassment are all types of sexual violence that people experience. </p>
@@ -1160,7 +1160,7 @@ away because daring you to prove love is not love.
 
 <div id="section402" class="tpad">
     <div class="row">
-      <div class="ten columns offset-by-one" style="margin-bottom: 100px">     
+      <div class="ten columns" style="margin-bottom: 100px">     
            <h2>Myth & Facts Quiz</h2>
 
 <style>
@@ -1315,7 +1315,7 @@ Studies show that only 3% of rape reports are false, which is no higher than in 
 
 <div id="section403" class="tpad">
     <div class="row">
-      <div class="ten columns offset-by-one" style="margin-bottom: 100px">     
+      <div class="ten columns" style="margin-bottom: 100px">     
            <h2>Rape</h2>
 <p>Rape is a form of sexual assault where someone is forced to have sexual intercourse with someone against their will. </p>
 <p>Many people think rape is only perpetrated by a stranger. In reality, it is more common for someone to be raped by a person he or she knows. &ldquo;Acquaintance rape&rdquo; is the term used to describe a rape when the victim knows the attacker. There is no legal difference between rape by a stranger and rape by an acquaintance. Either way it is a crime.</p>
@@ -1340,7 +1340,7 @@ Illinois Coalition Against Sexual Assault, <em>After Sexual Assault</em> (<a hre
 
 <div id="section404" class="tpad">
     <div class="row">
-      <div class="ten columns offset-by-one" style="margin-bottom: 100px">     
+      <div class="ten columns" style="margin-bottom: 100px">     
            <h2>Dating Violence</h2>
   <p><strong>Dating Violence is a pattern of physically, sexually, verbally, and/or emotionally abusive or controlling behavior in a dating relationship.</strong></p>
 <p>It may involve digital communications and technologies, verbal communication, and physical interactions.</p>
@@ -1386,7 +1386,7 @@ Illinois Coalition Against Sexual Assault, <em>After Sexual Assault</em> (<a hre
 
 <div id="section405" class="tpad">
     <div class="row">
-      <div class="ten columns offset-by-one" style="margin-bottom: 100px">     
+      <div class="ten columns" style="margin-bottom: 100px">     
            <h2>Being in a Safe Relationship</h2>
 <p>It&rsquo;s important to remember that you <strong>do not</strong> have to be together all of the time – this goes for boyfriends or girlfriends and even best friends. There is a difference between spending time together and spending quality time together. Everyone needs time and space to breathe, and do their own thing. This time apart can feel a little scary or make people feel insecure – but you need to accept it – because it is the only way for two people to build a healthy, long-term relationship. </p>
 <p>Losing sight of your own interests and needs is sure sign that things are out of balance. Sometimes it&rsquo;s the first sign that something is going wrong in a relationship. </p>
@@ -1415,7 +1415,7 @@ Illinois Coalition Against Sexual Assault, <em>After Sexual Assault</em> (<a hre
 
 <div id="section406" class="tpad">
     <div class="row">
-      <div class="ten columns offset-by-one" style="margin-bottom: 100px">     
+      <div class="ten columns" style="margin-bottom: 100px">     
 <h2>How to Help a Friend or Someone You Love</h2>
 <h3>Remember: Rape is NEVER the victim&rsquo;s fault!</h3>
   <p>Imagine a person you love has been the victim of sexual violence, they trust you, and disclose that this has happened to them. Your friend may be terrified or have feelings of helplessness, which are perfectly normal responses. Your friend needs support and time to work through her/his feelings. Even if your friend does not want to report the act of violence to the police, encourage him or her to receive medical attention as soon as possible. </p>
@@ -1447,7 +1447,7 @@ Rapists may threaten to kill the victim if they don&rsquo;t do what they are tol
 
 <div id="section407" class="tpad">
     <div class="row">
-      <div class="ten columns offset-by-one" style="margin-bottom: 100px">     
+      <div class="ten columns" style="margin-bottom: 100px">     
            <h2>Male Survivors</h2>
 <blockquote>When many people think of sexual violence, they think of it as &ldquo;a woman&rsquo;s problem&rdquo;</blockquote>
 <div class="flex-video widescreen"><iframe width="560" height="315" src="//www.youtube.com/embed/aphNXHzz9FU" frameborder="0" allowfullscreen></iframe></div>
@@ -1526,7 +1526,7 @@ var chart = new Highcharts.Chart({
 
 <div id="section408" class="tpad">
     <div class="row">
-      <div class="ten columns offset-by-one" style="margin-bottom: 100px">     
+      <div class="ten columns" style="margin-bottom: 100px">     
            <h2>Advocacy and Rights</h2>
 <p><strong>What is advocacy? </strong>
 <br>After you have been raped or sexually assaulted, you may want someone to assist you with what happens next. &nbsp;&nbsp;&nbsp; </p>
@@ -1627,7 +1627,7 @@ var chart = new Highcharts.Chart({
 
 <div id="section409" class="tpad">
     <div class="row">
-      <div class="ten columns offset-by-one" style="margin-bottom: 100px">     
+      <div class="ten columns" style="margin-bottom: 100px">     
            <h2>Take the Initiative</h2>
 <h3>10 Things You Can Do to Stop Rape</h3>
   <p><strong>1. Know that language is powerful.</strong></p>
@@ -1692,7 +1692,7 @@ var chart = new Highcharts.Chart({
 
 <div id="section410" class="tpad">
     <div class="row">
-      <div class="ten columns offset-by-one" style="margin-bottom: 100px">     
+      <div class="ten columns" style="margin-bottom: 100px">     
            <h2>Sexual Violence Resources</h2>
 
 <table>

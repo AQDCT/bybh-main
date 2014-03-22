@@ -78,14 +78,14 @@
 	<div id="sectionT" class="tpad">
 	
     	<div class="row">
-      		<div class="nine columns offset-by-one">
+      		<div class="nine columns">
       			<h1>Adults Who Care</h1>
       		</div>
     	</div>
     
 
 		<div class="row">
-			<div class="ten columns offset-by-one">
+			<div class="ten columns">
 			
 				<p style="padding-top: 20px">The content on this site has been developed in response to what young people are talking 
 				about. In focus groups conducted throughout the city, young people spoke frankly about 
@@ -118,7 +118,7 @@
 	
 	<div class="section" id="section3">
 		<div class="row">
-			<div class="ten columns offset-by-one">
+			<div class="ten columns">
 				<h2>Adolescence</h2>
 				<p>The transition from childhood to adulthood is one of the most dynamic in human development. The rate of physical, emotional, and intellectual change during adolescence is second only to infancy. As their bodies and brains shift through this extensive remodeling, adolescents transition from the care of others to become their own health and wellness managers.</p> 
 				<p>That’s why it is essential to lay a strong foundation for adolescents so they can successfully move from home to the complicated world around them and see their future as healthy adults.</p> 
@@ -132,7 +132,7 @@
 
 	<div class="section" id="sectionImpComm">
 		<div class="row">
-			<div class="ten columns offset-by-one">
+			<div class="ten columns">
 			
 			<h2>How to Improve Communication with Your Children</h2>
 
@@ -165,7 +165,7 @@
 
 	<div class="section" id="section4">
 		<div class="row">
-			<div class="ten columns offset-by-one">
+			<div class="ten columns">
 				<h2>Sexual Health and Adolescence</h2> 
 			
 				<p>The sexual health content on this site has been developed in response to what young people are talking about. In focus groups conducted throughout the city, young people spoke frankly about what they are interested in. This is an opportunity to provide students with the accurate information they need to stay safe, stay healthy, and make responsible choices.</p> 
@@ -185,7 +185,7 @@
 
 	<div class="section" id="section5">
 		<div class="row">
-			<div class="ten columns offset-by-one">
+			<div class="ten columns">
 				<h2>The Developmental Tasks of Adolescence</h2>
 				<p>
 				<ol>
@@ -208,7 +208,7 @@ complex emotional experiences</li>
 
 	<div class="section" id="section6">
 		<div class="row">
-			<div class="ten columns offset-by-one">
+			<div class="ten columns">
 				<h2>Factors That Affect Adolescent Health</h2>
 				<p>Most health risk factors among adolescents are interrelated. Youth who engage in 
 				one unhealthy behavior, smoking or drinking for example, are more likely to develop 
@@ -224,7 +224,7 @@ complex emotional experiences</li>
 
 	<div class="section" id="section61">
 		<div class="row">
-			<div class="ten columns offset-by-one">
+			<div class="ten columns">
 				<h2>The Parent's Guide to Sexual Abuse</h2>
 <p><strong>What is child sexual abuse?</strong></p>
 <p>In the broadest definition, child sexual abuse is any forced or coerced sexual activity involving a child. Bribes or other tricks may be used. Often, the abuser persuades the child to cooperate and to keep the abuse a secret.</p>
@@ -280,7 +280,7 @@ complex emotional experiences</li>
 
 	<div class="section" id="section7">
 		<div class="row">
-			<div class="ten columns offset-by-one">
+			<div class="ten columns">
 				<h2>Talking About Sex</h2>
 				<p>Talking to your child about sex and relationships can be difficult and you may 
 				be tempted to put it off. But your child needs to learn about these subjects to 
@@ -329,7 +329,7 @@ complex emotional experiences</li>
 
 	<div class="section" id="section711">
 		<div class="row">
-						<div class="ten columns offset-by-one">
+						<div class="ten columns">
 
 				<h2>Youth-Friendly Health Care – What Young People Say is Important to Them</h2>
 				<p>When adults visit a health care facility, they want to be treated with respect by the provider.  It's no different for young people. Teens and young adults have specific criteria that they feel are important when accessing health care.</p>
@@ -403,7 +403,7 @@ complex emotional experiences</li>
 
 <div class="section" id="section712">
 <div class="row">
-<div class="ten columns offset-by-one">
+<div class="ten columns">
 <h2>Adolescent Dating Violence</h2>
 <H3>Are school nurses ready to treat adolescent dating violence (ADV)?</H3>
 <p><strong>What is ADV?</strong></p>
@@ -471,7 +471,7 @@ var chart = new Highcharts.Chart({
 
 <div class="section" id="section721">
 <div class="row">
-<div class="ten columns offset-by-one">
+<div class="ten columns">
 <h2>Youth in Foster Care at Greater Risk for Teen Pregnancy</h2>
 
 <p>While all adolescents are at risk for teenage pregnancy and parenthood, some groups face more challenges than others. Youth living in foster care experience particular barriers that lead to disparate outcomes.</p>
@@ -629,7 +629,7 @@ var chart = new Highcharts.Chart({
 
 	<div class="section" id="section722">
 <div class="row">
-<div class="ten columns offset-by-one">
+<div class="ten columns">
 <h2>Protecting the Rights of Pregnant and Parenting Youth</h2>
  <h3> A Resource for Parents and Providers</h3>
   <p><strong><em>Is your child pregnant or about to become a parent?</em></strong><strong> </strong><br>
@@ -653,7 +653,7 @@ var chart = new Highcharts.Chart({
 
 <div class="section" id="section723">
 	<div class="row">
-		<div class="ten columns offset-by-one">
+		<div class="ten columns">
 		<h2>Finding Food in Chicago</h2>
 
 			<p>People who live in neighborhoods without a large chain grocery store (Dominick’s, Jewel-Osco, etc.) are less likely to have a healthy diet. This specifically has an impact on young people:</p>
@@ -680,7 +680,7 @@ var chart = new Highcharts.Chart({
 
 <div class="section" id="section724">
 	<div class="row">
-		<div class="ten columns offset-by-one">
+		<div class="ten columns">
 			<h2>Homelessness in Chicago</h2>
 
 			<p>In a given year, approximately 15,000 young people (between the ages of 13 and 21) experience homelessness. There are many reasons for this, but most have either left home or, due to serious family problems, were kicked out.</p>
@@ -715,7 +715,7 @@ var chart = new Highcharts.Chart({
 	</div>
 	<div class="section" id="section8">
 		<div class="row">
-			<div class="ten columns offset-by-one">
+			<div class="ten columns">
 		
 				<h2>Student Health Forms</h2>
 	
@@ -858,7 +858,7 @@ var chart = new Highcharts.Chart({
 	
 	<div class="section" id="section9">
 		<div class="row">
-			<div class="ten columns offset-by-one">
+			<div class="ten columns">
 				<h2>CPS Health Policies</h2>
 				<hr>
 				<ul>

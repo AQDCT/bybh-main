@@ -35,8 +35,8 @@
 
 
 <!-- full page div // ends before close -->		
-<div class="row tpad sectionL2">
-	<div class="ten columns offset-by-one" style="background-color: #fff">
+<div class="row tpad sectionL2" style="margin-bottom:100px">
+	<div class="ten columns" style="background-color: #fff">
 		<div class="row">
 			<div class="thirteen columns">
 				<h2>Chicago Department of Public Health</h2>
