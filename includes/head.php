@@ -15,10 +15,10 @@
 
 <link rel="shortcut icon" href="images/favicon.png">
 <!-- Included CSS Files (Compressed) -->	
-<link rel="stylesheet" href="<?=$root;?>/css/bootstrap.css">
-<link rel="stylesheet" href="<?=$root;?>/stylesheets/FontAwesome/css/font-awesome.css">
-<link rel="stylesheet" href="<?=$root;?>/stylesheets/foundation.css">
-<link rel="stylesheet" href="<?=$root;?>/stylesheets/app.css">
+<link rel="stylesheet" href="css/bootstrap.css">
+<link rel="stylesheet" href="stylesheets/FontAwesome/css/font-awesome.css">
+<link rel="stylesheet" href="stylesheets/foundation.css">
+<link rel="stylesheet" href="stylesheets/app.css">
 
 <!-- GOOGLE WEB FONTS -->	
 <link href='http://fonts.googleapis.com/css?family=Istok+Web:400,700,700italic' rel='stylesheet' type='text/css'>
@@ -27,9 +27,9 @@
 
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 <script src="http://code.highcharts.com/modules/exporting.js"></script>
-<script type="text/javascript" src="<?=$root;?>/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="/js/bootstrap.min.js"></script>
 
-<script src="<?=$root;?>/js/picturefill.js"></script>
-<script src="<?=$root;?>/javascripts/modernizr.foundation.js"></script>
+<script src="/js/picturefill.js"></script>
+<script src="/javascripts/modernizr.foundation.js"></script>
 
 <script src="http://code.highcharts.com/highcharts.js"></script>

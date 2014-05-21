@@ -25,9 +25,9 @@
 <div class="row">
 	<div class="eleven columns">
 	</div>
-	<div class="three mobile-four columns">
-		<ul class="nav open hide-for-small list tpad" style="position: fixed; padding-left: 25px">
-		<h4>Love The Glove</h4>
+<div class="three columns">
+    	<ul class="nav open hide-for-small tpad105" style="position: fixed; padding-left: 25px">
+		<h4>Safer Sex</h4>
 		<hr>
 		<h4>
 			<li><a href="#sectionT">Condom Terms</a></li>
@@ -36,7 +36,7 @@
 			<li><a href="#section5">Facts and Myths</a></li>
 			<li><a href="#section6">History of Condoms</a></li>
 			<li><a href="#section7">Types of Condoms</a></li>
-			<li><a href="#section8">Where to get ‘em</a></li>
+			<li><a href="#section8">Where to get‘em</a></li>
 
 		</h4>
 		<li class="back-top"><a href="#sectionT" style="font-size: 15px">back to top <i class="icon-double-angle-up" style="font-size: 16px; color: red"> </i></a></li>
@@ -54,13 +54,13 @@
 	<div id="sectionT" class="tpad">
 	
     	<div class="row">
-			<div class="nine columns offset-by-one">
+			<div class="nine columns">
 			<h1>CONDOM. Whatever you call it ... <i>Wear one!</i></h1>
 			</div>
 		</div>
 		
 		<div class="row">
-			<div class="ten columns offset-by-one" style="background-color: #fff">
+			<div class="ten columns" style="background-color: #fff">
 				
 				<object width="800" height="796" type="application/x-shockwave-flash" data="http://cdn.tagul.com/cloud.swf">
 					<param name="movie" value="http://cdn.tagul.com/cloud.swf"/>
@@ -81,9 +81,9 @@
 	</div>	
 
 	<!-- SECTION 3  --> 
-	<div id="section3" class="section3 tpad">
-		<div class="row">
-			<div class="ten columns offset-by-one">
+		<div class="section" id="section3">
+			<div class="row">
+				<div class="ten columns">
 			<h2>Contraceptives</h2>
 			<p>Condoms are great! Not only can they prevent pregnancy but they can also prevent
 			STIs. When used perfectly, condoms have a 98% or 99% effectiveness rate. But
@@ -201,7 +201,7 @@ comes out of the penis before orgasm) can still cause pregnancy. Also, if you sp
 <!-- SECTION 4 --> 
 	<div class="section" id="section4">
 		<div class="row">
-			<div class="ten columns offset-by-one">
+			<div class="ten columns">
 
 			<h2>How to Use Condoms</h2>
 			<p class="p1">Male Condom</p>
@@ -263,7 +263,7 @@ comes out of the penis before orgasm) can still cause pregnancy. Also, if you sp
 <!-- SECTION 5  --> 
 	<div class="section" id="section5">
 		<div class="row">
-			<div class="ten columns offset-by-one">			
+			<div class="ten columns">			
 			<h2>Facts and Myths</h2>
 			<p class="p1"><strong></strong><strong><em>Bust these myths before you bust a nut&hellip;.&nbsp;</em></strong>&nbsp;</p>
 			<p class="p3"><em>Condoms are the guy&rsquo;s responsibility a.k.a. carrying condoms makes you a slut.</em></p>
@@ -447,7 +447,7 @@ condom brands like Lifestyles, Durex and Trojan have smaller and larger sizes av
 	<!-- SECTION 6  --> 
 	<div class="section" id="section6">
 		<div class="row">
-			<div class="ten columns offset-by-one">
+			<div class="ten columns">
 			<h2>History of Condoms</h2>
 			<p class="p1"><span class="s1"><strong>History of Condoms</strong></span><strong>:</strong>&nbsp;</p>
 			<p class="p3"><a href="http://www.youtube.com/watch?v=VfDyD4avQAE" target="_blank">Watch condom commercials from around the world</a>&nbsp;</p>
@@ -518,7 +518,7 @@ condom brands like Lifestyles, Durex and Trojan have smaller and larger sizes av
 	<!-- SECTION 7  --> 
 	<div class="section" id="section7">
 		<div class="row">
-			<div class="ten columns offset-by-one">
+			<div class="ten columns">
 
 			<h2>Types of Condoms</h2>
 			<p class="p1"><strong>Male Condoms - </strong>These are the types of condoms that go onto the penis. You can also use condoms on dildos or other sex toys to keep them clean. There are many brands, styles and types of male condoms.&nbsp; Latex condoms are the most well-known. However there are also lambskin and polyurethane (plastic) condoms. These are good if you are allergic to latex. Some say lambskin condoms feel more natural. Some say that lambskin condoms have larger pores which allow HIV and other STIs to be transmitted however no clinical data exists about this. If you feel too worried, both latex and polyurethane condoms have been proven to protect you against HIV and STIs. Condoms can come in many different colors, flavored, with or without lubricant and have different sizes and textures. Flavored condoms are usually just recommended for oral sex because sometimes the flavorings can irritate your skin, especially the vagina.&nbsp; Brands include Trojan, Lifestyles, Durex, Crown,&nbsp;and Kimono. It is important to remember that some STIs such as genital warts and herpes only need skin-to-skin contact to be transmitted. Sometimes a condom can&rsquo;t cover anything so be sure you and your partner are communicating with each other and getting tested!</p>
@@ -577,7 +577,7 @@ condom brands like Lifestyles, Durex and Trojan have smaller and larger sizes av
 	<!-- SECTION 8  --> 
 	<div class="section" id="section8">
 		<div class="row">
-			<div class="ten columns offset-by-one">
+			<div class="ten columns">
 
 			<h2>Where to get &lsquo;em</h2>
 			<p class="p3">Condoms are everywhere.&nbsp; Clinics, gas stations, convenience stores, drugstores, grocery stores, even online and sometimes in bathrooms in those little vending machines. Family planning clinics often give condoms out for free. You don&rsquo;t have to be a certain age to buy condoms. Do a little research beforehand so you feel confident in what you plan to buy.&nbsp; You can look online at the brands the store carries, or call them and ask.&nbsp; Then just think of it like buying a pack of gum or a toothbrush&hellip;. No big deal. <strong>Deciding if you&rsquo;re ready to have sex and who with is the tough part&hellip; buying the condoms is not! </strong>Condoms and other personal care items might be locked in a case, but oftentimes, you can push a button in the aisle and a clerk will come to you. It might seem kind of awkward, but no one should make you feel embarrassed or judged. People buy condoms every day, so you are not out of the ordinary. Buying condoms shows you are taking responsibility for your choices and your sexual health.</p>

@@ -114,33 +114,19 @@ window.onscroll = setTimeout("placeIt('layer3')",500);
 <!-- TOP MENU -->
 <?php include("includes/menu.php"); ?>
 
-<div class="row">
-  
-  <div class="eleven columns">
-  </div>
 
-  <div class="three columns">
-    <ul class="nav open hide-for-small tpad" style="position: fixed; padding-left: 25px">
-   
-    </ul>   
-  </div>
-  
-  <div class="one column">
-  </div>
-  
-</div>
 
 <div id="sectionT" class="tpad">
   
   <div class="row">
-    <div class="nine columns offset-by-one">
+    <div class="nine columns">
       <h1>Teen Pregnancy Posters Available for Download</h1>
     </div>
   </div>
   
 <!-- Social Media Popup -->
 <div class="row">
-  <div class="ten columns offset-by-one">
+  <div class="fifteen columns white-back">
     <p>Bring the “Unexpected” campaign to your community and start a conversation about abstinence, condom use, and preventing pregnancy and STIs. All we ask is that you give us a little shout out and share some love for healthy adolescents, this site, and our partners at Serve Marketing, who created the pregnant boy images. When you click on the download button, a simple menu option makes it easy to Tweet or post a message on your Facebook page. Free access to awesome health resources for teens? Now that’s unexpected!</p>
     <div class="five columns">
       <img src="images/poster-1.png">
@@ -269,9 +255,16 @@ window.onscroll = setTimeout("placeIt('layer3')",500);
 
     
   </div>
+</div>  
+
 </div>
 
+  <?php include("includes/footer.php"); ?>
+
+
 <!-- End Social -->
+
+
 
 </body>
 </html>

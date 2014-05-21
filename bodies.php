@@ -63,10 +63,14 @@ $( document ).ready(function() {
 			<li><a href="#section9" data-selector="menu1">Sex and Religion</a></li>
 			<li><a href="#section10" data-selector="menu1">Sex and The Law</a></li>
 			</span>
-			 </h4><h4 style="margin-bottom: 0px; margin-top: 0px"><li><a href="#section11" data-selector='menu2'>Relationships</a></li></h4>
+			 </h4>
+			 
+			 <h4 style="margin-bottom: 0px; margin-top: 0px"><li><a href="love_the_glove.php">Safer Sex</a></li></h4>
+			 
+			 <h4 style="margin-bottom: 0px; margin-top: 0px"><li><a href="#section11" data-selector='menu2'>Relationships</a></li></h4>
     		
     		<span class="left-indent hidden" id='menu2'>
-			<li><a href="#section11" data-selector='menu2'Be You. Be Happy</a></li>
+			<li><a href="#section11" data-selector='menu2'>Be You. Be Happy</a></li>
 			<li><a href="#section12" data-selector='menu2'>Be You and Single</a></li>
 			<li><a href="#section13" data-selector='menu2'>Coming Out</a></li>
 			<li><a href="#section20" data-selector='menu2'>Trans Health</a></li>

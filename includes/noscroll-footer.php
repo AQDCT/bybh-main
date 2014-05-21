@@ -14,8 +14,10 @@ USE WITH NON-SCROLLING PAGES -->
 			
 			<div class="eleven mobile-four columns">
 				<ul class="right">
-					<img class="hide-for-small" src="<?=$root;?>/images/healthy_chicago_logo.png" align="right"/>
+					<img class="hide-for-small" src="images/healthy_chicago_logo.png" align="right">
 					<a href="parents_teachers.php">Adults Who Care</a>&nbsp;&nbsp;&nbsp;
+					<a href="posters.php">Download Posters</a>&nbsp;&nbsp;&nbsp;
+									
 					<a href="clinic_finder.php">Clinic Finder</a>&nbsp;&nbsp;&nbsp;
 					<a href="about.php">About</a>&nbsp;&nbsp;&nbsp;
 					<a href="contact.php">Contact</a>&nbsp;&nbsp;&nbsp;
@@ -30,22 +32,9 @@ USE WITH NON-SCROLLING PAGES -->
 </div>   
 
 
-  <script src="/CDC/web/bybh/javascripts/jquery.foundation.mediaQueryToggle.js"></script>
-  <script src="/CDC/web/bybh/javascripts/jquery.foundation.orbit.js"></script>
-  <script src="/CDC/web/bybh/javascripts/jquery.foundation.accordion.js"></script>
-  <script src="/CDC/web/bybh/javascripts/foundation.min.js"></script>
-  <script type="text/javascript" src="/CDC/web/bybh/stylesheets/jquery.easing.1.3.js"></script>
+  <script src="/javascripts/jquery.foundation.mediaQueryToggle.js"></script>
+  <script src="/javascripts/jquery.foundation.orbit.js"></script>
+  <script src="/javascripts/jquery.foundation.accordion.js"></script>
+  <script src="/javascripts/foundation.min.js"></script>
 
- <script type="text/javascript">
-            $(function() {
-                $('ul.nav a').bind('click',function(event){
-                    var $anchor = $(this);
-                    $('html, body').stop().animate({
-                        scrollTop: $($anchor.attr('href')).offset().top
-                    }, 1500,'easeInOutExpo');
-                   
-                    event.preventDefault();
-                });
-            });
-        </script>
 

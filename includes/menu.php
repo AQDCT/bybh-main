@@ -3,7 +3,7 @@
 		<nav class="top-bar">
 			  			  <ul>
 					<!-- Title Area -->
-					<li><a href="<?=$root;?>/index.php"><img class="hide-for-medium-down" src="<?=$root;?>/images/BeYouBeHealthy_logo_300.png" alt="Be You Be Healthy Logo"><img class="show-for-medium-down" src="<?=$root;?>/images/BeYouBeHealthy_logo.png" alt="Be You Be Healthy Logo"></a></li>
+					<li><a href="index.php"><img class="hide-for-medium-down" src="images/BeYouBeHealthy_logo_300.png" alt="Be You Be Healthy Logo"><img class="show-for-medium-down" src="images/BeYouBeHealthy_logo.png" alt="Be You Be Healthy Logo"></a></li>
 					<li class="toggle-topbar"><a href="#"></a></li>
 			  </ul> 
 
@@ -11,9 +11,9 @@
 			<!-- Right Nav Section -->
 				<ul class="right">
 		
-					<li><a href="<?=$root;?>/bodies.php">Sex &amp; Relationships</a></li>
-					<li><a href="<?=$root;?>/health-matters.php">Health Matters</a></li>
-					<li><a href="<?=$root;?>/teen_health_rights.php">Teen Rights</a></li>
+					<li><a href="bodies.php">Sex &amp; Relationships</a></li>
+					<li><a href="health-matters.php">Health Matters</a></li>
+					<li><a href="teen_health_rights.php">Teen Rights</a></li>
 					<li><a href="http://beyoumedia.org" target="_blank">BeYou Media</a></li>
 					<li><a href="http://data.beyoubehealthy.org">Data &amp; Research</a></li>
 	 
